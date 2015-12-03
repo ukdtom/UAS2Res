@@ -1,4 +1,3 @@
-        "hidden"          :     "True",
 [
     {
         "title"           :     "AniDB.net Metadata Agent",
@@ -8,10 +7,7 @@
         "repo"            :     "https://github.com/bstard/AniDB.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.anidb",
-        "icon"            :     "anidb-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "February 19, 2012",
-        "tracking url"    :     "http://bit.ly/Ua3xLR"
+        "icon"            :     "anidb-icon.png"
     },
     {
         "title"           :     "AnimeHD",
@@ -21,10 +17,7 @@
         "repo"            :     "https://github.com/NexPB/AnimeHD.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.animehd",
-        "icon"            :     "animehd-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "July 20, 2014",
-        "tracking url"    :     "http://bit.ly/1mxiTCe"
+        "icon"            :     "animehd-icon.png"
     },
     {
         "title"           :     "ATV MediaThek(AT)",
@@ -34,10 +27,7 @@
         "repo"            :     "https://github.com/meriko/ATVMediaThek.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.atv",
-        "icon"            :     "atvmediathek-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 1, 2014",
-        "tracking url"    :     "http://bit.ly/1iIq7T0"
+        "icon"            :     "atvmediathek-icon.png"
     },
     {
         "title"           :     "Bay FM 99.9FM",
@@ -47,10 +37,7 @@
         "repo"            :     "https://github.com/jab-au/BayFM999.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.BayFM999",
-        "icon"            :     "bayfm999-icon.jpg",
-        "hidden"          :     "False",
-        "date added"      :     "October 25, 2013",
-        "tracking url"    :     "http://bit.ly/1eVKuvA"
+        "icon"            :     "bayfm999-icon.jpg"
     },
     {
         "title"           :     "beeg.com",
@@ -60,10 +47,7 @@
         "repo"            :     "https://github.com/piplongrun/beeg.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.beeg",
-        "icon"            :     "beeg-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 22, 2011",
-        "tracking url"    :     "http://bit.ly/RzwyNZ"
+        "icon"            :     "beeg-icon.png"
     },
     {
         "title"           :     "Big 12 Sports",
@@ -73,10 +57,7 @@
         "repo"            :     "https://github.com/datvance/Big12Sports.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.big12sports",
-        "icon"            :     "big12sports-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "February 3, 2014",
-        "tracking url"    :     "http://bit.ly/1eFWqEL"
+        "icon"            :     "big12sports-icon.png"
     },
     {
         "title"           :     "BitTorrent",
@@ -86,10 +67,7 @@
         "repo"            :     "https://github.com/sharkone/BitTorrent.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.bittorrent",
-        "icon"            :     "bittorrent-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 15, 2014",
-        "tracking url"    :     "http://bit.ly/1qGQ7Vg"
+        "icon"            :     "bittorrent-icon.png"
     },
     {
         "title"           :     "BringThePopcorn",
@@ -100,9 +78,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.bringthepopcorn",
         "icon"            :     "bringthepopcorn-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "December 18, 2013",
-        "tracking url"    :     "http://bit.ly/1dRo0ut"
+        "hidden"          :     "False"
     },
     {
         "title"           :     "Channel9 (AU)",
@@ -112,10 +88,7 @@
         "repo"            :     "https://github.com/adamrumbold/Channel9.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.channel9",
-        "icon"            :     "nine.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 5, 2013",
-        "tracking url"    :     "http://bit.ly/16ajXZT"
+        "icon"            :     "nine.png"
     },
     {
         "title"           :     "Channel10 (AU)",
@@ -125,10 +98,7 @@
         "repo"            :     "https://github.com/adamrumbold/Channel10.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.channel10",
-        "icon"            :     "ten.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 5, 2013",
-        "tracking url"    :     "http://bit.ly/YxSYFa"
+        "icon"            :     "ten.png"
     },
     {
         "title"           :     "Christian Science",
@@ -138,10 +108,7 @@
         "repo"            :     "https://github.com/datvance/ChristianScience.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.christianscience",
-        "icon"            :     "christianscience-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "February 3, 2014",
-        "tracking url"    :     "http://bit.ly/1lQMPim"
+        "icon"            :     "christianscience-icon.png"
     },
     {
         "title"           :     "ClickPlay",
@@ -151,10 +118,7 @@
         "repo"            :     "https://github.com/piplongrun/ClickPlay.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.clickplay",
-        "icon"            :     "clickplay-icon.jpg",
-        "hidden"          :     "False",
-        "date added"      :     "February 20, 2014",
-        "tracking url"    :     "http://bit.ly/1cbMQDP"
+        "icon"            :     "clickplay-icon.jpg"
     },
     {
         "title"           :     "CMT Shows",
@@ -164,10 +128,7 @@
         "repo"            :     "https://github.com/shopgirl284/CMT.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.cmt",
-        "icon"            :     "cmt-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 04, 2013",
-        "tracking url"    :     "http://bit.ly/1hNRuPT"
+        "icon"            :     "cmt-icon.png"
     },
     {
         "title"           :     "CouchPotato",
@@ -177,10 +138,7 @@
         "repo"            :     "https://github.com/mikedm139/CouchPotato.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.couchpotato",
-        "icon"            :     "couchpotato-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 9, 2011",
-        "tracking url"    :     "http://bit.ly/TsnkiY"
+        "icon"            :     "couchpotato-icon.png"
     },
     {
         "title"           :     "Crunchyroll",
@@ -190,10 +148,7 @@
         "repo"            :     "https://github.com/MattRK/Crunchyroll.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.crunchyroll",
-        "icon"            :     "crunchyroll.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 14, 2013",
-        "tracking url"    :     "http://bit.ly/14UJOAj"
+        "icon"            :     "crunchyroll.png"
     },
     {
         "title"           :     "Dabdate",
@@ -203,10 +158,7 @@
         "repo"            :     "https://github.com/hojel/Dabdate.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.dabdate",
-        "icon"            :     "dabdate-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 23, 2014",
-        "tracking url"    :     "http://bit.ly/1kuBn4R"
+        "icon"            :     "dabdate-icon.png"
     },
     {
         "title"           :     "Data18 Metadata Agent",
@@ -216,10 +168,7 @@
         "repo"            :     "https://github.com/chidychi/Data18.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.data18",
-        "icon"            :     "data18-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 24, 2013",
-        "tracking url"    :     "http://bit.ly/126u7U3"
+        "icon"            :     "data18-icon.png"
     },
     {
         "title"           :     "Data18-Content Metadata Agent",
@@ -229,10 +178,7 @@
         "repo"            :     "https://github.com/chidychi/Data18-Content.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.data18-content",
-        "icon"            :     "data18-content-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 24, 2013",
-        "tracking url"    :     "http://bit.ly/1czMc2G"
+        "icon"            :     "data18-content-icon.png"
     },
 		{
         "title"           :     "DevTools",
@@ -242,10 +188,7 @@
         "repo"            :     "https://github.com/ukdtom/DevTools.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.DevTools",
-        "icon"            :     "DevTools.png",
-        "hidden"          :     "False",
-        "date added"      :     "Sep 21, 2014",
-        "tracking url"    :     ""
+        "icon"            :     "DevTools.png"
     },
     {
         "title"           :     "DevTools",
@@ -255,10 +198,7 @@
         "repo"            :     "https://github.com/ukdtom/DevTools.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.DevTools",
-        "icon"            :     "DevTools.png",
-        "hidden"          :     "False",
-        "date added"      :     "Sep 21, 2014",
-        "tracking url"    :     "http://bit.ly/1rlcQZx"
+        "icon"            :     "DevTools.png"
     },
     {
         "title"           :     "Discovery Networks",
@@ -268,10 +208,7 @@
         "repo"            :     "https://github.com/meriko/Discovery.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.discovery",
-        "icon"            :     "icon-discovery.png",
-        "hidden"          :     "False",
-        "date added"      :     "Sep 14, 2013",
-        "tracking url"    :     "http://bit.ly/1412CAz"
+        "icon"            :     "icon-discovery.png"
     },
     {
         "title"           :     "Dropbox",
@@ -281,10 +218,7 @@
         "repo"            :     "https://github.com/realriot/Dropbox.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.dropbox",
-        "icon"            :     "dropbox-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "February 28, 2014",
-        "tracking url"    :     "http://bit.ly/1k0mYjX"
+        "icon"            :     "dropbox-icon.png"
     },
     {
         "title"           :     "eporner",
@@ -294,10 +228,7 @@
         "repo"            :     "https://github.com/flownex/eporner.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.eporner",
-        "icon"            :     "eporner-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 7, 2011",
-        "tracking url"    :     "http://bit.ly/TsniaA"
+        "icon"            :     "eporner-icon.png"
     },
     {
         "title"           :     "ExcaliburFilms Metadata Agent",
@@ -307,10 +238,7 @@
         "repo"            :     "https://github.com/vofik/ExcaliburFilms.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.excaliburfilms",
-        "icon"            :     "excaliburfilms-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "January 1, 2012",
-        "tracking url"    :     "http://bit.ly/Tsnkzs"
+        "icon"            :     "excaliburfilms-icon.png"
     },
     {
         "title"           :     "Facebook",
@@ -320,10 +248,7 @@
         "repo"            :     "https://github.com/DCstewieG/Facebook.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.facebook",
-        "icon"            :     "facebook-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 19, 2011",
-        "tracking url"    :     "http://bit.ly/Vqol1E"
+        "icon"            :     "facebook-icon.png"
     },
     {
         "title"           :     "FilmOn",
@@ -333,10 +258,7 @@
         "repo"            :     "https://github.com/meriko/FilmOn.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.filmon",
-        "icon"            :     "filmon-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 08, 2014",
-        "tracking url"    :     "http://bit.ly/1h1rBrl"
+        "icon"            :     "filmon-icon.png"
     },
     {
         "title"           :     "FindUnmatched",
@@ -346,10 +268,7 @@
         "repo"            :     "https://github.com/ukdtom/Plex-FindUnmatched.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.findUnmatch",
-        "icon"            :     "icon-FindUnmatched.png",
-        "hidden"          :     "False",
-        "date added"      :     "December 9, 2013",
-        "tracking url"    :     "http://bit.ly/1jX0CAs"
+        "icon"            :     "icon-FindUnmatched.png"
     },
     {
         "title"           :     "FindMissing",
@@ -359,10 +278,7 @@
         "repo"            :     "https://github.com/srazer/FindMissing.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.findMissing",
-        "icon"            :     "icon-FindMissing.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 23, 2014",
-        "tracking url"    :     "http://bit.ly/1gfgzBx"
+        "icon"            :     "icon-FindMissing.png"
     },
     {
         "title"           :     "Footy Report",
@@ -372,10 +288,7 @@
         "repo"            :     "https://github.com/papalozarou/FootyReport.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.footyreport",
-        "icon"            :     "footyreport-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 5, 2014",
-        "tracking url"    :     "http://bit.ly/1pB7SRA"
+        "icon"            :     "footyreport-icon.png"
     },
     {
         "title"           :     "Full Movies on Reddit",
@@ -385,10 +298,7 @@
         "repo"            :     "https://github.com/jwdempsey/FullMoviesOnReddit.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.fullmoviesonreddit",
-        "icon"            :     "fullmoviesonreddit-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 26, 2013",
-        "tracking url"    :     "http://bit.ly/Ihs2T5"
+        "icon"            :     "fullmoviesonreddit-icon.png"
     },
     {
         "title"           :     "G2G.fm",
@@ -398,10 +308,7 @@
         "repo"            :     "https://github.com/TehCrucible/G2Gfm.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.g2gfm",
-        "icon"            :     "g2gfm-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 12, 2014",
-        "tracking url"    :     "http://bit.ly/UBPP6T"
+        "icon"            :     "g2gfm-icon.png"
     },
     {
         "title"           :     "Game One",
@@ -411,10 +318,7 @@
         "repo"            :     "https://github.com/derrod/GameOne.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.gameone",
-        "icon"            :     "gameone-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "August 14, 2014",
-        "tracking url"    :     "http://bit.ly/1uFt00X"
+        "icon"            :     "gameone-icon.png"
     },
     {
         "title"           :     "Google Music",
@@ -424,10 +328,7 @@
         "repo"            :     "https://github.com/jwdempsey/GoogleMusic.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.googlemusic",
-        "icon"            :     "googlemusic-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 31, 2014",
-        "tracking url"    :     "http://bit.ly/1kXldpj"
+        "icon"            :     "googlemusic-icon.png"
     },
     {
         "title"           :     "Grooveshark",
@@ -437,10 +338,7 @@
         "repo"            :     "https://github.com/jwdempsey/Grooveshark.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.grooveshark",
-        "icon"            :     "grooveshark-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 15, 2014",
-        "tracking url"    :     "http://bit.ly/1gSVzgy"
+        "icon"            :     "grooveshark-icon.png"
     },
     {
         "title"           :     "HDBits Subtitles",
@@ -450,10 +348,7 @@
         "repo"            :     "https://github.com/Coi-l/HdbitsSubtitles.bundle.git",
         "identifier"      :     "com.plexapp.agents.hdbits",
         "branch"          :     "master",
-        "icon"            :     "hdbits-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 21, 2011",
-        "tracking url"    :     "http://bit.ly/R5pW8F"
+        "icon"            :     "hdbits-icon.png"
     },
     {
         "title"           :     "HDSerials",
@@ -463,10 +358,7 @@
         "repo"            :     "https://github.com/kolsys/HDSerials.bundle",
         "identifier"      :     "com.plexapp.plugins.hdserials",
         "branch"          :     "master",
-        "icon"            :     "hdserials-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "October 12, 2014",
-        "tracking url"    :     "http://bit.ly/1tmkxAh"
+        "icon"            :     "hdserials-icon.png"
     },
     {
         "title"           :     "HD Streaming",
@@ -476,10 +368,7 @@
         "repo"            :     "https://github.com/papalozarou/HDStreaming.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.hdstreaming",
-        "icon"            :     "hdstreaming-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 5, 2014",
-        "tracking url"    :     "http://bit.ly/1tdyfAS"
+        "icon"            :     "hdstreaming-icon.png"
     },
     {
         "title"           :     "Hitbox.tv",
@@ -490,10 +379,7 @@
         "repo"            :     "https://github.com/r15ch13/Hitbox.tv.bundle.git",
         "identifier"      :     "com.plexapp.plugins.hitboxtv",
         "branch"          :     "master",
-        "icon"            :     "hitboxtv-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "July 25, 2014",
-        "tracking url"    :     "http://bit.ly/XaOPrB"
+        "icon"            :     "hitboxtv-icon.png"
     },
     {
         "title"           :     "IceFilms",
@@ -503,10 +389,7 @@
         "repo"            :     "https://github.com/ReallyFuzzy/IceFilms.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.icefilms",
-        "icon"            :     "icefilms-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "October 2, 2011",
-        "tracking url"    :     "http://bit.ly/TrGvvg"
+        "icon"            :     "icefilms-icon.png"
     },
     {
         "title"           :     "IMDb HD Trailers",
@@ -516,10 +399,7 @@
         "repo"            :     "https://github.com/mikedm139/IMDb-Trailers.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.imdbtrailers",
-        "icon"            :     "IMDb-Trailers-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 20, 2013",
-        "tracking url"    :     "http://bit.ly/11vtl2P"
+        "icon"            :     "IMDb-Trailers-icon.png"
     },
     {
         "title"           :     "Internet Archive",
@@ -529,10 +409,7 @@
         "repo"            :     "https://github.com/meriko/InternetArchive.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.internetarchive",
-        "icon"            :     "internetarchive-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 08, 2014",
-        "tracking url"    :     "http://bit.ly/1lgi6Hv"
+        "icon"            :     "internetarchive-icon.png"
     },
     {
         "title"           :     "IPTV",
@@ -542,10 +419,7 @@
         "repo"            :     "https://github.com/Cigaras/IPTV.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.iptv",
-        "icon"            :     "iptv-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "December 30, 2013",
-        "tracking url"    :     "http://bit.ly/1cImRXU"
+        "icon"            :     "iptv-icon.png"
     },
     {
         "title"           :     "iSho.ws",
@@ -555,10 +429,7 @@
         "repo"            :     "https://github.com/piplongrun/iSho-ws.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.ishows",
-        "icon"            :     "isho-ws-icon.jpg",
-        "hidden"          :     "False",
-        "date added"      :     "February 20, 2014",
-        "tracking url"    :     "http://bit.ly/1cbMWvc"
+        "icon"            :     "isho-ws-icon.jpg"
     },
     {
         "title"           :     "ITV Player (UK)",
@@ -568,10 +439,7 @@
         "repo"            :     "https://github.com/ReallyFuzzy/ITV-Player.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.itvplayer",
-        "icon"            :     "ITV-Player-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "August 1, 2013",
-        "tracking url"    :     "http://bit.ly/1azBESj"
+        "icon"            :     "ITV-Player-icon.png"
     },
     {
         "title"           :     "Kink.com Metadata Agent",
@@ -581,10 +449,7 @@
         "repo"            :     "https://github.com/vofik/Kink.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.kink",
-        "icon"            :     "kink-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "January 1, 2012",
-        "tracking url"    :     "http://bit.ly/VLFtdu"
+        "icon"            :     "kink-icon.png"
     },
     {
         "title"           :     "Legendas.tv Subtitles Agent",
@@ -594,10 +459,7 @@
         "repo"            :     "https://github.com/BrutuZ/LegendasTV.bundle.git",
         "identifier"      :     "com.plexapp.agents.legendastv",
         "branch"          :     "master",
-        "icon"            :     "legendastv-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "December 21, 2014",
-        "tracking url"    :     "http://bit.ly/1wAm54F"
+        "icon"            :     "legendastv-icon.png"
     },
     {
         "title"           :     "Let Me Watch This",
@@ -607,10 +469,7 @@
         "repo"            :     "https://github.com/ReallyFuzzy/LetMeWatchThis.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.letmewatchthis",
-        "icon"            :     "lmwt-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "January 22, 2012",
-        "tracking url"    :     "http://bit.ly/SqvbPi"
+        "icon"            :     "lmwt-icon.png"
     },
     {
         "title"           :     "Library Updater",
@@ -620,10 +479,7 @@
         "repo"            :     "https://github.com/mikedm139/LibraryUpdater.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.libraryupdater",
-        "icon"            :     "libupdate-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 9, 2011",
-        "tracking url"    :     "http://bit.ly/1lFSWox"
+        "icon"            :     "libupdate-icon.png"
     },
     {
         "title"           :     "Link TV",
@@ -633,10 +489,7 @@
         "repo"            :     "https://github.com/meriko/LinkTV.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.linktv",
-        "icon"            :     "linktv-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 08, 2014",
-        "tracking url"    :     "http://bit.ly/1fbFhSx"
+        "icon"            :     "linktv-icon.png"
     },
     {
         "title"           :     "LiveLeak",
@@ -646,10 +499,7 @@
         "repo"            :     "https://github.com/meriko/LiveLeak.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.liveleak",
-        "icon"            :     "liveleak-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 08, 2014",
-        "tracking url"    :     "http://bit.ly/1h1qOX6"
+        "icon"            :     "liveleak-icon.png"
     },
     {
         "title"           :     "Logo TV",
@@ -659,10 +509,7 @@
         "repo"            :     "https://github.com/shopgirl284/LogoTV.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.logotv",
-        "icon"            :     "logotv-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 04, 2013",
-        "tracking url"    :     "http://bit.ly/19tdh5o"
+        "icon"            :     "logotv-icon.png"
     },
     {
         "title"           :     "Mangafox",
@@ -672,10 +519,7 @@
         "repo"            :     "https://github.com/hojel/Mangafox.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.mangafox",
-        "icon"            :     "mangafox-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 23, 2014",
-        "tracking url"    :     "http://bit.ly/RQz3yi"
+        "icon"            :     "mangafox-icon.png"
     },
     {
         "title"           :     "MediaPortal",
@@ -685,10 +529,7 @@
         "repo"            :     "https://github.com/jwdempsey/MediaPortal.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.mediaportal",
-        "icon"            :     "mediaportal-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 26, 2013",
-        "tracking url"    :     "http://bit.ly/196neq5"
+        "icon"            :     "mediaportal-icon.png"
     },
     {
         "title"           :     "Movie2k",
@@ -698,10 +539,7 @@
         "repo"            :     "https://github.com/Joecowboy/MOVIE2K.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.movie2k",
-        "icon"            :     "movie2k-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "August 4, 2013",
-        "tracking url"    :     "http://bit.ly/13IkZGU"
+        "icon"            :     "movie2k-icon.png"
     },
     {
         "title"           :     "MTV Shows",
@@ -711,10 +549,7 @@
         "repo"            :     "https://github.com/shopgirl284/MTVShows.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.mtvshows",
-        "icon"            :     "mtvshows-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 04, 2013",
-        "tracking url"    :     "http://bit.ly/I6PmCs"
+        "icon"            :     "mtvshows-icon.png"
     },
     {
         "title"           :     "NBCSports",
@@ -724,10 +559,7 @@
         "repo"            :     "https://github.com/datvance/NBCSports.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.nbcsports",
-        "icon"            :     "nbcsports-icon.jpg",
-        "hidden"          :     "False",
-        "date added"      :     "December 01, 2013",
-        "tracking url"    :     "http://bit.ly/1bBXhoq"
+        "icon"            :     "nbcsports-icon.jpg"
     },
     {
         "title"           :     "Newzworthy",
@@ -737,10 +569,7 @@
         "repo"            :     "https://github.com/plexinc-plugins/Newsworthy.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.newzworthy",
-        "icon"            :     "newzworthy-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 11, 2011",
-        "tracking url"    :     "http://bit.ly/YEYUIc"
+        "icon"            :     "newzworthy-icon.png"
     },
     {
         "title"           :     "NHL",
@@ -750,10 +579,7 @@
         "repo"            :     "https://github.com/mikedm139/NHL.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.nhl",
-        "icon"            :     "nhl-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 27, 2013",
-        "tracking url"    :     "http://bit.ly/18ap0bt"
+        "icon"            :     "nhl-icon.png"
     },
     {
         "title"           :     "nick reboot",
@@ -763,10 +589,7 @@
         "repo"            :     "https://github.com/nickreboot/nickreboot.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.nickreboot",
-        "icon"            :     "nickreboot-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 24, 2014",
-        "tracking url"    :     "http://bit.ly/1t4SMWW"
+        "icon"            :     "nickreboot-icon.png"
     },
     {
         "title"           :     "Old Movie Time",
@@ -776,10 +599,7 @@
         "repo"            :     "https://github.com/meriko/OldMovieTime.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.oldmovietime",
-        "icon"            :     "oldmovietime-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 26, 2014",
-        "tracking url"    :     "http://bit.ly/1h67Hte"
+        "icon"            :     "oldmovietime-icon.png"
     },
     {
         "title"           :     "Open Movie Database",
@@ -789,10 +609,7 @@
         "repo"            :     "https://github.com/haeY/OpenMovieDatabase.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
-        "icon"            :     "uimdbama-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 21, 2012",
-        "tracking url"    :     "http://bit.ly/Tx1Ntt"
+        "icon"            :     "uimdbama-icon.png"
     },
     {
         "title"           :     "ORF TVThek(AT)",
@@ -802,10 +619,7 @@
         "repo"            :     "https://github.com/meriko/ORFTVThek.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.orftvthek",
-        "icon"            :     "orftvthek-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 1, 2014",
-        "tracking url"    :     "http://bit.ly/RTzhor"
+        "icon"            :     "orftvthek-icon.png"
     },
     {
         "title"           :     "Phimvang",
@@ -815,10 +629,7 @@
         "repo"            :     "https://github.com/traitravinh/Phimvang.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.phimvang",
-        "icon"            :     "phimvang-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 2, 2014",
-        "tracking url"    :     "http://bit.ly/1uOlr8W"
+        "icon"            :     "phimvang-icon.png"
     },
     {
         "title"           :     "Plex2CSV",
@@ -828,10 +639,7 @@
         "repo"            :     "https://github.com/ukdtom/plex2csv.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.Plex2csv",
-        "icon"            :     "icon-Plex2csv.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 21, 2014",
-        "tracking url"    :     "http://bit.ly/1djEEI3"
+        "icon"            :     "icon-Plex2csv.png"
     },
     {
         "title"           :     "Plex Tools",
@@ -841,10 +649,7 @@
         "repo"            :     "https://github.com/jwdempsey/PlexTools.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.plextools",
-        "icon"            :     "plextools-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 26, 2013",
-        "tracking url"    :     "http://bit.ly/196niWR"
+        "icon"            :     "plextools-icon.png"
     },
     {
         "title"           :     "PLinkTV - Plex Link TV",
@@ -854,10 +659,7 @@
         "repo"            :     "https://github.com/realriot/PLinkTV.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.plinktv",
-        "icon"            :     "plinktv-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "February 21, 2014",
-        "tracking url"    :     "http://bit.ly/1fjYhiZ"
+        "icon"            :     "plinktv-icon.png"
     },
     {
         "title"           :     "Podnapisi Subtitles",
@@ -867,10 +669,7 @@
         "repo"            :     "https://github.com/Coi-l/PodnapisiSubtitles.bundle.git",
         "identifier"      :     "com.plexapp.agents.podnapisi",
         "branch"          :     "master",
-        "icon"            :     "podnapisi-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "January 31, 2014",
-        "tracking url"    :     "http://bit.ly/1a7oCyU"
+        "icon"            :     "podnapisi-icon.png"
     },
 	{
         "title"           :     "rawrANIME.tv",
@@ -880,10 +679,7 @@
         "repo"            :     "https://github.com/TehCrucible/rawrANIME.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.rawranime",
-        "icon"            :     "rawranime-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 21, 2014",
-        "tracking url"    :     "http://bit.ly/1jbDmkK"
+        "icon"            :     "rawranime-icon.png"
     },
     {
         "title"           :     "RedTube",
@@ -893,10 +689,7 @@
         "repo"            :     "https://github.com/flownex/RedTube.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.redtube",
-        "icon"            :     "redtube-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "February 28, 2012",
-        "tracking url"    :     "http://bit.ly/TrKkkc"
+        "icon"            :     "redtube-icon.png"
     },
     {
         "title"           :     "Rooster Teeth",
@@ -906,10 +699,7 @@
         "repo"            :     "https://github.com/meriko/RoosterTeeth.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.roosterteeth",
-        "icon"            :     "roosterteeth-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "March 08, 2014",
-        "tracking url"    :     "http://bit.ly/1nsCCpF"
+        "icon"            :     "roosterteeth-icon.png"
     },
     {
         "title"           :     "RSS Feeds",
@@ -919,10 +709,7 @@
         "repo"            :     "https://github.com/shopgirl284/RSSFeed.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.rssfeeds",
-        "icon"            :     "rss-feed-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 14, 2013",
-        "tracking url"    :     "http://bit.ly/14UMSfH"
+        "icon"            :     "rss-feed-icon.png"
     },
     {
         "title"           :     "SABnzbd+",
@@ -932,10 +719,7 @@
         "repo"            :     "https://github.com/mikedm139/SABnzbd.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sabnzbd",
-        "icon"            :     "sabnzbd-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 9, 2011",
-        "tracking url"    :     "http://bit.ly/VLIyKB"
+        "icon"            :     "sabnzbd-icon.png"
     },
     {
         "title"           :     "SBS (AU)",
@@ -945,10 +729,7 @@
         "repo"            :     "https://github.com/adamrumbold/SBS.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sbs",
-        "icon"            :     "sbs.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 5, 2013",
-        "tracking url"    :     "http://bit.ly/12Guohc"
+        "icon"            :     "sbs.png"
     },
     {
         "title"           :     "SickBeard",
@@ -958,10 +739,7 @@
         "repo"            :     "https://github.com/mikedm139/SickBeard.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sickbeard",
-        "icon"            :     "sickbeard-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 9, 2011",
-        "tracking url"    :     "http://bit.ly/UsZJzI"
+        "icon"            :     "sickbeard-icon.png"
     },
     {
         "title"           :     "SMI Convert",
@@ -971,10 +749,7 @@
         "repo"            :     "https://github.com/hojel/SmiConvert.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.smiconvert",
-        "icon"            :     "smiconvert-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "May 24, 2014",
-        "tracking url"    :     "http://bit.ly/T2b80c"
+        "icon"            :     "smiconvert-icon.png"
     },
     {
         "title"           :     "Soma FM",
@@ -984,10 +759,7 @@
         "repo"            :     "https://github.com/meriko/SomaFM.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.somafm",
-        "icon"            :     "somafm-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 1, 2014",
-        "tracking url"    :     "http://bit.ly/1n0kBiJ"
+        "icon"            :     "somafm-icon.png"
     },
     {
         "title"           :     "SportseBooks",
@@ -997,10 +769,7 @@
         "repo"            :     "https://github.com/papalozarou/SportseBooks.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sportsebooks",
-        "icon"            :     "sportsebooks-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "September 5, 2014",
-        "tracking url"    :     "http://bit.ly/1w1aS2d"
+        "icon"            :     "sportsebooks-icon.png"
     },
     {
         "title"           :     "Spotify2",
@@ -1010,10 +779,7 @@
         "repo"            :     "https://github.com/fuzeman/Spotify2.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.spotify2",
-        "icon"            :     "spotify2-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 19, 2014",
-        "tracking url"    :     "http://bit.ly/1i3A6kd"
+        "icon"            :     "spotify2-icon.png"
     },
     {
         "title"           :     "Srt2Utf-8",
@@ -1023,10 +789,7 @@
         "repo"            :     "https://github.com/ukdtom/SRT2UTF-8.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.srt2utf8",
-        "icon"            :     "srt2utf-8.png",
-        "hidden"          :     "False",
-        "date added"      :     "January 15, 2014",
-        "tracking url"    :     "http://bit.ly/1dLYgAY"
+        "icon"            :     "srt2utf-8.png"
     },
     {
         "title"           :     "SS Plex",
@@ -1036,10 +799,7 @@
         "repo"            :     "https://github.com/mikew/ss-plex.bundle.git",
         "branch"          :     "stable",
         "identifier"      :     "com.plexapp.plugins.wso",
-        "icon"            :     "ss-plex.png",
-        "hidden"          :     "False",
-        "date added"      :     "October 11, 2012",
-        "tracking url"    :     "http://bit.ly/UksVwo"
+        "icon"            :     "ss-plex.png"
     },
     {
         "title"           :     "Sveriges Radio Play (SE)",
@@ -1049,10 +809,7 @@
         "repo"            :     "https://github.com/meriko/SRPlay.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sverigesradioplay",
-        "icon"            :     "sverigesradioplay-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "August 10, 2014",
-        "tracking url"    :     "http://bit.ly/1sreEQT"
+        "icon"            :     "sverigesradioplay-icon.png"
     },
     {
         "title"           :     "TheMovieClips plugin",
@@ -1062,10 +819,7 @@
         "repo"            :     "https://github.com/razor2611/TheMovieClips.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.tmc",
-        "icon"            :     "tmc-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "August 22, 2014",
-        "tracking url"    :     "http://bit.ly/1sgqIkh"
+        "icon"            :     "tmc-icon.png"
     },
     {
         "title"           :     "Trakt.tv plugin",
@@ -1075,10 +829,7 @@
         "repo"            :     "https://github.com/trakt/Plex-Trakt-Scrobbler.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.trakttv",
-        "icon"            :     "trakttv-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 16, 2012",
-        "tracking url"    :     "http://bit.ly/18vC90y"
+        "icon"            :     "trakttv-icon.png"
     },
     {
         "title"           :     "TV-Headend NG",
@@ -1088,23 +839,7 @@
         "repo"            :     "https://github.com/realriot/tvheadend-ng.bundle",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.tvheadend-ng",
-        "icon"            :     "tvheadend-ng-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 29, 2014",
-        "tracking url"    :     "http://bit.ly/1i9VQ2E"
-    },
-    {
-        "title"           :     "UnSupported Appstore",
-        "bundle"          :     "UnSupportedAppstore.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Download, install, and update unsupported plugins for PMS",
-        "repo"            :     "https://github.com/mikedm139/UnSupportedAppstore.bundle.git",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.plugins.unsupportedappstore",
-        "icon"            :     "icon-default.png",
-        "hidden"          :     "False",
-        "date added"      :     "April 9, 2011",
-        "tracking url"    :     ""
+        "icon"            :     "tvheadend-ng-icon.png"
     },
     {
         "title"           :     "UPlay UPnP",
@@ -1114,10 +849,7 @@
         "repo"            :     "https://github.com/yanavery/UPlay.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.uplay",
-        "icon"            :     "uplay-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 29, 2014",
-        "tracking url"    :     "http://bit.ly/1w4yHa2"
+        "icon"            :     "uplay-icon.png"
     },
     {
         "title"           :     "UR Play(SE)",
@@ -1127,10 +859,7 @@
         "repo"            :     "https://github.com/meriko/URPlay.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.urplay",
-        "icon"            :     "urplay-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "June 1, 2014",
-        "tracking url"    :     "http://bit.ly/1nFxWAJ"
+        "icon"            :     "urplay-icon.png"
     },
     {
         "title"           :     "USTVnow",
@@ -1140,10 +869,7 @@
         "repo"            :     "https://github.com/jwdempsey/USTVnow.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.ustvnow",
-        "icon"            :     "ustvnow-icon.png",
-        "hidden"          :     "False",
-        "date added"      :     "November 26, 2013",
-        "tracking url"    :     "http://bit.ly/1c9977Z"
+        "icon"            :     "ustvnow-icon.png"
     },
     {
         "title"           :     "Viaplay",
@@ -1153,16 +879,8 @@
         "repo"            :     "https://github.com/JeppeTh/Viaplay.bundle.git",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.viaplay",
-        "icon"            :     "viaplay-icon.jpg",
-        "hidden"          :     "False",
-        "date added"      :     "March 22, 2014",
-        "tracking url"    :     "http://bit.ly/1jh2sP9"
+        "icon"            :     "viaplay-icon.jpg"
     },
-
-GED
-
-
-
     {
         "title"           :     "Vice",
         "bundle"          :     "Vice.bundle",
