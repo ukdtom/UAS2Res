@@ -10,16 +10,6 @@
         "icon"            :     "anidb-icon.png"
     },
     {
-        "title"           :     "AnimeHD",
-        "bundle"          :     "AnimeHD.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch subbed anime in HD and SD (provided by www.masterani.me)",
-        "repo"            :     "https://github.com/NexPB/AnimeHD.bundle",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.plugins.animehd",
-        "icon"            :     "animehd-icon.png"
-    },
-    {
         "title"           :     "ATV MediaThek(AT)",
         "bundle"          :     "ATVMediaThek.bundle",
         "type"            :     ["Video"],
