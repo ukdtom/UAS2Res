@@ -840,7 +840,7 @@
     {
         "title"           :     "Srt2Utf-8",
         "bundle"          :     "SRT2UTF-8.bundle",
-        "type"            :     ["Agent"],
+        "type"            :     ["Agent", "Subtitles"],
         "description"     :     "Plex Media Agent, that'll convert sidecar subtitle files into UTF-8, if not",
         "repo"            :     "https://github.com/ukdtom/SRT2UTF-8.bundle",
         "branch"          :     "master",
