@@ -882,17 +882,6 @@
 				"supporturl"			:			""
     },
     {
-        "title"           :     "Trakt.tv plugin",
-        "bundle"          :     "trakttv.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Automatically scrobble all TV episodes and movies you are watching to trakt.tv!",
-        "repo"            :     "https://github.com/trakt/Plex-Trakt-Scrobbler",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.plugins.trakttv",
-        "icon"            :     "trakttv-icon.png",
-				"supporturl"			:			""
-    },
-    {
         "title"           :     "TV-Headend NG",
         "bundle"          :     "tvheadend-ng.bundle",
         "type"            :     ["Video"],
