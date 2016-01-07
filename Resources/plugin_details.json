@@ -111,17 +111,6 @@
 				"supporturl"			:			""
     },
     {
-        "title"           :     "ClickPlay",
-        "bundle"          :     "ClickPlay.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch TV series from clickplay.to",
-        "repo"            :     "https://github.com/piplongrun/ClickPlay.bundle",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.plugins.clickplay",
-        "icon"            :     "clickplay-icon.jpg",
-				"supporturl"			:			""
-    },
-    {
         "title"           :     "CMT Shows",
         "bundle"          :     "CMT.bundle",
         "type"            :     ["Video"],
@@ -440,17 +429,6 @@
         "identifier"      :     "com.plexapp.plugins.iptv",
         "icon"            :     "iptv-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/83083"
-    },
-    {
-        "title"           :     "iSho.ws",
-        "bundle"          :     "iSho-ws.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch TV series from iSho.ws",
-        "repo"            :     "https://github.com/piplongrun/iSho-ws.bundle",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.plugins.ishows",
-        "icon"            :     "isho-ws-icon.jpg",
-				"supporturl"			:			"https://forums.plex.tv/discussion/98243"
     },
     {
         "title"           :     "ITV Player (UK)",
