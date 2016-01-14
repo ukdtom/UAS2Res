@@ -100,6 +100,17 @@
 				"supporturl"			:			""
     },
     {
+        "title"           :     "Chaturbate",
+        "bundle"          :     "Chaturbate.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch Free Adult Live Cams from chaturbate.com",
+        "repo"            :     "https://github.com/Nosinden/Chaturbate.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.chaturbate",
+        "icon"            :     "chaturbate-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/191119"
+    },
+    {
         "title"           :     "Christian Science",
         "bundle"          :     "ChristianScience.bundle",
         "type"            :     ["Video"],
@@ -109,6 +120,17 @@
         "identifier"      :     "com.plexapp.plugins.christianscience",
         "icon"            :     "christianscience-icon.png",
 				"supporturl"			:			""
+    },
+    {
+        "title"           :     "ClipHunter / PicHunter",
+        "bundle"          :     "ClipHunter.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch/View content from cliphunter.com and pichunter.com",
+        "repo"            :     "https://github.com/Nosinden/ClipHunter.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.cliphunter",
+        "icon"            :     "cliphunter-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/200827"
     },
     {
         "title"           :     "CMT Shows",
@@ -340,6 +362,17 @@
         "identifier"      :     "com.plexapp.plugins.grooveshark",
         "icon"            :     "grooveshark-icon.png",
 				"supporturl"			:			""
+    },
+    {
+        "title"           :     "HanimeTV",
+        "bundle"          :     "HanimeTV.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch Free HD Hentai videos (quality ranges from 360p to 720p) from hanime.tv",
+        "repo"            :     "https://github.com/Nosinden/HanimeTV.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.hanimetv",
+        "icon"            :     "hanimetv-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/191118"
     },
     {
         "title"           :     "HDBits Subtitles",
@@ -792,6 +825,17 @@
         "identifier"      :     "com.plexapp.plugins.somafm",
         "icon"            :     "somafm-icon.png",
 				"supporturl"			:			""
+    },
+    {
+        "title"           :     "SpankBang",
+        "bundle"          :     "SpankBang.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch Free Adult Videos (240p to 720p) from spankbang.com",
+        "repo"            :     "https://github.com/Nosinden/SpankBang.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.spankbang",
+        "icon"            :     "spankbang-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/198221"
     },
     {
         "title"           :     "SportseBooks",
