@@ -124,7 +124,7 @@
     {
         "title"           :     "ClipHunter / PicHunter",
         "bundle"          :     "ClipHunter.bundle",
-        "type"            :     ["Video", "Adult"],
+        "type"            :     ["Video", "Pictures", "Adult"],
         "description"     :     "Watch/View content from cliphunter.com and pichunter.com",
         "repo"            :     "https://github.com/Nosinden/ClipHunter.bundle",
         "branch"          :     "master",
