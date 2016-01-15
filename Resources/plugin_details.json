@@ -453,6 +453,17 @@
 				"supporturl"			:			""
     },
     {
+        "title"           :     "KissNetwork",
+        "bundle"          :     "KissNetwork.bundle",
+        "type"            :     ["Video", "Pictures"],
+        "description"     :     "Watch Anime, Asian Drama, Cartoons, & view Manga from KissAnime, KissAsian, KissCartoon, & KissManga respectfully.",
+        "repo"            :     "https://github.com/Twoure/KissNetwork.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.kissnetwork",
+        "icon"            :     "kissnetwork-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/186988"
+    },
+    {
         "title"           :     "Legendas.tv Subtitles Agent",
         "bundle"          :     "LegendasTV.bundle",
         "type"            :     ["Metadata Agent", "Subtitles"],
@@ -484,6 +495,17 @@
         "identifier"      :     "com.plexapp.plugins.libraryupdater",
         "icon"            :     "libupdate-icon.png",
 				"supporturl"			:			""
+    },
+    {
+        "title"           :     "LihatTV",
+        "bundle"          :     "LihatTV.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch streaming IPTV from lihattv.com",
+        "repo"            :     "https://github.com/Twoure/LihatTV.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.lihattv",
+        "icon"            :     "lihattv-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/196378"
     },
     {
         "title"           :     "Link TV",
