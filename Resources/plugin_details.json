@@ -455,7 +455,7 @@
     {
         "title"           :     "KissNetwork",
         "bundle"          :     "KissNetwork.bundle",
-        "type"            :     ["Video"],
+        "type"            :     ["Video", "Pictures"],
         "description"     :     "Watch Anime, Asian Drama, Cartoons, & view Manga from KissAnime, KissAsian, KissCartoon, & KissManga respectfully.",
         "repo"            :     "https://github.com/Twoure/KissNetwork.bundle",
         "branch"          :     "master",
