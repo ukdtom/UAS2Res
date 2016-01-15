@@ -29,7 +29,7 @@
         "repo"            :     "https://github.com/jab-au/BayFM999.bundle",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.BayFM999",
-        "icon"            :     "bayfm999-icon.jpg",
+        "icon"            :     "bayfm999-icon.png",
 				"supporturl"			:			""
     },
     {
