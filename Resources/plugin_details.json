@@ -618,6 +618,17 @@
         "supporturl"			:			"https://forums.plex.tv/discussion/81430"
     },
     {
+        "title"           :     "My Anime",
+        "bundle"          :     "MyAnime.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "JapaneseMediaManager Plex plugin.",
+        "repo"            :     "https://github.com/japanesemediamanager/plexplugin",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.myanime",
+        "icon"            :     "icon-myanime.png",
+        "supporturl"			:			"https://forums.plex.tv/discussion/81430"
+    },
+    {
         "title"           :     "NBCSports",
         "bundle"          :     "NBCSports.bundle",
         "type"            :     ["Video"],
