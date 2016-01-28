@@ -8,7 +8,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.anidb",
         "icon"            :     "anidb-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "ATV MediaThek(AT)",
@@ -19,7 +19,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.atv",
         "icon"            :     "atvmediathek-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Bay FM 99.9FM",
@@ -30,7 +30,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.BayFM999",
         "icon"            :     "bayfm999-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "beeg.com",
@@ -41,7 +41,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.beeg",
         "icon"            :     "beeg-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Big 12 Sports",
@@ -52,7 +52,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.big12sports",
         "icon"            :     "big12sports-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/90942"
+        "supporturl"      :     "https://forums.plex.tv/discussion/90942"
     },
     {
         "title"           :     "BitTorrent",
@@ -63,7 +63,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.bittorrent",
         "icon"            :     "bittorrent-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/102253"
+        "supporturl"      :     "https://forums.plex.tv/discussion/102253"
     },
     {
         "title"           :     "BringThePopcorn",
@@ -75,7 +75,7 @@
         "identifier"      :     "com.plexapp.plugins.bringthepopcorn",
         "icon"            :     "bringthepopcorn-icon.png",
         "hidden"          :     "False",
-        "supporturl"			:			"https://forums.plex.tv/discussion/90720"
+        "supporturl"      :     "https://forums.plex.tv/discussion/90720"
     },
     {
         "title"           :     "Channel9 (AU)",
@@ -86,7 +86,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.channel9",
         "icon"            :     "nine.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Channel10 (AU)",
@@ -97,7 +97,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.channel10",
         "icon"            :     "ten.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Chaturbate",
@@ -119,7 +119,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.christianscience",
         "icon"            :     "christianscience-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "ClipHunter / PicHunter",
@@ -141,7 +141,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.cmt",
         "icon"            :     "cmt-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/81341"
+        "supporturl"      :     "https://forums.plex.tv/discussion/81341"
     },
     {
         "title"           :     "CouchPotato",
@@ -152,7 +152,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.couchpotato",
         "icon"            :     "couchpotato-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/19595"
+        "supporturl"      :     "https://forums.plex.tv/discussion/19595"
     },
     {
         "title"           :     "Crunchyroll",
@@ -163,7 +163,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.crunchyroll",
         "icon"            :     "crunchyroll.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/73626"
+        "supporturl"      :     "https://forums.plex.tv/discussion/73626"
     },
     {
         "title"           :     "Dabdate",
@@ -174,7 +174,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.dabdate",
         "icon"            :     "dabdate-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Data18 Metadata Agent",
@@ -185,7 +185,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.data18",
         "icon"            :     "data18-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Data18-Content Metadata Agent",
@@ -196,7 +196,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.data18-content",
         "icon"            :     "data18-content-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
 		{
         "title"           :     "DevTools",
@@ -207,7 +207,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.DevTools",
         "icon"            :     "DevTools.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/121506/rel-devtools"
+        "supporturl"      :     "https://forums.plex.tv/discussion/121506/rel-devtools"
     },
     {
         "title"           :     "Discovery Networks",
@@ -218,7 +218,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.discovery",
         "icon"            :     "icon-discovery.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Dropbox",
@@ -229,7 +229,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.dropbox",
         "icon"            :     "dropbox-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "eporner",
@@ -240,7 +240,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.eporner",
         "icon"            :     "eporner-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "ExcaliburFilms Metadata Agent",
@@ -251,7 +251,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.excaliburfilms",
         "icon"            :     "excaliburfilms-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Facebook",
@@ -262,7 +262,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.facebook",
         "icon"            :     "facebook-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/21092"
+        "supporturl"      :     "https://forums.plex.tv/discussion/21092"
     },
     {
         "title"           :     "FilmOn",
@@ -273,7 +273,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.filmon",
         "icon"            :     "filmon-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/47650"
+        "supporturl"      :     "https://forums.plex.tv/discussion/47650"
     },
     {
         "title"           :     "FindUnmatched",
@@ -284,7 +284,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.findUnmatch",
         "icon"            :     "icon-FindUnmatched.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/87745"
+        "supporturl"      :     "https://forums.plex.tv/discussion/87745"
     },
     {
         "title"           :     "FindMissing",
@@ -295,7 +295,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.findMissing",
         "icon"            :     "icon-FindMissing.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/95148"
+        "supporturl"      :     "https://forums.plex.tv/discussion/95148"
     },
     {
         "title"           :     "Footy Report",
@@ -306,7 +306,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.footyreport",
         "icon"            :     "footyreport-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Full Movies on Reddit",
@@ -317,7 +317,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.fullmoviesonreddit",
         "icon"            :     "fullmoviesonreddit-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "G2G.fm",
@@ -328,7 +328,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.g2gfm",
         "icon"            :     "g2gfm-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/111730"
+        "supporturl"      :     "https://forums.plex.tv/discussion/111730"
     },
     {
         "title"           :     "Game One",
@@ -339,7 +339,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.gameone",
         "icon"            :     "gameone-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Google Music",
@@ -350,7 +350,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.googlemusic",
         "icon"            :     "googlemusic-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Grooveshark",
@@ -361,7 +361,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.grooveshark",
         "icon"            :     "grooveshark-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "HanimeTV",
@@ -383,7 +383,7 @@
         "identifier"      :     "com.plexapp.agents.hdbits",
         "branch"          :     "master",
         "icon"            :     "hdbits-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "HDSerials",
@@ -394,7 +394,7 @@
         "identifier"      :     "com.plexapp.plugins.hdserials",
         "branch"          :     "master",
         "icon"            :     "hdserials-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/124354"
+        "supporturl"      :     "https://forums.plex.tv/discussion/124354"
     },
     {
         "title"           :     "HD Streaming",
@@ -405,7 +405,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.hdstreaming",
         "icon"            :     "hdstreaming-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Hitbox.tv",
@@ -417,7 +417,7 @@
         "identifier"      :     "com.plexapp.plugins.hitboxtv",
         "branch"          :     "master",
         "icon"            :     "hitboxtv-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "IceFilms",
@@ -428,7 +428,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.icefilms",
         "icon"            :     "icefilms-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/23049"
+        "supporturl"      :     "https://forums.plex.tv/discussion/23049"
     },
     {
         "title"           :     "IMDb HD Trailers",
@@ -439,7 +439,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.imdbtrailers",
         "icon"            :     "IMDb-Trailers-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Internet Archive",
@@ -450,7 +450,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.internetarchive",
         "icon"            :     "internetarchive-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "IPTV",
@@ -461,7 +461,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.iptv",
         "icon"            :     "iptv-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/83083"
+        "supporturl"      :     "https://forums.plex.tv/discussion/83083"
     },
     {
         "title"           :     "ITV Player (UK)",
@@ -472,7 +472,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.itvplayer",
         "icon"            :     "ITV-Player-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/76083"
+        "supporturl"      :     "https://forums.plex.tv/discussion/76083"
     },
     {
         "title"           :     "Kink.com Metadata Agent",
@@ -483,7 +483,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.kink",
         "icon"            :     "kink-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "KissNetwork",
@@ -505,7 +505,7 @@
         "identifier"      :     "com.plexapp.agents.legendastv",
         "branch"          :     "master",
         "icon"            :     "legendastv-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Let Me Watch This",
@@ -516,7 +516,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.letmewatchthis",
         "icon"            :     "lmwt-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/36855"
+        "supporturl"      :     "https://forums.plex.tv/discussion/36855"
     },
     {
         "title"           :     "Library Updater",
@@ -527,7 +527,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.libraryupdater",
         "icon"            :     "libupdate-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "LihatTV",
@@ -549,7 +549,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.linktv",
         "icon"            :     "linktv-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "LiveLeak",
@@ -560,7 +560,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.liveleak",
         "icon"            :     "liveleak-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Logo TV",
@@ -571,7 +571,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.logotv",
         "icon"            :     "logotv-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/81339"
+        "supporturl"      :     "https://forums.plex.tv/discussion/81339"
     },
     {
         "title"           :     "Mangafox",
@@ -582,7 +582,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.mangafox",
         "icon"            :     "mangafox-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/78743"
+        "supporturl"      :     "https://forums.plex.tv/discussion/78743"
     },
     {
         "title"           :     "MediaPortal",
@@ -593,7 +593,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.mediaportal",
         "icon"            :     "mediaportal-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/65069"
+        "supporturl"      :     "https://forums.plex.tv/discussion/65069"
     },
     {
         "title"           :     "Movie2k",
@@ -604,7 +604,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.movie2k",
         "icon"            :     "movie2k-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/75524"
+        "supporturl"      :     "https://forums.plex.tv/discussion/75524"
     },
     {
         "title"           :     "MTV Shows",
@@ -615,7 +615,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.mtvshows",
         "icon"            :     "mtvshows-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/81430"
+        "supporturl"      :     "https://forums.plex.tv/discussion/81430"
     },
     {
         "title"           :     "My Anime",
@@ -626,7 +626,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.myanime",
         "icon"            :     "icon-myanime.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/81430"
+        "supporturl"      :     "https://forums.plex.tv/discussion/81430"
     },
     {
         "title"           :     "NBCSports",
@@ -637,7 +637,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.nbcsports",
         "icon"            :     "nbcsports-icon.jpg",
-        "supporturl"			:			"https://forums.plex.tv/discussion/88165"
+        "supporturl"      :     "https://forums.plex.tv/discussion/88165"
     },
     {
         "title"           :     "Newzworthy",
@@ -648,7 +648,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.newzworthy",
         "icon"            :     "newzworthy-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "NHL",
@@ -659,7 +659,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.nhl",
         "icon"            :     "nhl-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "nick reboot",
@@ -670,7 +670,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.nickreboot",
         "icon"            :     "nickreboot-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Old Movie Time",
@@ -681,7 +681,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.oldmovietime",
         "icon"            :     "oldmovietime-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Open Movie Database",
@@ -692,7 +692,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
         "icon"            :     "uimdbama-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "ORF TVThek(AT)",
@@ -703,7 +703,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.orftvthek",
         "icon"            :     "orftvthek-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Phimvang",
@@ -714,7 +714,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.phimvang",
         "icon"            :     "phimvang-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Plex2CSV",
@@ -725,7 +725,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.Plex2csv",
         "icon"            :     "icon-Plex2csv.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/103115"
+        "supporturl"      :     "https://forums.plex.tv/discussion/103115"
     },
     {
         "title"           :     "Plex Tools",
@@ -736,7 +736,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.plextools",
         "icon"            :     "plextools-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/85258"
+        "supporturl"      :     "https://forums.plex.tv/discussion/85258"
     },
     {
         "title"           :     "PLinkTV - Plex Link TV",
@@ -747,7 +747,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.plinktv",
         "icon"            :     "plinktv-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/99245"
+        "supporturl"      :     "https://forums.plex.tv/discussion/99245"
     },
     {
         "title"           :     "Podnapisi Subtitles",
@@ -758,7 +758,7 @@
         "identifier"      :     "com.plexapp.agents.podnapisi",
         "branch"          :     "master",
         "icon"            :     "podnapisi-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/33683"
+        "supporturl"      :     "https://forums.plex.tv/discussion/33683"
     },
 		{
         "title"           :     "rawrANIME.tv",
@@ -769,7 +769,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.rawranime",
         "icon"            :     "rawranime-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/103120"
+        "supporturl"      :     "https://forums.plex.tv/discussion/103120"
     },
     {
         "title"           :     "RedTube",
@@ -780,7 +780,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.redtube",
         "icon"            :     "redtube-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/38208"
+        "supporturl"      :     "https://forums.plex.tv/discussion/38208"
     },
     {
         "title"           :     "Rooster Teeth",
@@ -791,7 +791,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.roosterteeth",
         "icon"            :     "roosterteeth-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "RSS Feeds",
@@ -802,7 +802,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.rssfeeds",
         "icon"            :     "rss-feed-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/78012"
+        "supporturl"      :     "https://forums.plex.tv/discussion/78012"
     },
     {
         "title"           :     "SABnzbd+",
@@ -813,7 +813,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sabnzbd",
         "icon"            :     "sabnzbd-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "SBS (AU)",
@@ -824,7 +824,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sbs",
         "icon"            :     "sbs.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "SickBeard",
@@ -835,7 +835,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sickbeard",
         "icon"            :     "sickbeard-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/20159"
+        "supporturl"      :     "https://forums.plex.tv/discussion/20159"
     },
     {
         "title"           :     "SMI Convert",
@@ -846,7 +846,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.smiconvert",
         "icon"            :     "smiconvert-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Sonarr",
@@ -857,7 +857,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sonarr",
         "icon"            :     "icon-sonarr.png",
-        "supporturl"			:			"https://github.com/jamorin/Sonarr.bundle/issues"
+        "supporturl"      :     "https://github.com/jamorin/Sonarr.bundle/issues"
     },
     {
         "title"           :     "Soma FM",
@@ -868,7 +868,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.somafm",
         "icon"            :     "somafm-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "SpankBang",
@@ -890,7 +890,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sportsebooks",
         "icon"            :     "sportsebooks-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Spotify2",
@@ -901,7 +901,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.spotify2",
         "icon"            :     "spotify2-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Srt2Utf-8",
@@ -912,7 +912,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.srt2utf8",
         "icon"            :     "srt2utf-8.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/94864"
+        "supporturl"      :     "https://forums.plex.tv/discussion/94864"
     },
     {
         "title"           :     "SS Plex",
@@ -923,7 +923,7 @@
         "branch"          :     "stable",
         "identifier"      :     "com.plexapp.plugins.wso",
         "icon"            :     "ss-plex.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/48412"
+        "supporturl"      :     "https://forums.plex.tv/discussion/48412"
     },
     {
         "title"           :     "Sveriges Radio Play (SE)",
@@ -934,7 +934,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sverigesradioplay",
         "icon"            :     "sverigesradioplay-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "TheMovieClips plugin",
@@ -945,7 +945,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.tmc",
         "icon"            :     "tmc-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "TV-Headend NG",
@@ -956,7 +956,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.tvheadend-ng",
         "icon"            :     "tvheadend-ng-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/95345"
+        "supporturl"      :     "https://forums.plex.tv/discussion/95345"
     },
     {
         "title"           :     "UPlay UPnP",
@@ -967,7 +967,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.uplay",
         "icon"            :     "uplay-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "UR Play(SE)",
@@ -978,7 +978,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.urplay",
         "icon"            :     "urplay-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "USTVnow",
@@ -989,7 +989,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.ustvnow",
         "icon"            :     "ustvnow-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/60268"
+        "supporturl"      :     "https://forums.plex.tv/discussion/60268"
     },
     {
         "title"           :     "Viaplay",
@@ -1000,7 +1000,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.viaplay",
         "icon"            :     "viaplay-icon.jpg",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Vice",
@@ -1011,7 +1011,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.vice",
         "icon"            :     "vice-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "VH1",
@@ -1022,7 +1022,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.vh1",
         "icon"            :     "vh1-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/81709"
+        "supporturl"      :     "https://forums.plex.tv/discussion/81709"
     },
     {
         "title"           :     "VKontakte",
@@ -1033,7 +1033,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.vkontakte",
         "icon"            :     "vkontakte-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Wareztuga",
@@ -1044,7 +1044,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.wareztuga",
         "icon"            :     "wareztuga-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "Webisodes",
@@ -1055,7 +1055,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.webisodes",
         "icon"            :     "webisodes-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/71407"
+        "supporturl"      :     "https://forums.plex.tv/discussion/71407"
     },
     {
         "title"           :     "XBMCnfoMoviesImporter",
@@ -1066,7 +1066,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.xbmcnfo",
         "icon"            :     "xbmcnfomoviesimporter-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "XBMCnfoTVImporter",
@@ -1077,7 +1077,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.xbmcnfotv",
         "icon"            :     "xbmcnfotvimporter-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "xiami",
@@ -1088,7 +1088,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.xiami",
         "icon"            :     "xiami-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "xHamster",
@@ -1099,7 +1099,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.xhamster",
         "icon"            :     "xhamster-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/26116"
+        "supporturl"      :     "https://forums.plex.tv/discussion/26116"
     },
     {
         "title"           :     "xkcd",
@@ -1110,7 +1110,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.xkcd",
         "icon"            :     "xkcd-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "XNXX",
@@ -1121,7 +1121,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.xnxx",
         "icon"            :     "xnxx-icon.png",
-        "supporturl"			:			""
+        "supporturl"      :     ""
     },
     {
         "title"           :     "YouJizz",
@@ -1132,6 +1132,6 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "youjizz-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/25870"
+        "supporturl"      :     "https://forums.plex.tv/discussion/25870"
     }
 ]
