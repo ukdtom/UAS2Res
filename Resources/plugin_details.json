@@ -845,7 +845,7 @@
         "repo"            :     "https://github.com/jamorin/Sonarr.bundle",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.sonarr",
-        "icon"            :     "sonarr-icon.png",
+        "icon"            :     "icon-sonarr.png",
         "supporturl"			:			"https://github.com/jamorin/Sonarr.bundle/issues"
     },
     {
