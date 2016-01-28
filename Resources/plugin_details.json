@@ -626,7 +626,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.myanime",
         "icon"            :     "icon-myanime.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81430"
+        "supporturl"      :     "https://github.com/japanesemediamanager/plexplugin/issues"
     },
     {
         "title"           :     "NBCSports",
