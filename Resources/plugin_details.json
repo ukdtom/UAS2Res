@@ -1111,5 +1111,16 @@
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "youjizz-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/25870"
+    },
+    {
+        "title"           :     "TuneIn",
+        "bundle"          :     "TuneIn.bundle",
+        "type"            :     ["Music", "Social"],
+        "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
+        "repo"            :     "https://github.com/solvek/TuneIn.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.tunein",
+        "icon"            :     "tunein-icon.png",
+        "supporturl"            :           "https://forums.plex.tv/discussion/203970/rel-tunein"
     }
 ]
