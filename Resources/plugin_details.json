@@ -846,6 +846,19 @@
         "icon"            :     "icon-Plex2csv.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/103115"
     },
+   {
+        "title"           :     "Plex Request Channel",
+        "bundle"          :     "PlexRequestChannel.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Manage user requests from your Plex Media Server",
+        "repo"            :     "https://github.com/ngovil21/PlexRequestChannel.bundle",
+        "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
+        "identifier"      :     "com.plexapp.plugins.plexrequestschannel",
+        "icon"            :     "plexrequestchannel-icon.png",
+				"supporturl"			:			"https://forums.plex.tv/discussion/205378/plex-request-channel"
+    },
     {
         "title"           :     "Plex Tools",
         "bundle"          :     "PlexTools.bundle",
