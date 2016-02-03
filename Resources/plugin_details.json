@@ -1122,5 +1122,16 @@
         "identifier"      :     "com.plexapp.plugins.tunein",
         "icon"            :     "tunein-icon.png",
         "supporturl"            :           "https://forums.plex.tv/discussion/203970/rel-tunein"
+    },
+    {
+        "title"           :     "VsetvNet",
+        "bundle"          :     "VsetvNet.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Ukrainian TV channels",
+        "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.plugins.vsetvnet",
+        "icon"            :     "vsetvnet-icon.png",
+        "supporturl"            :           "https://forums.plex.tv/discussion/203698/release-vsetvnet-plagin"
     }
 ]
