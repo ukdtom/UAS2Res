@@ -1337,5 +1337,18 @@
         "identifier"      :     "com.plexapp.plugins.tunein",
         "icon"            :     "tunein-icon.png",
         "supporturl"			:			"https://forums.plex.tv/discussion/203970/rel-tunein"
+    },
+	{
+        "title"           :     "PlexWink",
+        "bundle"          :     "PlexWink.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Allow Plex Media Server to control your Wink smart lights",
+        "repo"            :     "https://github.com/vanstinator/PlexWink.bundle",
+        "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
+        "identifier"      :     "com.plexapp.plugins.plexwink",
+        "icon"            :     "plexwink-icon.png",
+        "supporturl"			:			"https://forums.plex.tv/discussion/205647/rel-wink-channel-for-plex"
     }
 ]
