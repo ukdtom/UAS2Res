@@ -1332,10 +1332,23 @@
         "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
         "repo"            :     "https://github.com/solvek/TuneIn.bundle",
         "branch"          :     "master",
-				"DeleteCacheDir"	:			false,
-				"DeleteDataDir"		:			false,
+        "DeleteCacheDir"	:  false,
+        "DeleteDataDir"		:  false,
         "identifier"      :     "com.plexapp.plugins.tunein",
         "icon"            :     "tunein-icon.png",
-        "supporturl"			:			"https://forums.plex.tv/discussion/203970/rel-tunein"
+        "supporturl"            :           "https://forums.plex.tv/discussion/203970/rel-tunein"
+    },
+    {
+        "title"           :     "VsetvNet",
+        "bundle"          :     "VsetvNet.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Ukrainian TV channels",
+        "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"    :  false,
+        "DeleteDataDir"     :  false,
+        "identifier"      :     "com.plexapp.plugins.vsetvnet",
+        "icon"            :     "vsetvnet-icon.png",
+        "supporturl"            :           "https://forums.plex.tv/discussion/203698/release-vsetvnet-plagin"
     }
 ]
