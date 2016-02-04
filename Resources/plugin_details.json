@@ -1332,11 +1332,11 @@
         "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
         "repo"            :     "https://github.com/solvek/TuneIn.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"	:  false,
-        "DeleteDataDir"		:  false,
+        "DeleteCacheDir"	:  		false,
+        "DeleteDataDir"		:  		false,
         "identifier"      :     "com.plexapp.plugins.tunein",
         "icon"            :     "tunein-icon.png",
-        "supporturl"            :           "https://forums.plex.tv/discussion/203970/rel-tunein"
+        "supporturl"      :     "https://forums.plex.tv/discussion/203970/rel-tunein"
     },
     {
         "title"           :     "VsetvNet",
@@ -1345,10 +1345,23 @@
         "description"     :     "Watch Ukrainian TV channels",
         "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"    :  false,
-        "DeleteDataDir"     :  false,
+        "DeleteCacheDir"  :		  false,
+        "DeleteDataDir"   :  		false,
         "identifier"      :     "com.plexapp.plugins.vsetvnet",
         "icon"            :     "vsetvnet-icon.png",
-        "supporturl"            :           "https://forums.plex.tv/discussion/203698/release-vsetvnet-plagin"
+        "supporturl"      :     "https://forums.plex.tv/discussion/203698/release-vsetvnet-plagin"
+    },
+	{
+        "title"           :     "PlexWink",
+        "bundle"          :     "PlexWink.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Allow Plex Media Server to control your Wink smart lights",
+        "repo"            :     "https://github.com/vanstinator/PlexWink.bundle",
+        "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
+        "identifier"      :     "com.plexapp.plugins.plexwink",
+        "icon"            :     "plexwink-icon.png",
+        "supporturl"			:			"https://forums.plex.tv/discussion/205647/rel-wink-channel-for-plex"
     }
 ]
