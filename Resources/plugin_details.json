@@ -1363,5 +1363,18 @@
         "identifier"      :     "com.plexapp.plugins.plexwink",
         "icon"            :     "plexwink-icon.png",
         "supporturl"			:			"https://forums.plex.tv/discussion/205647/rel-wink-channel-for-plex"
+    },
+	{
+        "title"           :     "UASViewer",
+        "bundle"          :     "UASViewer.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "A Plex Channel for the WebTools 2.0 Unsupported App Store that works inside Plex",
+        "repo"            :     "https://github.com/vanstinator/UASViewer.bundle",
+        "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
+        "identifier"      :     "com.plexapp.plugins.uasviewer",
+        "icon"            :     "uasviewer-icon.png",
+        "supporturl"			:			"https://forums.plex.tv/discussion/205907/rel-uasviewer"
     }
 ]
