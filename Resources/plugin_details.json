@@ -6,6 +6,8 @@
         "description"     :     "Metadata agent for anime movies and tv-shows",
         "repo"            :     "https://github.com/bstard/AniDB.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.anidb",
         "icon"            :     "anidb-icon.png",
 				"supporturl"			:			""
@@ -17,6 +19,8 @@
         "description"     :     "ATV.at - Alle Sendungen online ansehen. Jederzeit und kostenlos! Aktuelle News, Reportagen, Bauer sucht Frau, Saturday Night Fever, Teenager werden Mütter und vieles mehr.",
         "repo"            :     "https://github.com/meriko/ATVMediaThek.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.atv",
         "icon"            :     "atvmediathek-icon.png",
 				"supporturl"			:			""
@@ -28,6 +32,8 @@
         "description"     :     "Plex plugin for Bay FM 99.9 Byron Bay, Australia",
         "repo"            :     "https://github.com/jab-au/BayFM999.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.BayFM999",
         "icon"            :     "bayfm999-icon.png",
 				"supporturl"			:			""
@@ -39,6 +45,8 @@
         "description"     :     "Watch xxx videos from beeg.com",
         "repo"            :     "https://github.com/piplongrun/beeg.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.beeg",
         "icon"            :     "beeg-icon.png",
 				"supporturl"			:			""
@@ -50,6 +58,8 @@
         "description"     :     "Highlights and Replays from big12sports.com",
         "repo"            :     "https://github.com/datvance/Big12Sports.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.big12sports",
         "icon"            :     "big12sports-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/90942"
@@ -61,6 +71,8 @@
         "description"     :     "Watch videos directly from BitTorrent",
         "repo"            :     "https://github.com/sharkone/BitTorrent.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.bittorrent",
         "icon"            :     "bittorrent-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/102253"
@@ -72,6 +84,8 @@
         "description"     :     "Watch Movies from www.bringthepopcorn.net",
         "repo"            :     "https://github.com/MaZZly/BringThePopcorn.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.bringthepopcorn",
         "icon"            :     "bringthepopcorn-icon.png",
         "hidden"          :     "False",
@@ -84,6 +98,8 @@
         "description"     :     "View Australian TV Channel 9 on demand ",
         "repo"            :     "https://github.com/adamrumbold/Channel9.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.channel9",
         "icon"            :     "nine.png",
 				"supporturl"			:			""
@@ -95,6 +111,8 @@
         "description"     :     "View Australian TV Channel 10 on demand ",
         "repo"            :     "https://github.com/adamrumbold/Channel10.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.channel10",
         "icon"            :     "ten.png",
 				"supporturl"			:			""
@@ -106,6 +124,8 @@
         "description"     :     "Watch Free Adult Live Cams from chaturbate.com",
         "repo"            :     "https://github.com/Nosinden/Chaturbate.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.chaturbate",
         "icon"            :     "chaturbate-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/191119"
@@ -117,6 +137,8 @@
         "description"     :     "Lectures, church services and other media about Christian Science",
         "repo"            :     "https://github.com/datvance/ChristianScience.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.christianscience",
         "icon"            :     "christianscience-icon.png",
 				"supporturl"			:			""
@@ -128,6 +150,8 @@
         "description"     :     "Watch/View content from cliphunter.com and pichunter.com",
         "repo"            :     "https://github.com/Nosinden/ClipHunter.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.cliphunter",
         "icon"            :     "cliphunter-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/200827"
@@ -139,6 +163,8 @@
         "description"     :     "Watch shows from www.cmt.com",
         "repo"            :     "https://github.com/shopgirl284/CMT.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.cmt",
         "icon"            :     "cmt-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/81341"
@@ -150,6 +176,8 @@
         "description"     :     "View, edit and add to your CouchPotato wanted list.",
         "repo"            :     "https://github.com/mikedm139/CouchPotato.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.couchpotato",
         "icon"            :     "couchpotato-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/19595"
@@ -161,6 +189,8 @@
         "description"     :     "Watch over 20,000 episodes of popular Anime & Drama 1-Hour after TV broadcast from the website Crunchyroll.com.",
         "repo"            :     "https://github.com/MattRK/Crunchyroll.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.crunchyroll",
         "icon"            :     "crunchyroll.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/73626"
@@ -172,6 +202,8 @@
         "description"     :     "Watch Korean TV shows from dabdate.com",
         "repo"            :     "https://github.com/hojel/Dabdate.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.dabdate",
         "icon"            :     "dabdate-icon.png",
 				"supporturl"			:			""
@@ -183,6 +215,8 @@
         "description"     :     "Metadata agent for adult films from Data18.com",
         "repo"            :     "https://github.com/chidychi/Data18.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.data18",
         "icon"            :     "data18-icon.png",
 				"supporturl"			:			""
@@ -194,6 +228,8 @@
         "description"     :     "Metadata agent for adult Content from Data18.com",
         "repo"            :     "https://github.com/chidychi/Data18-Content.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.data18-content",
         "icon"            :     "data18-content-icon.png",
 				"supporturl"			:			""
@@ -205,6 +241,8 @@
         "description"     :     "Helper for 3.Party tools",
         "repo"            :     "https://github.com/ukdtom/DevTools.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.DevTools",
         "icon"            :     "DevTools.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/121506/rel-devtools"
@@ -216,6 +254,8 @@
         "description"     :     "Watch clips from various Discovery Channels",
         "repo"            :     "https://github.com/meriko/Discovery.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.discovery",
         "icon"            :     "icon-discovery.png",
 				"supporturl"			:			""
@@ -227,6 +267,8 @@
         "description"     :     "Browse your Dropbox content direclty from any Plex device.",
         "repo"            :     "https://github.com/realriot/Dropbox.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.dropbox",
         "icon"            :     "dropbox-icon.png",
 				"supporturl"			:			""
@@ -238,6 +280,8 @@
         "description"     :     "Watch XXX-Videos from EPORNER.COM",
         "repo"            :     "https://github.com/flownex/eporner.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.eporner",
         "icon"            :     "eporner-icon.png",
 				"supporturl"			:			""
@@ -249,6 +293,8 @@
         "description"     :     "Metadata agent for adult films from ExcaliburFilms.com",
         "repo"            :     "https://github.com/vofik/ExcaliburFilms.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.excaliburfilms",
         "icon"            :     "excaliburfilms-icon.png",
 				"supporturl"			:			""
@@ -260,6 +306,8 @@
         "description"     :     "View newsfeed and photos from Facebook",
         "repo"            :     "https://github.com/DCstewieG/Facebook.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.facebook",
         "icon"            :     "facebook-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/21092"
@@ -271,6 +319,8 @@
         "description"     :     "Watch over 600 Free Live TV Channels",
         "repo"            :     "https://github.com/meriko/FilmOn.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.filmon",
         "icon"            :     "filmon-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/47650"
@@ -282,6 +332,8 @@
         "description"     :     "Scan your medias, and report medias missing from the database.",
         "repo"            :     "https://github.com/ukdtom/Plex-FindUnmatched.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.findUnmatch",
         "icon"            :     "icon-FindUnmatched.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/87745"
@@ -293,6 +345,8 @@
         "description"     :     "List any files that are missing.",
         "repo"            :     "https://github.com/srazer/FindMissing.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.findMissing",
         "icon"            :     "icon-FindMissing.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/95148"
@@ -304,6 +358,8 @@
         "description"     :     "Watch streams from the Footy Report website",
         "repo"            :     "https://github.com/papalozarou/FootyReport.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.footyreport",
         "icon"            :     "footyreport-icon.png",
 				"supporturl"			:			""
@@ -315,6 +371,8 @@
         "description"     :     "Watch full movies found on /r/fullmoviesonyoutube",
         "repo"            :     "https://github.com/jwdempsey/FullMoviesOnReddit.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.fullmoviesonreddit",
         "icon"            :     "fullmoviesonreddit-icon.png",
 				"supporturl"			:			""
@@ -326,6 +384,8 @@
         "description"     :     "Watch latest release movies and tv series in HD!",
         "repo"            :     "https://github.com/TehCrucible/G2Gfm.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.g2gfm",
         "icon"            :     "g2gfm-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/111730"
@@ -337,6 +397,8 @@
         "description"     :     "Stream Videos, Podcasts and TV Episodes from gameone.de",
         "repo"            :     "https://github.com/derrod/GameOne.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.gameone",
         "icon"            :     "gameone-icon.png",
 				"supporturl"			:			""
@@ -348,6 +410,8 @@
         "description"     :     "Stream music from Google Music",
         "repo"            :     "https://github.com/jwdempsey/GoogleMusic.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.googlemusic",
         "icon"            :     "googlemusic-icon.png",
 				"supporturl"			:			""
@@ -359,6 +423,8 @@
         "description"     :     "Stream music from Grooveshark.com",
         "repo"            :     "https://github.com/jwdempsey/Grooveshark.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.grooveshark",
         "icon"            :     "grooveshark-icon.png",
 				"supporturl"			:			""
@@ -370,6 +436,8 @@
         "description"     :     "Watch Free HD Hentai videos (quality ranges from 360p to 720p) from hanime.tv",
         "repo"            :     "https://github.com/Nosinden/HanimeTV.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.hanimetv",
         "icon"            :     "hanimetv-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/191118"
@@ -382,6 +450,8 @@
         "repo"            :     "https://github.com/Coi-l/HdbitsSubtitles.bundle",
         "identifier"      :     "com.plexapp.agents.hdbits",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "icon"            :     "hdbits-icon.png",
 				"supporturl"			:			""
     },
@@ -393,6 +463,8 @@
         "repo"            :     "https://github.com/kolsys/HDSerials.bundle",
         "identifier"      :     "com.plexapp.plugins.hdserials",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "icon"            :     "hdserials-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/124354"
     },
@@ -403,6 +475,8 @@
         "description"     :     "Watch streams from the HD Streaming website",
         "repo"            :     "https://github.com/papalozarou/HDStreaming.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.hdstreaming",
         "icon"            :     "hdstreaming-icon.png",
 				"supporturl"			:			""
@@ -416,6 +490,8 @@
         "repo"            :     "https://github.com/r15ch13/Hitbox.tv.bundle",
         "identifier"      :     "com.plexapp.plugins.hitboxtv",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "icon"            :     "hitboxtv-icon.png",
 				"supporturl"			:			""
     },
@@ -426,6 +502,8 @@
         "description"     :     "Watch Movies and TV Shows from IceFilms.info",
         "repo"            :     "https://github.com/ReallyFuzzy/IceFilms.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.icefilms",
         "icon"            :     "icefilms-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/23049"
@@ -437,6 +515,8 @@
         "description"     :     "Watch movie trailers from IMDb in HD",
         "repo"            :     "https://github.com/mikedm139/IMDb-Trailers.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.imdbtrailers",
         "icon"            :     "IMDb-Trailers-icon.png",
 				"supporturl"			:			""
@@ -448,6 +528,8 @@
         "description"     :     "Watch and listen to free videos and music from the non-profit digital online library: Internet Archive",
         "repo"            :     "https://github.com/meriko/InternetArchive.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.internetarchive",
         "icon"            :     "internetarchive-icon.png",
 				"supporturl"			:			""
@@ -459,6 +541,8 @@
         "description"     :     "Plugin to play network streams (a.k.a. IPTV) from a M3U playlist",
         "repo"            :     "https://github.com/Cigaras/IPTV.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.iptv",
         "icon"            :     "iptv-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/83083"
@@ -470,6 +554,8 @@
         "description"     :     "ITV Player has your favourite shows ready to watch whenever you want them. Browse and search for shows from all ITV channels from the last 31 days.",
         "repo"            :     "https://github.com/ReallyFuzzy/ITV-Player.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.itvplayer",
         "icon"            :     "ITV-Player-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/76083"
@@ -481,6 +567,8 @@
         "description"     :     "Metadata agent for adult shoots from any Kink.com site",
         "repo"            :     "https://github.com/vofik/Kink.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.kink",
         "icon"            :     "kink-icon.png",
 				"supporturl"			:			""
@@ -492,6 +580,8 @@
         "description"     :     "Watch Anime, Asian Drama, Cartoons, & view Manga from KissAnime, KissAsian, KissCartoon, & KissManga respectfully.",
         "repo"            :     "https://github.com/Twoure/KissNetwork.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.kissnetwork",
         "icon"            :     "kissnetwork-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/186988"
@@ -504,6 +594,8 @@
         "repo"            :     "https://github.com/BrutuZ/LegendasTV.bundle",
         "identifier"      :     "com.plexapp.agents.legendastv",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "icon"            :     "legendastv-icon.png",
 				"supporturl"			:			""
     },
@@ -514,6 +606,8 @@
         "description"     :     "Watch Movies and TV Shows from 1Channel.ch (Let Me Watch This)",
         "repo"            :     "https://github.com/ReallyFuzzy/LetMeWatchThis.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.letmewatchthis",
         "icon"            :     "lmwt-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/36855"
@@ -525,6 +619,8 @@
         "description"     :     "Update Plex library sections or entire library without leaving Plex interface",
         "repo"            :     "https://github.com/mikedm139/LibraryUpdater.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.libraryupdater",
         "icon"            :     "libupdate-icon.png",
 				"supporturl"			:			""
@@ -536,6 +632,8 @@
         "description"     :     "Watch streaming IPTV from lihattv.com",
         "repo"            :     "https://github.com/Twoure/LihatTV.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.lihattv",
         "icon"            :     "lihattv-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/196378"
@@ -547,6 +645,8 @@
         "description"     :     "Link TV broadcasts programs that engage, educate and activate viewers to become involved in the world. These programs provide a unique perspective on international news, current events, and diverse cultures, presenting issues not often covered in the US media.",
         "repo"            :     "https://github.com/meriko/LinkTV.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.linktv",
         "icon"            :     "linktv-icon.png",
 				"supporturl"			:			""
@@ -558,6 +658,8 @@
         "description"     :     "Redefining the Media",
         "repo"            :     "https://github.com/meriko/LiveLeak.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.liveleak",
         "icon"            :     "liveleak-icon.png",
 				"supporturl"			:			""
@@ -569,6 +671,8 @@
         "description"     :     "Watch shows from www.logotv.com",
         "repo"            :     "https://github.com/shopgirl284/LogoTV.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.logotv",
         "icon"            :     "logotv-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/81339"
@@ -580,6 +684,8 @@
         "description"     :     "Comics from Mangafox",
         "repo"            :     "https://github.com/hojel/Mangafox.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.mangafox",
         "icon"            :     "mangafox-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/78743"
@@ -591,6 +697,8 @@
         "description"     :     "Watch Live TV from a MediaPortal server",
         "repo"            :     "https://github.com/jwdempsey/MediaPortal.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.mediaportal",
         "icon"            :     "mediaportal-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/65069"
@@ -602,6 +710,8 @@
         "description"     :     "Watch Movies and TV Show Series from Movie4k.to.",
         "repo"            :     "https://github.com/Joecowboy/MOVIE2K.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.movie2k",
         "icon"            :     "movie2k-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/75524"
@@ -613,6 +723,8 @@
         "description"     :     "Watch shows from www.mtv.com",
         "repo"            :     "https://github.com/shopgirl284/MTVShows.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.mtvshows",
         "icon"            :     "mtvshows-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/81430"
@@ -624,6 +736,8 @@
         "description"     :     "Video highlights from NBCSports.com",
         "repo"            :     "https://github.com/datvance/NBCSports.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.nbcsports",
         "icon"            :     "nbcsports-icon.jpg",
 				"supporturl"			:			"https://forums.plex.tv/discussion/88165"
@@ -635,6 +749,8 @@
         "description"     :     "A Usenet-Plex integration plugin. Currently only supported on OSX.",
         "repo"            :     "https://github.com/plexinc-plugins/Newsworthy.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.newzworthy",
         "icon"            :     "newzworthy-icon.png",
 				"supporturl"			:			""
@@ -646,6 +762,8 @@
         "description"     :     "Requires a subscription to NHL GameCenter\nWatch live out-of-market, regular season games in HD-quality and choose between the home or away team's broadcast.\nWatch on-demand full-length and condensed replays\nWatch classic games from the NHL Vault.",
         "repo"            :     "https://github.com/mikedm139/NHL.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.nhl",
         "icon"            :     "nhl-icon.png",
 				"supporturl"			:			""
@@ -657,6 +775,8 @@
         "description"     :     "feed your inner child - plex channel for http://nickreboot.com/",
         "repo"            :     "https://github.com/nickreboot/nickreboot.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.nickreboot",
         "icon"            :     "nickreboot-icon.png",
 				"supporturl"			:			""
@@ -668,6 +788,8 @@
         "description"     :     "Watch classic movies for free online!\nThe best of the thirties, forties, fifties, and sixties.",
         "repo"            :     "https://github.com/meriko/OldMovieTime.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.oldmovietime",
         "icon"            :     "oldmovietime-icon.png",
 				"supporturl"			:			""
@@ -679,6 +801,8 @@
         "description"     :     "Metadata agent to retrieve film info from the Open Movie Database (English only!)",
         "repo"            :     "https://github.com/haeY/OpenMovieDatabase.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
         "icon"            :     "uimdbama-icon.png",
 				"supporturl"			:			""
@@ -690,6 +814,8 @@
         "description"     :     "Sämtliche ORF-Nachrichtensendungen (ZIB bzw. Zeit im Bild), die „Bundesland heute“-Sendungen, und Sendungen aus den Bereichen wie z.B Comedy, Religion, Sport oder Kultur sind über die TVthek abrufbar. Auch Livestreams von vielen Eigenproduktionen und Sport-Events sind verfügbar. Generell sind die Sendungen sieben Tage im Internet abzurufen.",
         "repo"            :     "https://github.com/meriko/ORFTVThek.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.orftvthek",
         "icon"            :     "orftvthek-icon.png",
 				"supporturl"			:			""
@@ -701,6 +827,8 @@
         "description"     :     "watch movies on phimvang.org ",
         "repo"            :     "https://github.com/traitravinh/Phimvang.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.phimvang",
         "icon"            :     "phimvang-icon.png",
 				"supporturl"			:			""
@@ -712,9 +840,24 @@
         "description"     :     "Will export selected sections into a CSV file",
         "repo"            :     "https://github.com/ukdtom/plex2csv.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.Plex2csv",
         "icon"            :     "icon-Plex2csv.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/103115"
+    },
+   {
+        "title"           :     "Plex Request Channel",
+        "bundle"          :     "PlexRequestChannel.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Manage user requests from your Plex Media Server",
+        "repo"            :     "https://github.com/ngovil21/PlexRequestChannel.bundle",
+        "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
+        "identifier"      :     "com.plexapp.plugins.plexrequestschannel",
+        "icon"            :     "plexrequestchannel-icon.png",
+				"supporturl"			:			"https://forums.plex.tv/discussion/205378/plex-request-channel"
     },
     {
         "title"           :     "Plex Tools",
@@ -723,6 +866,8 @@
         "description"     :     "Download subtitles and convert videos to MP4",
         "repo"            :     "https://github.com/jwdempsey/PlexTools.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.plextools",
         "icon"            :     "plextools-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/85258"
@@ -734,6 +879,8 @@
         "description"     :     "Build your own VOD service by hosting the media at any cloud service.",
         "repo"            :     "https://github.com/realriot/PLinkTV.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.plinktv",
         "icon"            :     "plinktv-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/99245"
@@ -746,6 +893,8 @@
         "repo"            :     "https://github.com/Coi-l/PodnapisiSubtitles.bundle",
         "identifier"      :     "com.plexapp.agents.podnapisi",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "icon"            :     "podnapisi-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/33683"
     },
@@ -756,6 +905,8 @@
         "description"     :     "Watch HD subbed and dubbed anime from rawrANIME.tv",
         "repo"            :     "https://github.com/TehCrucible/rawrANIME.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.rawranime",
         "icon"            :     "rawranime-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/103120"
@@ -767,6 +918,8 @@
         "description"     :     "Watch XXX-Videos from RedTube.com",
         "repo"            :     "https://github.com/flownex/RedTube.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.redtube",
         "icon"            :     "redtube-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/38208"
@@ -778,6 +931,8 @@
         "description"     :     "Watch videos from Red vs. Blue, Achievement Hunter, RT Shorts, RWBY, and lots more",
         "repo"            :     "https://github.com/meriko/RoosterTeeth.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.roosterteeth",
         "icon"            :     "roosterteeth-icon.png",
 				"supporturl"			:			""
@@ -789,6 +944,8 @@
         "description"     :     "Watch your favorite RSS Feeds",
         "repo"            :     "https://github.com/shopgirl284/RSSFeed.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.rssfeeds",
         "icon"            :     "rss-feed-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/78012"
@@ -800,6 +957,8 @@
         "description"     :     "Manage your SABnzbd+ queue and history from within Plex.",
         "repo"            :     "https://github.com/mikedm139/SABnzbd.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.sabnzbd",
         "icon"            :     "sabnzbd-icon.png",
 				"supporturl"			:			""
@@ -811,6 +970,8 @@
         "description"     :     "View Australian TV SBS on demand ",
         "repo"            :     "https://github.com/adamrumbold/SBS.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.sbs",
         "icon"            :     "sbs.png",
 				"supporturl"			:			""
@@ -822,6 +983,8 @@
         "description"     :     "A plugin for Plex media center to view and control basic functions of SickBeard",
         "repo"            :     "https://github.com/mikedm139/SickBeard.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.sickbeard",
         "icon"            :     "sickbeard-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/20159"
@@ -833,6 +996,8 @@
         "description"     :     "A agent to convert subtitles in SMI format to SRT format",
         "repo"            :     "https://github.com/hojel/SmiConvert.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.smiconvert",
         "icon"            :     "smiconvert-icon.png",
 				"supporturl"			:			""
@@ -844,6 +1009,8 @@
         "description"     :     "Over 20 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting from San Francisco. All music hand-picked by SomaFM's award-winning DJs and music directors.",
         "repo"            :     "https://github.com/meriko/SomaFM.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.somafm",
         "icon"            :     "somafm-icon.png",
 				"supporturl"			:			""
@@ -855,6 +1022,8 @@
         "description"     :     "Watch Free Adult Videos (240p to 720p) from spankbang.com",
         "repo"            :     "https://github.com/Nosinden/SpankBang.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.spankbang",
         "icon"            :     "spankbang-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/198221"
@@ -866,6 +1035,8 @@
         "description"     :     "Watch streams from the SportseBooks website",
         "repo"            :     "https://github.com/papalozarou/SportseBooks.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.sportsebooks",
         "icon"            :     "sportsebooks-icon.png",
 				"supporturl"			:			""
@@ -877,6 +1048,8 @@
         "description"     :     "Stream music from Spotify (node.js + premium account required)",
         "repo"            :     "https://github.com/fuzeman/Spotify2.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.spotify2",
         "icon"            :     "spotify2-icon.png",
 				"supporturl"			:			""
@@ -888,6 +1061,8 @@
         "description"     :     "Plex Media Agent, that'll convert sidecar subtitle files into UTF-8, if not",
         "repo"            :     "https://github.com/ukdtom/SRT2UTF-8.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.srt2utf8",
         "icon"            :     "srt2utf-8.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/94864"
@@ -910,6 +1085,8 @@
         "description"     :     "Listen to all of Swedish Radio's content. All channels are available live and all shows on demand. You can also download podcasts and listen offline.",
         "repo"            :     "https://github.com/meriko/SRPlay.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.sverigesradioplay",
         "icon"            :     "sverigesradioplay-icon.png",
 				"supporturl"			:			""
@@ -921,6 +1098,8 @@
         "description"     :     "Watch trailers and clips from TheMovieClips.com",
         "repo"            :     "https://github.com/razor2611/TheMovieClips.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.tmc",
         "icon"            :     "tmc-icon.png",
 				"supporturl"			:			""
@@ -932,6 +1111,8 @@
         "description"     :     "Watch TV on your plex devices. Provided by a TV-Headend server.",
         "repo"            :     "https://github.com/realriot/tvheadend-ng.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.tvheadend-ng",
         "icon"            :     "tvheadend-ng-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/95345"
@@ -943,6 +1124,8 @@
         "description"     :     "UPlay UPnP enumerates and plays video content from a configurable 3rd party UPnP/DLNA server.",
         "repo"            :     "https://github.com/yanavery/UPlay.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.uplay",
         "icon"            :     "uplay-icon.png",
 				"supporturl"			:			""
@@ -954,6 +1137,8 @@
         "description"     :     "UR Play är Sveriges mest kunskapsspäckade Playtjänst med mer än 2500 program om allt från historia till matematik och språk.",
         "repo"            :     "https://github.com/meriko/URPlay.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.urplay",
         "icon"            :     "urplay-icon.png",
 				"supporturl"			:			""
@@ -965,6 +1150,8 @@
         "description"     :     "Watch Live TV from ustvnow.com",
         "repo"            :     "https://github.com/jwdempsey/USTVnow.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.ustvnow",
         "icon"            :     "ustvnow-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/60268"
@@ -976,6 +1163,8 @@
         "description"     :     "Watch TV, Movies and Sports from Viaplay",
         "repo"            :     "https://github.com/JeppeTh/Viaplay.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.viaplay",
         "icon"            :     "viaplay-icon.jpg",
 				"supporturl"			:			""
@@ -987,6 +1176,8 @@
         "description"     :     "Online den of nefarious activities, investigative journalism, and enlightening documentaries. (US version)",
         "repo"            :     "https://github.com/meriko/Vice.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.vice",
         "icon"            :     "vice-icon.png",
 				"supporturl"			:			""
@@ -998,6 +1189,8 @@
         "description"     :     "Watch shows from www.vh1.com",
         "repo"            :     "https://github.com/shopgirl284/VH1.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.vh1",
         "icon"            :     "vh1-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/81709"
@@ -1009,6 +1202,8 @@
         "description"     :     "Video and Music from russian social network VK.com",
         "repo"            :     "https://github.com/kolsys/VKontakte.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.vkontakte",
         "icon"            :     "vkontakte-icon.png",
 				"supporturl"			:			""
@@ -1020,6 +1215,8 @@
         "description"     :     "Watch movies hosted on Wareztuga.tv",
         "repo"            :     "https://github.com/galrito/Wareztuga.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.wareztuga",
         "icon"            :     "wareztuga-icon.png",
 				"supporturl"			:			""
@@ -1031,6 +1228,8 @@
         "description"     :     "Watch your favorite web series from Yahoo Screens, BlipTV, Vimeo, YouTube, as well as RSS Feeds",
         "repo"            :     "https://github.com/shopgirl284/Webisodes.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.webisodes",
         "icon"            :     "webisodes-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/71407"
@@ -1042,6 +1241,8 @@
         "description"     :     "Import Movies information from locally exported XBMC database.",
         "repo"            :     "https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.xbmcnfo",
         "icon"            :     "xbmcnfomoviesimporter-icon.png",
 				"supporturl"			:			""
@@ -1053,6 +1254,8 @@
         "description"     :     "Import TVShow information from locally exported XBMC database.",
         "repo"            :     "https://github.com/gboudreau/XBMCnfoTVImporter.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.agents.xbmcnfotv",
         "icon"            :     "xbmcnfotvimporter-icon.png",
 				"supporturl"			:			""
@@ -1064,6 +1267,8 @@
         "description"     :     "Stream music from xiami.com",
         "repo"            :     "https://github.com/hojel/xiami.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.xiami",
         "icon"            :     "xiami-icon.png",
 				"supporturl"			:			""
@@ -1075,6 +1280,8 @@
         "description"     :     "Watch XXX-Videos from xHamster.com",
         "repo"            :     "https://github.com/flownex/xHamster.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.xhamster",
         "icon"            :     "xhamster-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/26116"
@@ -1086,6 +1293,8 @@
         "description"     :     "Strips from xkcd website",
         "repo"            :     "https://github.com/sengian/xkcd.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.xkcd",
         "icon"            :     "xkcd-icon.png",
 				"supporturl"			:			""
@@ -1097,6 +1306,8 @@
         "description"     :     "Watch XXX-Videos from XNXX.COM",
         "repo"            :     "https://github.com/flownex/XNXX.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.xnxx",
         "icon"            :     "xnxx-icon.png",
 				"supporturl"			:			""
@@ -1108,8 +1319,49 @@
         "description"     :     "Watch XXX-Videos from YouJizz.com",
         "repo"            :     "https://github.com/flownex/YouJizz.bundle",
         "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "youjizz-icon.png",
 				"supporturl"			:			"https://forums.plex.tv/discussion/25870"
+    },
+    {
+        "title"           :     "TuneIn",
+        "bundle"          :     "TuneIn.bundle",
+        "type"            :     ["Music", "Social"],
+        "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
+        "repo"            :     "https://github.com/solvek/TuneIn.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"	:  		false,
+        "DeleteDataDir"		:  		false,
+        "identifier"      :     "com.plexapp.plugins.tunein",
+        "icon"            :     "tunein-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/203970/rel-tunein"
+    },
+    {
+        "title"           :     "VsetvNet",
+        "bundle"          :     "VsetvNet.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Ukrainian TV channels",
+        "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :		  false,
+        "DeleteDataDir"   :  		false,
+        "identifier"      :     "com.plexapp.plugins.vsetvnet",
+        "icon"            :     "vsetvnet-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/203698/release-vsetvnet-plagin"
+    },
+	{
+        "title"           :     "PlexWink",
+        "bundle"          :     "PlexWink.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Allow Plex Media Server to control your Wink smart lights",
+        "repo"            :     "https://github.com/vanstinator/PlexWink.bundle",
+        "branch"          :     "master",
+				"DeleteCacheDir"	:			false,
+				"DeleteDataDir"		:			false,
+        "identifier"      :     "com.plexapp.plugins.plexwink",
+        "icon"            :     "plexwink-icon.png",
+        "supporturl"			:			"https://forums.plex.tv/discussion/205647/rel-wink-channel-for-plex"
     }
 ]
