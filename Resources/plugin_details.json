@@ -1363,5 +1363,18 @@
         "identifier"      :     "com.plexapp.plugins.plexwink",
         "icon"            :     "plexwink-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/205647/rel-wink-channel-for-plex"
+    },
+    {
+        "title"           :     "Videoprobki",
+        "bundle"          :     "videoprobki.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Online traffic jam videos in Ukrainian cities",
+        "repo"            :     "https://github.com/solvek/videoprobki.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.videoprobki",
+        "icon"            :     "videoprobki-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/208066/release-videoprobki-plagin#latest"
     }
 ]
