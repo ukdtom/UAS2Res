@@ -391,19 +391,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/111730"
     },
     {
-        "title"           :     "Game One",
-        "bundle"          :     "GameOne.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Stream Videos, Podcasts and TV Episodes from gameone.de",
-        "repo"            :     "https://github.com/derrod/GameOne.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.gameone",
-        "icon"            :     "gameone-icon.png",
-        "supporturl"      :     ""
-    },
-    {
         "title"           :     "Google Music",
         "bundle"          :     "GoogleMusic.bundle",
         "type"            :     ["Music"],
