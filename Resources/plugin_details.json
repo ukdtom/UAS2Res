@@ -483,19 +483,6 @@
         "supporturl"      :     ""
     },
     {
-        "title"           :     "IceFilms",
-        "bundle"          :     "IceFilms.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Movies and TV Shows from IceFilms.info",
-        "repo"            :     "https://github.com/ReallyFuzzy/IceFilms.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.icefilms",
-        "icon"            :     "icefilms-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/23049"
-    },
-    {
         "title"           :     "IMDb HD Trailers",
         "bundle"          :     "IMDb-Trailers.bundle",
         "type"            :     ["Video"],
