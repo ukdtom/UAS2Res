@@ -535,6 +535,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/76083"
     },
     {
+        "title"           :     "JavHiHi",
+        "bundle"          :     "JavHiHi.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch Free HD Japanese Adult Videos (360p & 720p) from javhihi.com",
+        "repo"            :     "https://github.com/Nosinden/JavHiHi.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.javhihi",
+        "icon"            :     "javhihi-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/214100"
+    },
+    {
         "title"           :     "Kink.com Metadata Agent",
         "bundle"          :     "Kink.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
