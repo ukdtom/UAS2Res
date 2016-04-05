@@ -587,6 +587,19 @@
         "supporturl"      :     ""
     },
     {
+        "title"           :     "LetFap",
+        "bundle"          :     "LetFap.bundle",
+        "type"            :     ["Adult", "Video"],
+        "description"     :     "Watch Free HD X-Art Videos (360p & 720p) from letfap.com",
+        "repo"            :     "https://github.com/Nosinden/LetFap.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.letfap",
+        "icon"            :     "letfap-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/214461"
+    },
+    {
         "title"           :     "Let Me Watch This",
         "bundle"          :     "LetMeWatchThis.bundle",
         "type"            :     ["Video"],
