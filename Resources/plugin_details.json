@@ -1387,8 +1387,7 @@
         "DeleteCacheDir"  :     false, 
         "DeleteDataDir"   :     false, 
         "identifier"      :     "com.plexapp.plugins.wol", 
-        "icon"            :     "wol_icon-default.png", 
-        "date added"      :     "April 10, 2016", 
+        "icon"            :     "wol_icon-default.png",
         "support url"     :     "https://forums.plex.tv/discussion/215107/rel-wol-bundle-wol-plugin-for-plex" 
     }
 ]
