@@ -1388,6 +1388,6 @@
         "DeleteDataDir"   :     false, 
         "identifier"      :     "com.plexapp.plugins.wol", 
         "icon"            :     "wol_icon-default.png",
-        "support url"     :     "https://forums.plex.tv/discussion/215107" 
+        "supporturl"     :     "https://forums.plex.tv/discussion/215107" 
     }
 ]
