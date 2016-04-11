@@ -1376,5 +1376,19 @@
         "identifier"      :     "com.plexapp.plugins.videoprobki",
         "icon"            :     "videoprobki-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/208066/release-videoprobki-plagin#latest"
+    },
+    { 
+        "title"           :     "Wake on LAN (WOL) Plugin for Plex", 
+        "bundle"          :     "wol.bundle", 
+        "type"            :     ["Application"], 
+        "description"     :     "WOL allows you to wake additional media servers or PCs using the PMS to send a Magic Packet. This allows you to gain access to Library resources or folders that you might not permanently leave switched on. WOL lets you configure up to 10 systems to be woken and allows up to two groups of devices to be configured.", 
+        "repo"            :     "https://github.com/SpacemanJT/wol.bundle", 
+        "branch"          :     "master", 
+        "DeleteCacheDir"  :     false, 
+        "DeleteDataDir"   :     false, 
+        "identifier"      :     "com.plexapp.plugins.wol", 
+        "icon"            :     "wol_icon-default.png", 
+        "date added"      :     "April 10, 2016", 
+        "support url"     :     "https://forums.plex.tv/discussion/215107/rel-wol-bundle-wol-plugin-for-plex" 
     }
 ]
