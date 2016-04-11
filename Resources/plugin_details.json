@@ -1336,7 +1336,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.tunein",
         "icon"            :     "tunein-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/203970/rel-tunein"
+        "supporturl"      :     "https://forums.plex.tv/discussion/203970"
     },
     {
         "title"           :     "VsetvNet",
@@ -1349,7 +1349,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vsetvnet",
         "icon"            :     "vsetvnet-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/203698/release-vsetvnet-plagin"
+        "supporturl"      :     "https://forums.plex.tv/discussion/203698"
     },
     {
         "title"           :     "PlexWink",
@@ -1362,7 +1362,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.plexwink",
         "icon"            :     "plexwink-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/205647/rel-wink-channel-for-plex"
+        "supporturl"      :     "https://forums.plex.tv/discussion/205647"
     },
     {
         "title"           :     "Videoprobki",
@@ -1375,7 +1375,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.videoprobki",
         "icon"            :     "videoprobki-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/208066/release-videoprobki-plagin#latest"
+        "supporturl"      :     "https://forums.plex.tv/discussion/208066"
     },
     { 
         "title"           :     "Wake on LAN (WOL) Plugin for Plex", 
@@ -1388,6 +1388,6 @@
         "DeleteDataDir"   :     false, 
         "identifier"      :     "com.plexapp.plugins.wol", 
         "icon"            :     "wol_icon-default.png",
-        "support url"     :     "https://forums.plex.tv/discussion/215107/rel-wol-bundle-wol-plugin-for-plex" 
+        "support url"     :     "https://forums.plex.tv/discussion/215107" 
     }
 ]
