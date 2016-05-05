@@ -234,19 +234,6 @@
         "icon"            :     "data18-content-icon.png",
         "supporturl"      :     ""
     },
-        {
-        "title"           :     "DevTools",
-        "bundle"          :     "DevTools.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Helper for 3.Party tools",
-        "repo"            :     "https://github.com/ukdtom/DevTools.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.DevTools",
-        "icon"            :     "DevTools.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/121506/rel-devtools"
-    },
     {
         "title"           :     "Discovery Networks",
         "bundle"          :     "Discovery.bundle",
