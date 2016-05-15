@@ -756,19 +756,6 @@
         "supporturl"      :     ""
     },
     {
-        "title"           :     "nick reboot",
-        "bundle"          :     "nickreboot.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "feed your inner child - plex channel for http://nickreboot.com/",
-        "repo"            :     "https://github.com/nickreboot/nickreboot.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.nickreboot",
-        "icon"            :     "nickreboot-icon.png",
-        "supporturl"      :     ""
-    },
-    {
         "title"           :     "Old Movie Time",
         "bundle"          :     "OldMovieTime.bundle",
         "type"            :     ["Video"],
@@ -1204,19 +1191,6 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vkontakte",
         "icon"            :     "vkontakte-icon.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "Wareztuga",
-        "bundle"          :     "Wareztuga.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch movies hosted on Wareztuga.tv",
-        "repo"            :     "https://github.com/galrito/Wareztuga.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.wareztuga",
-        "icon"            :     "wareztuga-icon.png",
         "supporturl"      :     ""
     },
     {
