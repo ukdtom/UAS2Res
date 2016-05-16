@@ -908,7 +908,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sabnzbd",
         "icon"            :     "sabnzbd-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/21947/rel-sabnzbd-plugin"
     },
     {
         "title"           :     "SBS (AU)",
