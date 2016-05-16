@@ -219,7 +219,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.data18",
         "icon"            :     "data18-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
         "title"           :     "Data18-Content Metadata Agent",
