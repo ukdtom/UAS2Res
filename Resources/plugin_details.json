@@ -1164,7 +1164,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vkontakte",
         "icon"            :     "vkontakte-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/119058/rel-vkontakte"
     },
     {
         "title"           :     "Webisodes",
