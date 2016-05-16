@@ -232,7 +232,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.data18-content",
         "icon"            :     "data18-content-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
         "title"           :     "Discovery Networks",
