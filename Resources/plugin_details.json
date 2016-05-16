@@ -445,7 +445,6 @@
     {
         "title"           :     "Hitbox.tv",
         "bundle"          :     "Hitbox.tv.bundle",
-        "prefix"          :     "",
         "type"            :     ["Video"],
         "description"     :     "Allows streaming of Hitbox.tv live streams",
         "repo"            :     "https://github.com/r15ch13/Hitbox.tv.bundle",
