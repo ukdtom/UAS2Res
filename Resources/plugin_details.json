@@ -1138,7 +1138,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vice",
         "icon"            :     "vice-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/71324/rel-vice"
     },
     {
         "title"           :     "VH1",
