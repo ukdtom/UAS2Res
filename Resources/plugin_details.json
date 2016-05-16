@@ -531,7 +531,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.kink",
         "icon"            :     "kink-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/35633/adult-kink-com-metadata-agent"
     },
     {
         "title"           :     "KissNetwork",
