@@ -49,7 +49,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.beeg",
         "icon"            :     "beeg-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/187168/rel-beeg-18-plug-in"
     },
     {
         "title"           :     "Big 12 Sports",
