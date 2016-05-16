@@ -898,7 +898,7 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/78012"
     },
     {
-        "title"           :     "SABnzbd+",
+        "title"           :     "]",
         "bundle"          :     "SABnzbd.bundle",
         "type"            :     ["Application"],
         "description"     :     "Manage your SABnzbd+ queue and history from within Plex.",
@@ -999,7 +999,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.spotify2",
         "icon"            :     "spotify2-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/107169/rel-spotify2"
     },
     {
         "title"           :     "Srt2Utf-8",
