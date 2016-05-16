@@ -271,7 +271,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.excaliburfilms",
         "icon"            :     "excaliburfilms-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/31889/excaliburfilms-agent"
     },
     {
         "title"           :     "Facebook",
