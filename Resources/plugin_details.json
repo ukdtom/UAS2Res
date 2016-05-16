@@ -587,19 +587,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/214461"
     },
     {
-        "title"           :     "Let Me Watch This",
-        "bundle"          :     "LetMeWatchThis.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Movies and TV Shows from 1Channel.ch (Let Me Watch This)",
-        "repo"            :     "https://github.com/ReallyFuzzy/LetMeWatchThis.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.letmewatchthis",
-        "icon"            :     "lmwt-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/36855"
-    },
-    {
         "title"           :     "Library Updater",
         "bundle"          :     "LibraryUpdater.bundle",
         "type"            :     ["Application"],
