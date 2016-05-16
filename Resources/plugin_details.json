@@ -1125,7 +1125,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.viaplay",
         "icon"            :     "viaplay-icon.jpg",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/82378/viaplay-se-no-dk-fi"
     },
     {
         "title"           :     "Vice",
