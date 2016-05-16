@@ -739,7 +739,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.oldmovietime",
         "icon"            :     "oldmovietime-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/103657/rel-oldmovietime-com"
     },
     {
         "title"           :     "Open Movie Database",
