@@ -820,6 +820,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/85258"
     },
     {
+        "title"           :     "PlexWink",
+        "bundle"          :     "PlexWink.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Allow Plex Media Server to control your Wink smart lights",
+        "repo"            :     "https://github.com/vanstinator/PlexWink.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.plexwink",
+        "icon"            :     "plexwink-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/205647"
+    },
+    {
         "title"           :     "PLinkTV - Plex Link TV",
         "bundle"          :     "PLinkTV.bundle",
         "type"            :     ["Video"],
@@ -1063,6 +1076,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/102818"
     },
     {
+        "title"           :     "TuneIn",
+        "bundle"          :     "TuneIn.bundle",
+        "type"            :     ["Music", "Social"],
+        "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
+        "repo"            :     "https://github.com/solvek/TuneIn.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.tunein",
+        "icon"            :     "tunein-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/203970"
+    },
+    {
         "title"           :     "TV-Headend NG",
         "bundle"          :     "tvheadend-ng.bundle",
         "type"            :     ["Video"],
@@ -1154,6 +1180,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/81709"
     },
     {
+        "title"           :     "Videoprobki",
+        "bundle"          :     "videoprobki.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Online traffic jam videos in Ukrainian cities",
+        "repo"            :     "https://github.com/solvek/videoprobki.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.videoprobki",
+        "icon"            :     "videoprobki-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/208066"
+    },
+    {
         "title"           :     "VKontakte",
         "bundle"          :     "VKontakte.bundle",
         "type"            :     ["Video","Music"],
@@ -1165,6 +1204,32 @@
         "identifier"      :     "com.plexapp.plugins.vkontakte",
         "icon"            :     "vkontakte-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/119058/rel-vkontakte"
+    },
+    {
+        "title"           :     "VsetvNet",
+        "bundle"          :     "VsetvNet.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Ukrainian TV channels",
+        "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.vsetvnet",
+        "icon"            :     "vsetvnet-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/203698"
+    },
+    {
+        "title"           :     "Wake on LAN (WOL) Plugin for Plex",
+        "bundle"          :     "wol.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "WOL allows you to wake additional media servers or PCs using the PMS to send a Magic Packet. This allows you to gain access to Library resources or folders that you might not permanently leave switched on. WOL lets you configure up to 10 systems to be woken and allows up to two groups of devices to be configured.",
+        "repo"            :     "https://github.com/SpacemanJT/wol.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.wol",
+        "icon"            :     "wol_icon-default.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/215107"
     },
     {
         "title"           :     "Webisodes",
@@ -1206,19 +1271,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
-        "title"           :     "xiami",
-        "bundle"          :     "xiami.bundle",
-        "type"            :     ["Music"],
-        "description"     :     "Stream music from xiami.com",
-        "repo"            :     "https://github.com/hojel/xiami.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xiami",
-        "icon"            :     "xiami-icon.png",
-        "supporturl"      :     ""
-    },
-    {
         "title"           :     "xHamster",
         "bundle"          :     "xHamster.bundle",
         "type"            :     ["Video", "Adult"],
@@ -1230,6 +1282,19 @@
         "identifier"      :     "com.plexapp.plugins.xhamster",
         "icon"            :     "xhamster-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/26116"
+    },
+    {
+        "title"           :     "xiami",
+        "bundle"          :     "xiami.bundle",
+        "type"            :     ["Music"],
+        "description"     :     "Stream music from xiami.com",
+        "repo"            :     "https://github.com/hojel/xiami.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.xiami",
+        "icon"            :     "xiami-icon.png",
+        "supporturl"      :     ""
     },
     {
         "title"           :     "xkcd",
@@ -1269,70 +1334,5 @@
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "youjizz-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
-    },
-    {
-        "title"           :     "TuneIn",
-        "bundle"          :     "TuneIn.bundle",
-        "type"            :     ["Music", "Social"],
-        "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
-        "repo"            :     "https://github.com/solvek/TuneIn.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.tunein",
-        "icon"            :     "tunein-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/203970"
-    },
-    {
-        "title"           :     "VsetvNet",
-        "bundle"          :     "VsetvNet.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Ukrainian TV channels",
-        "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.vsetvnet",
-        "icon"            :     "vsetvnet-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/203698"
-    },
-    {
-        "title"           :     "PlexWink",
-        "bundle"          :     "PlexWink.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Allow Plex Media Server to control your Wink smart lights",
-        "repo"            :     "https://github.com/vanstinator/PlexWink.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.plexwink",
-        "icon"            :     "plexwink-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/205647"
-    },
-    {
-        "title"           :     "Videoprobki",
-        "bundle"          :     "videoprobki.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Online traffic jam videos in Ukrainian cities",
-        "repo"            :     "https://github.com/solvek/videoprobki.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.videoprobki",
-        "icon"            :     "videoprobki-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/208066"
-    },
-    { 
-        "title"           :     "Wake on LAN (WOL) Plugin for Plex", 
-        "bundle"          :     "wol.bundle", 
-        "type"            :     ["Application"], 
-        "description"     :     "WOL allows you to wake additional media servers or PCs using the PMS to send a Magic Packet. This allows you to gain access to Library resources or folders that you might not permanently leave switched on. WOL lets you configure up to 10 systems to be woken and allows up to two groups of devices to be configured.", 
-        "repo"            :     "https://github.com/SpacemanJT/wol.bundle", 
-        "branch"          :     "master", 
-        "DeleteCacheDir"  :     false, 
-        "DeleteDataDir"   :     false, 
-        "identifier"      :     "com.plexapp.plugins.wol", 
-        "icon"            :     "wol_icon-default.png",
-        "supporturl"     :     "https://forums.plex.tv/discussion/215107" 
     }
 ]
