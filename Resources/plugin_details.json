@@ -765,7 +765,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.orftvthek",
         "icon"            :     "orftvthek-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/81601/rel-orf-tvthek-channel"
     },
     {
         "title"           :     "Phimvang",
