@@ -1190,7 +1190,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.xbmcnfo",
         "icon"            :     "xbmcnfomoviesimporter-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
         "title"           :     "XBMCnfoTVImporter",
@@ -1203,7 +1203,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.xbmcnfotv",
         "icon"            :     "xbmcnfotvimporter-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
         "title"           :     "xiami",
