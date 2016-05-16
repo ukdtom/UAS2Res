@@ -49,7 +49,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.beeg",
         "icon"            :     "beeg-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/187168/rel-beeg-18-plug-in"
     },
     {
         "title"           :     "Big 12 Sports",
@@ -219,7 +219,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.data18",
         "icon"            :     "data18-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
         "title"           :     "Data18-Content Metadata Agent",
@@ -232,7 +232,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.data18-content",
         "icon"            :     "data18-content-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
         "title"           :     "Discovery Networks",
@@ -258,20 +258,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.dropbox",
         "icon"            :     "dropbox-icon.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "eporner",
-        "bundle"          :     "eporner.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch XXX-Videos from EPORNER.COM",
-        "repo"            :     "https://github.com/flownex/eporner.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.eporner",
-        "icon"            :     "eporner-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/100386/rel-dropbox"
     },
     {
         "title"           :     "ExcaliburFilms Metadata Agent",
@@ -284,7 +271,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.excaliburfilms",
         "icon"            :     "excaliburfilms-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/31889/excaliburfilms-agent"
     },
     {
         "title"           :     "Facebook",
@@ -349,7 +336,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.footyreport",
         "icon"            :     "footyreport-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/117176/rel-news-source-tv-hd-streaming-tv-plugin"
     },
     {
         "title"           :     "Full Movies on Reddit",
@@ -388,7 +375,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.googlemusic",
         "icon"            :     "googlemusic-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/110896/rel-google-music-channel"
     },
     {
         "title"           :     "Grooveshark",
@@ -401,7 +388,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.grooveshark",
         "icon"            :     "grooveshark-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/109611/rel-grooveshark-channel"
     },
     {
         "title"           :     "HanimeTV",
@@ -453,12 +440,11 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.hdstreaming",
         "icon"            :     "hdstreaming-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/117176/rel-news-source-tv-hd-streaming-tv-plugin"
     },
     {
         "title"           :     "Hitbox.tv",
         "bundle"          :     "Hitbox.tv.bundle",
-        "prefix"          :     "",
         "type"            :     ["Video"],
         "description"     :     "Allows streaming of Hitbox.tv live streams",
         "repo"            :     "https://github.com/r15ch13/Hitbox.tv.bundle",
@@ -467,7 +453,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "icon"            :     "hitboxtv-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/115411/rel-hitbox-tv-plugin"
     },
     {
         "title"           :     "IMDb HD Trailers",
@@ -545,7 +531,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.kink",
         "icon"            :     "kink-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/35633/adult-kink-com-metadata-agent"
     },
     {
         "title"           :     "KissNetwork",
@@ -571,7 +557,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "icon"            :     "legendastv-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/129730/rel-legendas-tv-subtitle-agent"
     },
     {
         "title"           :     "LetFap",
@@ -587,19 +573,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/214461"
     },
     {
-        "title"           :     "Let Me Watch This",
-        "bundle"          :     "LetMeWatchThis.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Movies and TV Shows from 1Channel.ch (Let Me Watch This)",
-        "repo"            :     "https://github.com/ReallyFuzzy/LetMeWatchThis.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.letmewatchthis",
-        "icon"            :     "lmwt-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/36855"
-    },
-    {
         "title"           :     "Library Updater",
         "bundle"          :     "LibraryUpdater.bundle",
         "type"            :     ["Application"],
@@ -610,7 +583,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.libraryupdater",
         "icon"            :     "libupdate-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/21108/library-updater-update-library-from-a-plug-in"
     },
     {
         "title"           :     "LihatTV",
@@ -649,7 +622,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.liveleak",
         "icon"            :     "liveleak-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/72180/rel-liveleak"
     },
     {
         "title"           :     "Logo TV",
@@ -740,7 +713,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.newzworthy",
         "icon"            :     "newzworthy-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/23612/rel-newzworthy"
     },
     {
         "title"           :     "NHL",
@@ -753,7 +726,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.nhl",
         "icon"            :     "nhl-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/13659/rel-nhl-plug-in-available"
     },
     {
         "title"           :     "Old Movie Time",
@@ -766,7 +739,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.oldmovietime",
         "icon"            :     "oldmovietime-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/103657/rel-oldmovietime-com"
     },
     {
         "title"           :     "Open Movie Database",
@@ -779,7 +752,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
         "icon"            :     "uimdbama-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/21894/rel-open-movie-database"
     },
     {
         "title"           :     "ORF TVThek(AT)",
@@ -792,7 +765,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.orftvthek",
         "icon"            :     "orftvthek-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/81601/rel-orf-tvthek-channel"
     },
     {
         "title"           :     "Phimvang",
@@ -845,6 +818,19 @@
         "identifier"      :     "com.plexapp.plugins.plextools",
         "icon"            :     "plextools-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/85258"
+    },
+    {
+        "title"           :     "PlexWink",
+        "bundle"          :     "PlexWink.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Allow Plex Media Server to control your Wink smart lights",
+        "repo"            :     "https://github.com/vanstinator/PlexWink.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.plexwink",
+        "icon"            :     "plexwink-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/205647"
     },
     {
         "title"           :     "PLinkTV - Plex Link TV",
@@ -909,7 +895,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.roosterteeth",
         "icon"            :     "roosterteeth-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/70662/rel-roosterteeth"
     },
     {
         "title"           :     "RSS Feeds",
@@ -925,7 +911,7 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/78012"
     },
     {
-        "title"           :     "SABnzbd+",
+        "title"           :     "]",
         "bundle"          :     "SABnzbd.bundle",
         "type"            :     ["Application"],
         "description"     :     "Manage your SABnzbd+ queue and history from within Plex.",
@@ -935,7 +921,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sabnzbd",
         "icon"            :     "sabnzbd-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/21947/rel-sabnzbd-plugin"
     },
     {
         "title"           :     "SBS (AU)",
@@ -1026,7 +1012,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.spotify2",
         "icon"            :     "spotify2-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/107169/rel-spotify2"
     },
     {
         "title"           :     "Srt2Utf-8",
@@ -1063,7 +1049,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sverigesradioplay",
         "icon"            :     "sverigesradioplay-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/182891/svensk-radio"
     },
     {
         "title"           :     "TheMovieClips plugin",
@@ -1090,6 +1076,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/102818"
     },
     {
+        "title"           :     "TuneIn",
+        "bundle"          :     "TuneIn.bundle",
+        "type"            :     ["Music", "Social"],
+        "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
+        "repo"            :     "https://github.com/solvek/TuneIn.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.tunein",
+        "icon"            :     "tunein-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/203970"
+    },
+    {
         "title"           :     "TV-Headend NG",
         "bundle"          :     "tvheadend-ng.bundle",
         "type"            :     ["Video"],
@@ -1113,7 +1112,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.uplay",
         "icon"            :     "uplay-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/129911/uplay-upnp-dlna-custom-video-channel-plug-in"
     },
     {
         "title"           :     "UR Play(SE)",
@@ -1152,7 +1151,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.viaplay",
         "icon"            :     "viaplay-icon.jpg",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/82378/viaplay-se-no-dk-fi"
     },
     {
         "title"           :     "Vice",
@@ -1165,7 +1164,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vice",
         "icon"            :     "vice-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/71324/rel-vice"
     },
     {
         "title"           :     "VH1",
@@ -1181,6 +1180,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/81709"
     },
     {
+        "title"           :     "Videoprobki",
+        "bundle"          :     "videoprobki.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Online traffic jam videos in Ukrainian cities",
+        "repo"            :     "https://github.com/solvek/videoprobki.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.videoprobki",
+        "icon"            :     "videoprobki-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/208066"
+    },
+    {
         "title"           :     "VKontakte",
         "bundle"          :     "VKontakte.bundle",
         "type"            :     ["Video","Music"],
@@ -1191,7 +1203,33 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vkontakte",
         "icon"            :     "vkontakte-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/119058/rel-vkontakte"
+    },
+    {
+        "title"           :     "VsetvNet",
+        "bundle"          :     "VsetvNet.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Ukrainian TV channels",
+        "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.vsetvnet",
+        "icon"            :     "vsetvnet-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/203698"
+    },
+    {
+        "title"           :     "Wake on LAN (WOL) Plugin for Plex",
+        "bundle"          :     "wol.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "WOL allows you to wake additional media servers or PCs using the PMS to send a Magic Packet. This allows you to gain access to Library resources or folders that you might not permanently leave switched on. WOL lets you configure up to 10 systems to be woken and allows up to two groups of devices to be configured.",
+        "repo"            :     "https://github.com/SpacemanJT/wol.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.wol",
+        "icon"            :     "wol_icon-default.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/215107"
     },
     {
         "title"           :     "Webisodes",
@@ -1217,7 +1255,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.xbmcnfo",
         "icon"            :     "xbmcnfomoviesimporter-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
         "title"           :     "XBMCnfoTVImporter",
@@ -1230,20 +1268,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.xbmcnfotv",
         "icon"            :     "xbmcnfotvimporter-icon.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "xiami",
-        "bundle"          :     "xiami.bundle",
-        "type"            :     ["Music"],
-        "description"     :     "Stream music from xiami.com",
-        "repo"            :     "https://github.com/hojel/xiami.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xiami",
-        "icon"            :     "xiami-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
         "title"           :     "xHamster",
@@ -1257,6 +1282,19 @@
         "identifier"      :     "com.plexapp.plugins.xhamster",
         "icon"            :     "xhamster-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/26116"
+    },
+    {
+        "title"           :     "xiami",
+        "bundle"          :     "xiami.bundle",
+        "type"            :     ["Music"],
+        "description"     :     "Stream music from xiami.com",
+        "repo"            :     "https://github.com/hojel/xiami.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.xiami",
+        "icon"            :     "xiami-icon.png",
+        "supporturl"      :     ""
     },
     {
         "title"           :     "xkcd",
@@ -1296,70 +1334,5 @@
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "youjizz-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
-    },
-    {
-        "title"           :     "TuneIn",
-        "bundle"          :     "TuneIn.bundle",
-        "type"            :     ["Music", "Social"],
-        "description"     :     "Play TuneIn stations and podcasts with Plex Media Server",
-        "repo"            :     "https://github.com/solvek/TuneIn.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.tunein",
-        "icon"            :     "tunein-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/203970"
-    },
-    {
-        "title"           :     "VsetvNet",
-        "bundle"          :     "VsetvNet.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Ukrainian TV channels",
-        "repo"            :     "https://github.com/solvek/VsetvNet.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.vsetvnet",
-        "icon"            :     "vsetvnet-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/203698"
-    },
-    {
-        "title"           :     "PlexWink",
-        "bundle"          :     "PlexWink.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Allow Plex Media Server to control your Wink smart lights",
-        "repo"            :     "https://github.com/vanstinator/PlexWink.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.plexwink",
-        "icon"            :     "plexwink-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/205647"
-    },
-    {
-        "title"           :     "Videoprobki",
-        "bundle"          :     "videoprobki.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Online traffic jam videos in Ukrainian cities",
-        "repo"            :     "https://github.com/solvek/videoprobki.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.videoprobki",
-        "icon"            :     "videoprobki-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/208066"
-    },
-    { 
-        "title"           :     "Wake on LAN (WOL) Plugin for Plex", 
-        "bundle"          :     "wol.bundle", 
-        "type"            :     ["Application"], 
-        "description"     :     "WOL allows you to wake additional media servers or PCs using the PMS to send a Magic Packet. This allows you to gain access to Library resources or folders that you might not permanently leave switched on. WOL lets you configure up to 10 systems to be woken and allows up to two groups of devices to be configured.", 
-        "repo"            :     "https://github.com/SpacemanJT/wol.bundle", 
-        "branch"          :     "master", 
-        "DeleteCacheDir"  :     false, 
-        "DeleteDataDir"   :     false, 
-        "identifier"      :     "com.plexapp.plugins.wol", 
-        "icon"            :     "wol_icon-default.png",
-        "supporturl"     :     "https://forums.plex.tv/discussion/215107" 
     }
 ]
