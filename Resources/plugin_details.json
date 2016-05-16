@@ -622,7 +622,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.liveleak",
         "icon"            :     "liveleak-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/72180/rel-liveleak"
     },
     {
         "title"           :     "Logo TV",
