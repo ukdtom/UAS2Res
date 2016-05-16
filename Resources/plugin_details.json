@@ -1086,7 +1086,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.uplay",
         "icon"            :     "uplay-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/129911/uplay-upnp-dlna-custom-video-channel-plug-in"
     },
     {
         "title"           :     "UR Play(SE)",
