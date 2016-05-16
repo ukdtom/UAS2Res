@@ -261,19 +261,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/100386/rel-dropbox"
     },
     {
-        "title"           :     "eporner",
-        "bundle"          :     "eporner.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch XXX-Videos from EPORNER.COM",
-        "repo"            :     "https://github.com/flownex/eporner.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.eporner",
-        "icon"            :     "eporner-icon.png",
-        "supporturl"      :     ""
-    },
-    {
         "title"           :     "ExcaliburFilms Metadata Agent",
         "bundle"          :     "ExcaliburFilms.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
