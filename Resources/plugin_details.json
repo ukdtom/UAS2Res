@@ -454,7 +454,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "icon"            :     "hitboxtv-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/115411/rel-hitbox-tv-plugin"
     },
     {
         "title"           :     "IMDb HD Trailers",
