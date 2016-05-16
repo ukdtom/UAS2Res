@@ -752,7 +752,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
         "icon"            :     "uimdbama-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/21894/rel-open-movie-database"
     },
     {
         "title"           :     "ORF TVThek(AT)",
