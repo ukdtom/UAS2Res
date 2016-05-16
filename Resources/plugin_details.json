@@ -557,7 +557,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "icon"            :     "legendastv-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/129730/rel-legendas-tv-subtitle-agent"
     },
     {
         "title"           :     "LetFap",
