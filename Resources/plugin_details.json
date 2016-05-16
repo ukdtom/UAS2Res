@@ -583,7 +583,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.libraryupdater",
         "icon"            :     "libupdate-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/21108/library-updater-update-library-from-a-plug-in"
     },
     {
         "title"           :     "LihatTV",
