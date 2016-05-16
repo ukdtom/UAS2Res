@@ -336,7 +336,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.footyreport",
         "icon"            :     "footyreport-icon.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/117176/rel-news-source-tv-hd-streaming-tv-plugin"
     },
     {
         "title"           :     "Full Movies on Reddit",
