@@ -911,7 +911,7 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/78012"
     },
     {
-        "title"           :     "]",
+        "title"           :     "SABnzbd+",
         "bundle"          :     "SABnzbd.bundle",
         "type"            :     ["Application"],
         "description"     :     "Manage your SABnzbd+ queue and history from within Plex.",
