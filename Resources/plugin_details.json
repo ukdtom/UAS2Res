@@ -859,7 +859,7 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/33683"
     },
     {
-        "title"           :     "Primewire",
+        "title"           :     "PrimeWire",
         "bundle"          :     "lmwt-kiss.bundle",
         "type"            :     ["Video"],
         "description"     :     "PrimeWire (formerly LetMeWatchThis), \"Keep It Simple, Stupid\"-version",
