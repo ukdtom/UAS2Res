@@ -858,7 +858,20 @@
         "icon"            :     "podnapisi-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/33683"
     },
-        {
+    {
+        "title"           :     "PrimeWire",
+        "bundle"          :     "lmwt-kiss.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "PrimeWire (formerly LetMeWatchThis), \"Keep It Simple, Stupid\"-version",
+        "repo"            :     "https://github.com/piplongrun/lmwt-kiss.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.lmwt.kiss",
+        "icon"            :     "primewire-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/156136/rel-primewire"
+    },
+    {
         "title"           :     "rawrANIME.tv",
         "bundle"          :     "rawrANIME.bundle",
         "type"            :     ["Video"],
