@@ -1154,19 +1154,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/82378/viaplay-se-no-dk-fi"
     },
     {
-        "title"           :     "Vice",
-        "bundle"          :     "Vice.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Online den of nefarious activities, investigative journalism, and enlightening documentaries. (US version)",
-        "repo"            :     "https://github.com/meriko/Vice.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.vice",
-        "icon"            :     "vice-icon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/71324/rel-vice"
-    },
-    {
         "title"           :     "VH1",
         "bundle"          :     "VH1.bundle",
         "type"            :     ["Video"],
