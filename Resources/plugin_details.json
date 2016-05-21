@@ -699,7 +699,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.nbcsports",
-        "icon"            :     "nbcsports-icon.jpg",
+        "icon"            :     "nbcsports-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/88165"
     },
     {
