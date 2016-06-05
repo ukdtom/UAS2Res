@@ -537,7 +537,7 @@
         "title"           :     "KissNetwork",
         "bundle"          :     "KissNetwork.bundle",
         "type"            :     ["Video", "Pictures"],
-        "description"     :     "Watch Anime, Asian Drama, Cartoons, & view Manga from KissAnime, KissAsian, KissCartoon, & KissManga respectfully.",
+        "description"     :     "View Anime, Asian Drama, Cartoons, Manga & Comics from KissAnime, KissAsian, KissCartoon, KissManga & ReadComicOnline. (requires node.js or equivalent Javascript runtime)",
         "repo"            :     "https://github.com/Twoure/KissNetwork.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
