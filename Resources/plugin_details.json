@@ -1157,7 +1157,7 @@
         "title"           :     "Viaplay",
         "bundle"          :     "Viaplay.bundle",
         "type"            :     ["Video"],
-        "description"     :     "Watch TV, Movies and Sports from Viaplay",
+        "description"     :     "Watch TV, Movies and Sports from Viaplay. Note that an account and subscription from Viaplay is required.",
         "repo"            :     "https://github.com/JeppeTh/Viaplay.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
@@ -1334,5 +1334,18 @@
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "youjizz-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
+    },
+    {
+        "title"           :     "C More LIVE",
+        "bundle"          :     "Cmore.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Live Sports from C More. Note that an account and subscription from C More is required.",
+        "repo"            :     "https://github.com/JeppeTh/Cmore.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.cmore",
+        "icon"            :     "cmore-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/221307/rel-cmore-se-no-dk"
     }
 ]
