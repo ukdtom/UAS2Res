@@ -1349,10 +1349,10 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
     },
     {
-        "title"           :     "C More LIVE",
+        "title"           :     "C More Sport",
         "bundle"          :     "Cmore.bundle",
         "type"            :     ["Video"],
-        "description"     :     "Watch Live Sports from C More. Note that an account and subscription from C More is required.",
+        "description"     :     "Watch Sports from C More. Note that an account and subscription from C More is required.",
         "repo"            :     "https://github.com/JeppeTh/Cmore.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
