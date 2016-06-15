@@ -508,6 +508,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/76083"
     },
     {
+        "title"           :     "Jav789",
+        "bundle"          :     "Jav789.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch Free HD Japanese and Asian Adult Movies (360p & 720p) from jav789.com",
+        "repo"            :     "https://github.com/Nosinden/Jav789.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.jav789",
+        "icon"            :     "jav789-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/221762"
+    },
+    {
         "title"           :     "JavHiHi",
         "bundle"          :     "JavHiHi.bundle",
         "type"            :     ["Video", "Adult"],
