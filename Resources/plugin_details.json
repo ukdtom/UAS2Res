@@ -1005,7 +1005,7 @@
         "title"           :     "SpankBang",
         "bundle"          :     "SpankBang.bundle",
         "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch Free Adult Videos (240p to 720p) from spankbang.com",
+        "description"     :     "Watch Free Adult Videos (240p to 1080p) from spankbang.com",
         "repo"            :     "https://github.com/Nosinden/SpankBang.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
