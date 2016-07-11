@@ -261,6 +261,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/100386/rel-dropbox"
     },
     {
+        "title"           :     "eFukt",
+        "bundle"          :     "eFukt.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Adult humour from eFukt (XXX)",
+        "repo"            :     "https://github.com/NotVinny/eFukt.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.efukt",
+        "icon"            :     "eFukt-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/224858"
+    },
+    {
         "title"           :     "ExcaliburFilms Metadata Agent",
         "bundle"          :     "ExcaliburFilms.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
@@ -675,6 +688,19 @@
         "identifier"      :     "com.plexapp.plugins.mediaportal",
         "icon"            :     "mediaportal-icon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/65069"
+    },
+    {
+        "title"           :     "Motherless",
+        "bundle"          :     "Motherless.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch adult videos from Motherless (XXX)",
+        "repo"            :     "https://github.com/NotVinny/Motherless.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.motherless",
+        "icon"            :     "motherless-icon.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/224860"
     },
     {
         "title"           :     "Movie2k",
