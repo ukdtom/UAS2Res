@@ -898,6 +898,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/33683"
     },
     {
+        "title"           :     "PornHub",
+        "bundle"          :     "PornHub.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch adult videos from PornHub (XXX)",
+        "repo"            :     "https://github.com/NotVinny/PornHub.bundle",
+        "identifier"      :     "com.plexapp.plugins.pornhub",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "icon"            :     "pornhub-icon.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/226360"
+    },
+    {
         "title"           :     "PrimeWire",
         "bundle"          :     "lmwt-kiss.bundle",
         "type"            :     ["Video"],
