@@ -716,6 +716,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/75524"
     },
     {
+        "title"           :     "MovieGo",
+        "bundle"          :     "MovieGo.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Movies from MovieGo.cc.",
+        "repo"            :     "https://github.com/jwsolve/MovieGo.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.moviego",
+        "icon"            :     "moviego-icon.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/227029/"
+    },    
+    {
         "title"           :     "MTV Shows",
         "bundle"          :     "MTVShows.bundle",
         "type"            :     ["Video"],
