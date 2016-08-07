@@ -9,7 +9,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.anidb",
-        "icon"            :     "anidb-icon.png",
+        "icon"            :     "icon-anidb.png",
         "supporturl"      :     ""
     },
     {
@@ -22,7 +22,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.atv",
-        "icon"            :     "atvmediathek-icon.png",
+        "icon"            :     "icon-atvmediathek.png",
         "supporturl"      :     ""
     },
     {
@@ -35,7 +35,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.BayFM999",
-        "icon"            :     "bayfm999-icon.png",
+        "icon"            :     "icon-bayfm999.png",
         "supporturl"      :     ""
     },
     {
@@ -48,7 +48,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.beeg",
-        "icon"            :     "beeg-icon.png",
+        "icon"            :     "icon-beeg.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/187168/rel-beeg-18-plug-in"
     },
     {
@@ -61,7 +61,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.big12sports",
-        "icon"            :     "big12sports-icon.png",
+        "icon"            :     "icon-big12sports.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/90942"
     },
     {
@@ -74,7 +74,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.bittorrent",
-        "icon"            :     "bittorrent-icon.png",
+        "icon"            :     "icon-bittorrent.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/102253"
     },
     {
@@ -87,7 +87,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.bringthepopcorn",
-        "icon"            :     "bringthepopcorn-icon.png",
+        "icon"            :     "icon-bringthepopcorn.png",
         "hidden"          :     "False",
         "supporturl"      :     "https://forums.plex.tv/discussion/90720"
     },
@@ -101,7 +101,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.channel9",
-        "icon"            :     "nine.png",
+        "icon"            :     "icon-nine.png",
         "supporturl"      :     ""
     },
     {
@@ -114,7 +114,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.channel10",
-        "icon"            :     "ten.png",
+        "icon"            :     "icon-ten.png",
         "supporturl"      :     ""
     },
     {
@@ -127,7 +127,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.chaturbate",
-        "icon"            :     "chaturbate-icon.png",
+        "icon"            :     "icon-chaturbate.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/191119"
     },
     {
@@ -140,7 +140,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.christianscience",
-        "icon"            :     "christianscience-icon.png",
+        "icon"            :     "icon-christianscience.png",
         "supporturl"      :     ""
     },
     {
@@ -153,7 +153,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.cliphunter",
-        "icon"            :     "cliphunter-icon.png",
+        "icon"            :     "icon-cliphunter.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/200827"
     },
     {
@@ -166,7 +166,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.cmt",
-        "icon"            :     "cmt-icon.png",
+        "icon"            :     "icon-cmt.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/81341"
     },
     {
@@ -179,7 +179,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.couchpotato",
-        "icon"            :     "couchpotato-icon.png",
+        "icon"            :     "icon-couchpotato.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/19595"
     },
     {
@@ -192,7 +192,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.crunchyroll",
-        "icon"            :     "crunchyroll.png",
+        "icon"            :     "icon-crunchyroll.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/73626"
     },
     {
@@ -205,7 +205,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.dabdate",
-        "icon"            :     "dabdate-icon.png",
+        "icon"            :     "icon-dabdate.png",
         "supporturl"      :     ""
     },
     {
@@ -218,7 +218,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.data18",
-        "icon"            :     "data18-icon.png",
+        "icon"            :     "icon-data18.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
@@ -231,7 +231,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.data18-content",
-        "icon"            :     "data18-content-icon.png",
+        "icon"            :     "icon-data18-content.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
@@ -257,7 +257,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.dropbox",
-        "icon"            :     "dropbox-icon.png",
+        "icon"            :     "icon-dropbox.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/100386/rel-dropbox"
     },
     {
@@ -270,7 +270,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.efukt",
-        "icon"            :     "eFukt-icon.png",
+        "icon"            :     "icon-efukt.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/224858"
     },
     {
@@ -283,7 +283,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.excaliburfilms",
-        "icon"            :     "excaliburfilms-icon.png",
+        "icon"            :     "icon-excaliburfilms.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/31889/excaliburfilms-agent"
     },
     {
@@ -296,7 +296,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.facebook",
-        "icon"            :     "facebook-icon.png",
+        "icon"            :     "icon-facebook.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/21092"
     },
     {
@@ -309,7 +309,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.filmon",
-        "icon"            :     "filmon-icon.png",
+        "icon"            :     "icon-filmon.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/47650"
     },
     {
@@ -322,7 +322,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.findUnmatch",
-        "icon"            :     "icon-FindUnmatched.png",
+        "icon"            :     "icon-find-unmatched.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/87745"
     },
     {
@@ -335,7 +335,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.findMissing",
-        "icon"            :     "icon-FindMissing.png",
+        "icon"            :     "icon-find-missing.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/95148"
     },
     {
@@ -348,7 +348,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.footyreport",
-        "icon"            :     "footyreport-icon.png",
+        "icon"            :     "icon-footyreport.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/117176/rel-news-source-tv-hd-streaming-tv-plugin"
     },
     {
@@ -361,7 +361,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.fullmoviesonreddit",
-        "icon"            :     "fullmoviesonreddit-icon.png",
+        "icon"            :     "icon-fullmoviesonreddit.png",
         "supporturl"      :     ""
     },
     {
@@ -374,7 +374,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.g2gfm",
-        "icon"            :     "g2gfm-icon.png",
+        "icon"            :     "icon-g2gfm.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/111730"
     },
     {
@@ -387,7 +387,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.googlemusic",
-        "icon"            :     "googlemusic-icon.png",
+        "icon"            :     "icon-googlemusic.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/110896/rel-google-music-channel"
     },
     {
@@ -400,7 +400,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.grooveshark",
-        "icon"            :     "grooveshark-icon.png",
+        "icon"            :     "icon-grooveshark.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/109611/rel-grooveshark-channel"
     },
     {
@@ -413,7 +413,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.hanimetv",
-        "icon"            :     "hanimetv-icon.png",
+        "icon"            :     "icon-hanimetv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/191118"
     },
     {
@@ -426,7 +426,7 @@
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "icon"            :     "hdbits-icon.png",
+        "icon"            :     "icon-hdbits.png",
         "supporturl"      :     ""
     },
     {
@@ -439,7 +439,7 @@
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "icon"            :     "hdserials-icon.png",
+        "icon"            :     "icon-hdserials.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/124354"
     },
     {
@@ -452,7 +452,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.hdstreaming",
-        "icon"            :     "hdstreaming-icon.png",
+        "icon"            :     "icon-hdstreaming.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/117176/rel-news-source-tv-hd-streaming-tv-plugin"
     },
     {
@@ -465,7 +465,7 @@
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "icon"            :     "hitboxtv-icon.png",
+        "icon"            :     "icon-hitboxtv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/115411/rel-hitbox-tv-plugin"
     },
     {
@@ -478,7 +478,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.imdbtrailers",
-        "icon"            :     "IMDb-Trailers-icon.png",
+        "icon"            :     "icon-imdb-trailers.png",
         "supporturl"      :     ""
     },
     {
@@ -491,7 +491,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.internetarchive",
-        "icon"            :     "internetarchive-icon.png",
+        "icon"            :     "icon-internetarchive.png",
         "supporturl"      :     ""
     },
     {
@@ -504,7 +504,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.iptv",
-        "icon"            :     "iptv-icon.png",
+        "icon"            :     "icon-iptv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/83083"
     },
     {
@@ -517,7 +517,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.itvplayer",
-        "icon"            :     "ITV-Player-icon.png",
+        "icon"            :     "icon-itv-player.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/76083"
     },
     {
@@ -530,7 +530,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.jav789",
-        "icon"            :     "jav789-icon.png",
+        "icon"            :     "icon-jav789.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/221762"
     },
     {
@@ -543,7 +543,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.javhihi",
-        "icon"            :     "javhihi-icon.png",
+        "icon"            :     "icon-javhihi.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/214100"
     },
     {
@@ -556,7 +556,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.kink",
-        "icon"            :     "kink-icon.png",
+        "icon"            :     "icon-kink.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/35633/adult-kink-com-metadata-agent"
     },
     {
@@ -569,7 +569,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.kissnetwork",
-        "icon"            :     "kissnetwork-icon.png",
+        "icon"            :     "icon-kissnetwork.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/186988"
     },
     {
@@ -582,7 +582,7 @@
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "icon"            :     "legendastv-icon.png",
+        "icon"            :     "icon-legendastv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/129730/rel-legendas-tv-subtitle-agent"
     },
     {
@@ -595,7 +595,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.letfap",
-        "icon"            :     "letfap-icon.png",
+        "icon"            :     "icon-letfap.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/214461"
     },
     {
@@ -608,7 +608,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.libraryupdater",
-        "icon"            :     "libupdate-icon.png",
+        "icon"            :     "icon-libupdate.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/21108/library-updater-update-library-from-a-plug-in"
     },
     {
@@ -621,7 +621,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.lihattv",
-        "icon"            :     "lihattv-icon.png",
+        "icon"            :     "icon-lihattv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/196378"
     },
     {
@@ -634,7 +634,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.linktv",
-        "icon"            :     "linktv-icon.png",
+        "icon"            :     "icon-linktv.png",
         "supporturl"      :     ""
     },
     {
@@ -647,7 +647,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.liveleak",
-        "icon"            :     "liveleak-icon.png",
+        "icon"            :     "icon-liveleak.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/72180/rel-liveleak"
     },
     {
@@ -660,7 +660,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.logotv",
-        "icon"            :     "logotv-icon.png",
+        "icon"            :     "icon-logotv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/81339"
     },
     {
@@ -673,7 +673,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.mangafox",
-        "icon"            :     "mangafox-icon.png",
+        "icon"            :     "icon-mangafox.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/78743"
     },
     {
@@ -686,7 +686,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.mediaportal",
-        "icon"            :     "mediaportal-icon.png",
+        "icon"            :     "icon-mediaportal.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/65069"
     },
     {
@@ -699,7 +699,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.motherless",
-        "icon"            :     "motherless-icon.jpg",
+        "icon"            :     "icon-motherless.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/224860"
     },
     {
@@ -712,7 +712,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.movie2k",
-        "icon"            :     "movie2k-icon.png",
+        "icon"            :     "icon-movie2k.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/75524"
     },
     {
@@ -725,7 +725,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.moviego",
-        "icon"            :     "moviego-icon.png",
+        "icon"            :     "icon-moviego.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/227029/"
     },    
     {
@@ -738,7 +738,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.mtvshows",
-        "icon"            :     "mtvshows-icon.png",
+        "icon"            :     "icon-mtvshows.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/81430"
     },
     {
@@ -751,7 +751,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.nbcsports",
-        "icon"            :     "nbcsports-icon.png",
+        "icon"            :     "icon-nbcsports.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/88165"
     },
     {
@@ -764,7 +764,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.newzworthy",
-        "icon"            :     "newzworthy-icon.png",
+        "icon"            :     "icon-newzworthy.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/23612/rel-newzworthy"
     },
     {
@@ -777,7 +777,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.nhl",
-        "icon"            :     "nhl-icon.png",
+        "icon"            :     "icon-nhl.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/13659/rel-nhl-plug-in-available"
     },
     {
@@ -790,7 +790,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.oldmovietime",
-        "icon"            :     "oldmovietime-icon.png",
+        "icon"            :     "icon-oldmovietime.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/103657/rel-oldmovietime-com"
     },
     {
@@ -803,7 +803,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
-        "icon"            :     "uimdbama-icon.png",
+        "icon"            :     "icon-uimdbama.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/21894/rel-open-movie-database"
     },
     {
@@ -816,7 +816,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.orftvthek",
-        "icon"            :     "orftvthek-icon.png",
+        "icon"            :     "icon-orftvthek.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/81601/rel-orf-tvthek-channel"
     },
     {
@@ -829,7 +829,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.phimvang",
-        "icon"            :     "phimvang-icon.png",
+        "icon"            :     "icon-phimvang.png",
         "supporturl"      :     ""
     },
     {
@@ -855,7 +855,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.plexrequestschannel",
-        "icon"            :     "plexrequestchannel-icon.png",
+        "icon"            :     "icon-plexrequestchannel.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/205378/plex-request-channel"
     },
     {
@@ -868,7 +868,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.plextools",
-        "icon"            :     "plextools-icon.png",
+        "icon"            :     "icon-plextools.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/85258"
     },
     {
@@ -881,7 +881,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.plexwink",
-        "icon"            :     "plexwink-icon.png",
+        "icon"            :     "icon-plexwink.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/205647"
     },
     {
@@ -894,7 +894,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.plinktv",
-        "icon"            :     "plinktv-icon.png",
+        "icon"            :     "icon-plinktv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/99245"
     },
     {
@@ -907,7 +907,7 @@
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "icon"            :     "podnapisi-icon.png",
+        "icon"            :     "icon-podnapisi.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/33683"
     },
     {
@@ -920,7 +920,7 @@
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "icon"            :     "pornhub-icon.png",
+        "icon"            :     "icon-pornhub.png",
         "supporturl"      :     "http://forums.plex.tv/discussion/226360"
     },
     {
@@ -933,7 +933,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.lmwt.kiss",
-        "icon"            :     "primewire-icon.png",
+        "icon"            :     "icon-primewire.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/156136/rel-primewire"
     },
     {
@@ -946,7 +946,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.rawranime",
-        "icon"            :     "rawranime-icon.png",
+        "icon"            :     "icon-rawranime.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/103120"
     },
     {
@@ -959,7 +959,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.redtube",
-        "icon"            :     "redtube-icon.png",
+        "icon"            :     "icon-redtube.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/38208"
     },
     {
@@ -972,7 +972,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.roosterteeth",
-        "icon"            :     "roosterteeth-icon.png",
+        "icon"            :     "icon-roosterteeth.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/70662/rel-roosterteeth"
     },
     {
@@ -985,7 +985,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.rssfeeds",
-        "icon"            :     "rss-feed-icon.png",
+        "icon"            :     "icon-rss-feed.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/78012"
     },
     {
@@ -998,7 +998,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sabnzbd",
-        "icon"            :     "sabnzbd-icon.png",
+        "icon"            :     "icon-sabnzbd.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/21947/rel-sabnzbd-plugin"
     },
     {
@@ -1011,7 +1011,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sbs",
-        "icon"            :     "sbs.png",
+        "icon"            :     "icon-sbs.png",
         "supporturl"      :     ""
     },
     {
@@ -1024,7 +1024,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sickbeard",
-        "icon"            :     "sickbeard-icon.png",
+        "icon"            :     "icon-sickbeard.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/20159"
     },
     {
@@ -1037,7 +1037,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.smiconvert",
-        "icon"            :     "smiconvert-icon.png",
+        "icon"            :     "icon-smiconvert.png",
         "supporturl"      :     ""
     },
     {
@@ -1050,7 +1050,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.somafm",
-        "icon"            :     "somafm-icon.png",
+        "icon"            :     "icon-somafm.png",
         "supporturl"      :     ""
     },
     {
@@ -1063,7 +1063,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.spankbang",
-        "icon"            :     "spankbang-icon.png",
+        "icon"            :     "icon-spankbang.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/198221"
     },
     {
@@ -1076,7 +1076,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sportsebooks",
-        "icon"            :     "sportsebooks-icon.png",
+        "icon"            :     "icon-sportsebooks.png",
         "supporturl"      :     ""
     },
     {
@@ -1089,7 +1089,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.spotify2",
-        "icon"            :     "spotify2-icon.png",
+        "icon"            :     "icon-spotify2.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/107169/rel-spotify2"
     },
     {
@@ -1102,7 +1102,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.srt2utf8",
-        "icon"            :     "srt2utf-8.png",
+        "icon"            :     "icon-srt2utf-8.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/94864"
     },
     {
@@ -1113,7 +1113,7 @@
         "repo"            :     "https://github.com/mikew/ss-plex.bundle",
         "branch"          :     "stable",
         "identifier"      :     "com.plexapp.plugins.wso",
-        "icon"            :     "ss-plex.png",
+        "icon"            :     "icon-ss-plex.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/48412"
     },
     {
@@ -1126,7 +1126,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.sverigesradioplay",
-        "icon"            :     "sverigesradioplay-icon.png",
+        "icon"            :     "icon-sverigesradioplay.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/182891/svensk-radio"
     },
     {
@@ -1139,7 +1139,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.tmc",
-        "icon"            :     "tmc-icon.png",
+        "icon"            :     "icon-tmc.png",
         "supporturl"      :     ""
     },
     {
@@ -1150,7 +1150,7 @@
         "repo"            :     "https://github.com/trakt/Plex-Trakt-Scrobbler",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.plugins.trakttv",
-        "icon"            :     "trakt-icon.png",
+        "icon"            :     "icon-trakt.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/102818"
     },
     {
@@ -1163,7 +1163,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.tunein",
-        "icon"            :     "tunein-icon.png",
+        "icon"            :     "icon-tunein.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/203970"
     },
     {
@@ -1176,7 +1176,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.tvheadend-ng",
-        "icon"            :     "tvheadend-ng-icon.png",
+        "icon"            :     "icon-tvheadend-ng.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/95345"
     },
     {
@@ -1189,7 +1189,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.uplay",
-        "icon"            :     "uplay-icon.png",
+        "icon"            :     "icon-uplay.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/129911/uplay-upnp-dlna-custom-video-channel-plug-in"
     },
     {
@@ -1202,7 +1202,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.urplay",
-        "icon"            :     "urplay-icon.png",
+        "icon"            :     "icon-urplay.png",
         "supporturl"      :     ""
     },
     {
@@ -1215,7 +1215,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.ustvnow",
-        "icon"            :     "ustvnow-icon.png",
+        "icon"            :     "icon-ustvnow.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/60268"
     },
     {
@@ -1228,7 +1228,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.viaplay",
-        "icon"            :     "viaplay-icon.jpg",
+        "icon"            :     "icon-viaplay.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/82378/viaplay-se-no-dk-fi"
     },
     {
@@ -1241,7 +1241,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vh1",
-        "icon"            :     "vh1-icon.png",
+        "icon"            :     "icon-vh1.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/81709"
     },
     {
@@ -1254,7 +1254,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.videoprobki",
-        "icon"            :     "videoprobki-icon.png",
+        "icon"            :     "icon-videoprobki.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/208066"
     },
     {
@@ -1267,7 +1267,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vkontakte",
-        "icon"            :     "vkontakte-icon.png",
+        "icon"            :     "icon-vkontakte.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/119058/rel-vkontakte"
     },
     {
@@ -1280,7 +1280,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.vsetvnet",
-        "icon"            :     "vsetvnet-icon.png",
+        "icon"            :     "icon-vsetvnet.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/203698"
     },
     {
@@ -1293,7 +1293,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.wol",
-        "icon"            :     "wol_icon-default.png",
+        "icon"            :     "icon-wol.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/215107"
     },
     {
@@ -1306,7 +1306,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.webisodes",
-        "icon"            :     "webisodes-icon.png",
+        "icon"            :     "icon-webisodes.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/71407"
     },
     {
@@ -1319,7 +1319,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.xbmcnfo",
-        "icon"            :     "xbmcnfomoviesimporter-icon.png",
+        "icon"            :     "icon-xbmcnfomoviesimporter.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
@@ -1332,7 +1332,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.xbmcnfotv",
-        "icon"            :     "xbmcnfotvimporter-icon.png",
+        "icon"            :     "icon-xbmcnfotvimporter.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
@@ -1345,7 +1345,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.xhamster",
-        "icon"            :     "xhamster-icon.png",
+        "icon"            :     "icon-xhamster.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/26116"
     },
     {
@@ -1358,7 +1358,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.xiami",
-        "icon"            :     "xiami-icon.png",
+        "icon"            :     "icon-xiami.png",
         "supporturl"      :     ""
     },
     {
@@ -1371,7 +1371,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.xkcd",
-        "icon"            :     "xkcd-icon.png",
+        "icon"            :     "icon-xkcd.png",
         "supporturl"      :     ""
     },
     {
@@ -1384,7 +1384,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.xnxx",
-        "icon"            :     "xnxx-icon.png",
+        "icon"            :     "icon-xnxx.png",
         "supporturl"      :     ""
     },
     {
@@ -1397,7 +1397,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.youjizz",
-        "icon"            :     "youjizz-icon.png",
+        "icon"            :     "icon-youjizz.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
     },
     {
@@ -1410,7 +1410,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.cmore",
-        "icon"            :     "cmore-icon.png",
+        "icon"            :     "icon-cmore.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/221307/rel-cmore-se-no-dk"
     }
 ]
