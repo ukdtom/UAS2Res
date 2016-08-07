@@ -92,6 +92,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/90720"
     },
     {
+        "title"           :     "C More Sport",
+        "bundle"          :     "Cmore.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Sports from C More. Note that an account and subscription from C More is required.",
+        "repo"            :     "https://github.com/JeppeTh/Cmore.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.cmore",
+        "icon"            :     "icon-cmore.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/221307/rel-cmore-se-no-dk"
+    },
+    {
         "title"           :     "Channel9 (AU)",
         "bundle"          :     "Channel9.bundle",
         "type"            :     ["Video"],
@@ -1399,18 +1412,5 @@
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "icon-youjizz.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
-    },
-    {
-        "title"           :     "C More Sport",
-        "bundle"          :     "Cmore.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Sports from C More. Note that an account and subscription from C More is required.",
-        "repo"            :     "https://github.com/JeppeTh/Cmore.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.cmore",
-        "icon"            :     "icon-cmore.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/221307/rel-cmore-se-no-dk"
     }
 ]
