@@ -1028,6 +1028,19 @@
         "supporturl"      :     ""
     },
     {
+        "title"           :     "SF Kids Play",
+        "bundle"          :     "Sfkids.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Movies/Series from SF Kids Play. Note that an account and subscription from SF Kids is required.",
+        "repo"            :     "https://github.com/JeppeTh/Sfkids.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.sfkids",
+        "icon"            :     "icon-sfkids.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/228900/rel-sfkids-se-no-dk-fi"
+    },
+    {
         "title"           :     "SickBeard",
         "bundle"          :     "SickBeard.bundle",
         "type"            :     ["Application"],
