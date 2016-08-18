@@ -576,7 +576,7 @@
         "title"           :     "KissNetwork",
         "bundle"          :     "KissNetwork.bundle",
         "type"            :     ["Video", "Pictures"],
-        "description"     :     "View Anime, Asian Drama, Cartoons, Manga & Comics from KissAnime, KissAsian, KissCartoon, KissManga & ReadComicOnline. (requires node.js or equivalent Javascript runtime)",
+        "description"     :     "View Anime, Asian Drama, Cartoons, Manga & Comics from KissAnime, KissAsian, KissCartoon, KissManga & ReadComicOnline.",
         "repo"            :     "https://github.com/Twoure/KissNetwork.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
@@ -740,7 +740,7 @@
         "identifier"      :     "com.plexapp.plugins.moviego",
         "icon"            :     "icon-moviego.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/227029/"
-    },    
+    },
     {
         "title"           :     "MTV Shows",
         "bundle"          :     "MTVShows.bundle",
