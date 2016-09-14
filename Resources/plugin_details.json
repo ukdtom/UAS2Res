@@ -963,6 +963,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/103120"
     },
     {
+        "title"           :     "Rainierland",
+        "bundle"          :     "Rainierland.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Movies and TV Shows from rainierland.com",
+        "repo"            :     "https://github.com/coder-alpha/Rainierland.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.rainierland",
+        "icon"            :     "icon-rainierland.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/165757"
+    },
+    {
         "title"           :     "RedTube",
         "bundle"          :     "RedTube.bundle",
         "type"            :     ["Video", "Adult"],
