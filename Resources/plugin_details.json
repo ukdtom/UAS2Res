@@ -1374,6 +1374,19 @@
         "icon"            :     "icon-xbmcnfotvimporter.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
+	{
+        "title"           :     "XMovies8Org",
+        "bundle"          :     "XMovies8Org.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch High Quality HD Movies from xmovies8.org",
+        "repo"            :     "https://github.com/coder-alpha/XMovies8Org.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.xmovies8org",
+        "icon"            :     "icon-xmovies8org.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/233261"
+    },
     {
         "title"           :     "xHamster",
         "bundle"          :     "xHamster.bundle",
