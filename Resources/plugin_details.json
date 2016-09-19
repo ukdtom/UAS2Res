@@ -456,6 +456,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/124354"
     },
     {
+        "title"           :     "HDHR Viewer 2",
+        "bundle"          :     "HDHRViewerV2.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "HDHR Viewer 2 aka HDHomeRun Viewer - Watch Live TV with HDHomeRun",
+        "repo"            :     "https://github.com/zynine-/HDHRViewerV2.bundle",
+        "identifier"      :     "com.plexapp.plugins.hdhrviewer.v2",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "icon"            :     "icon-hdhrviewer2.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/101755"
+    },
+    {
         "title"           :     "HD Streaming",
         "bundle"          :     "HDStreaming.bundle",
         "type"            :     ["Video"],
