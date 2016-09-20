@@ -703,6 +703,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/78743"
     },
     {
+        "title"           :     "Mangahere",
+        "bundle"          :     "Mangahere.bundle",
+        "type"            :     ["Pictures"],
+        "description"     :     "Read Manga from Mangahere.co",
+        "repo"            :     "https://github.com/Twoure/Mangahere.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.mangahere",
+        "icon"            :     "icon-mangahere.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/233703"
+    },
+    {
         "title"           :     "MediaPortal",
         "bundle"          :     "MediaPortal.bundle",
         "type"            :     ["Video"],
