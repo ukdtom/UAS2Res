@@ -248,6 +248,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
+        "title"           :     "Desi Telly",
+        "bundle"          :     "DesiTelly.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Desi Entertainment from DesiTvBox, DesiTashan & DesiRulez",
+        "repo"            :     "https://github.com/coder-alpha/DesiTelly.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.desitelly",
+        "icon"            :     "icon-desitelly.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/234701/"
+    },
+    {
         "title"           :     "Discovery Networks",
         "bundle"          :     "Discovery.bundle",
         "type"            :     ["Video"],
@@ -285,6 +298,19 @@
         "identifier"      :     "com.plexapp.plugins.efukt",
         "icon"            :     "icon-efukt.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/224858"
+    },
+	{
+        "title"           :     "Einthusan",
+        "bundle"          :     "Einthusan.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Indian movies (english subtitled) from Einthusan.com",
+        "repo"            :     "https://github.com/coder-alpha/Einthusan.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.einthusan",
+        "icon"            :     "icon-einthusan.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/165072/"
     },
     {
         "title"           :     "ExcaliburFilms Metadata Agent",
