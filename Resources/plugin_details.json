@@ -768,19 +768,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/224860"
     },
     {
-        "title"           :     "Movie2k",
-        "bundle"          :     "MOVIE2K.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Movies and TV Show Series from Movie4k.to.",
-        "repo"            :     "https://github.com/Joecowboy/MOVIE2K.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.movie2k",
-        "icon"            :     "icon-movie2k.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/75524"
-    },
-    {
         "title"           :     "MovieGo",
         "bundle"          :     "MovieGo.bundle",
         "type"            :     ["Video"],
