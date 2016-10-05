@@ -894,7 +894,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.Plex2csv",
-        "icon"            :     "icon-Plex2csv.png",
+        "icon"            :     "icon-plex2csv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/103115"
     },
    {
