@@ -897,7 +897,20 @@
         "icon"            :     "icon-Plex2csv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/103115"
     },
-   {
+	{
+        "title"           :     "PlexPod",
+        "bundle"          :     "plexpod.bundle",
+        "type"            :     ["Music"],
+        "description"     :     "A Plex Based Podcast aggregator",
+        "repo"            :     "https://github.com/snoshoesledska/plexpod.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.PlexPod",
+        "icon"            :     "icon-PlexPod.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/240335/rel-plexpod-release"
+	},
+	{
         "title"           :     "Plex Request Channel",
         "bundle"          :     "PlexRequestChannel.bundle",
         "type"            :     ["Application"],
@@ -909,7 +922,7 @@
         "identifier"      :     "com.plexapp.plugins.plexrequestschannel",
         "icon"            :     "icon-plexrequestchannel.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/205378/plex-request-channel"
-    },
+	},
     {
         "title"           :     "Plex Tools",
         "bundle"          :     "PlexTools.bundle",
