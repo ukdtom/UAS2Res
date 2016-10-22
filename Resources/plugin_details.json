@@ -891,6 +891,7 @@
         "description"     :     "Will export selected sections into a CSV file",
         "repo"            :     "https://github.com/ukdtom/plex2csv.bundle",
         "branch"          :     "master",
+        "release"         :     "plex2csv.bundle-master.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.Plex2csv",
