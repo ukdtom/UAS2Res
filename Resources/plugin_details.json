@@ -352,19 +352,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/47650"
     },
     {
-        "title"           :     "FindUnmatched",
-        "bundle"          :     "Plex-FindUnmatched.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Scan your medias, and report medias missing from the database.",
-        "repo"            :     "https://github.com/ukdtom/Plex-FindUnmatched.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.findUnmatch",
-        "icon"            :     "icon-find-unmatched.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/87745"
-    },
-    {
         "title"           :     "FindMissing",
         "bundle"          :     "FindMissing.bundle",
         "type"            :     ["Application"],
