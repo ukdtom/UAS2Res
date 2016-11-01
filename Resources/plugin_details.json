@@ -573,6 +573,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/221762"
     },
     {
+        "title"           :     "JavBuz",
+        "bundle"          :     "JavBuz.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch Free HD 1pondo.tv Japanese Adult Videos (360p & 720p) from javbuz.com",
+        "repo"            :     "https://github.com/Nosinden/JavBuz.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.javbuz",
+        "icon"            :     "icon-javbuz.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/243338"
+    },
+    {
         "title"           :     "JavHiHi",
         "bundle"          :     "JavHiHi.bundle",
         "type"            :     ["Video", "Adult"],
