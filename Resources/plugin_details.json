@@ -91,6 +91,19 @@
         "hidden"          :     "False",
         "supporturl"      :     "https://forums.plex.tv/discussion/90720"
     },
+	{
+        "title"           :     "cCloud TV",
+        "bundle"          :     "CcloudTv.bundle",
+        "type"            :     ["Video", "Music"],
+        "description"     :     "A Community based Social IPTV Service for Live TV, Movies, TV Shows & Radio along with an IPTV playlist player.",
+        "repo"            :     "https://github.com/coder-alpha/CcloudTv.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.ccloudtv",
+        "icon"            :     "icon-ccloudtv.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/166602"
+    },
     {
         "title"           :     "C More Sport",
         "bundle"          :     "Cmore.bundle",
