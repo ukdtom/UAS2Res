@@ -863,7 +863,7 @@
         "bundle"          :     "OpenMovieDatabase.bundle",
         "type"            :     ["Metadata Agent"],
         "description"     :     "Metadata agent to retrieve film info from the Open Movie Database (English only!)",
-        "repo"            :     "https://github.com/haeY/OpenMovieDatabase.bundle",
+        "repo"            :     "https://github.com/piplongrun/OpenMovieDatabase.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
