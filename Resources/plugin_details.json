@@ -1,4 +1,18 @@
 [
+	    {
+        "title"           :     "AniDB.net Metadata Agent",
+        "bundle"          :     "AniDB.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata agent for anime movies and tv-shows",
+        "repo"            :     "https://github.com/bstard/AniDB.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.anidb",
+        "icon"            :     "icon-anidb.png",
+        "supporturl"      :     ""
+    },
+
     {
         "title"           :     "ATV MediaThek(AT)",
         "bundle"          :     "ATVMediaThek.bundle",
