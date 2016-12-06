@@ -313,6 +313,20 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/224858"
     },
 	{
+        "title"           :     "epg-dk",
+        "bundle"          :     "epg-dk.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Download automaticly an xmltv file from YouSee Denmark",
+        "repo"            :     "https://github.com/ukdtom/epg-dk.bundle",
+        "branch"          :     "master",
+        "release"         :     "epg-dk.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.epg-dk.bundle",
+        "icon"            :     "icon-epg-dk.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/248011"
+    },
+	{
         "title"           :     "Einthusan",
         "bundle"          :     "Einthusan.bundle",
         "type"            :     ["Video"],
