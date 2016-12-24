@@ -834,6 +834,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/248325"
     },
     {
+        "title"           :     "MYTF1",
+        "bundle"          :     "mytf1.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch all replays from tf1.fr",
+        "repo"            :     "https://github.com/tuxity/MYTF1.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.mytf1",
+        "icon"            :     "icon-mytf1.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/240626/plugin-mytf1"
+    },
+    {
         "title"           :     "NBCSports",
         "bundle"          :     "NBCSports.bundle",
         "type"            :     ["Video"],
