@@ -1556,6 +1556,6 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.mst3k",
         "icon"            :     "icon-mst3k.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "http://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
     }
 ]
