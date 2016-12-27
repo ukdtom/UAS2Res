@@ -1544,5 +1544,18 @@
         "identifier"      :     "com.plexapp.plugins.youjizz",
         "icon"            :     "icon-youjizz.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
+    },
+  {
+        "title"           :     "MST3K",
+        "bundle"          :     "mst3k.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Mystery Science Theater 3000 (MST3K) Episodes and Extras",
+        "repo"            :     "https://github.com/crowservo/mst3k.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.mst3k",
+        "icon"            :     "icon-mst3k.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
     }
 ]
