@@ -23,7 +23,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.arconaitv",
         "icon"            :     "icon-arconaitv.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/251508"
+        "supporturl"      :     "https://forums.plex.tv/discussion/251508"
     },
     {
         "title"           :     "ATV MediaThek(AT)",
@@ -115,7 +115,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.ccloudtv",
         "icon"            :     "icon-ccloudtv.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/166602"
+        "supporturl"      :     "https://forums.plex.tv/discussion/166602"
     },
     {
         "title"           :     "C More Sport",
@@ -284,7 +284,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.desitelly",
         "icon"            :     "icon-desitelly.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/234701/"
+        "supporturl"      :     "https://forums.plex.tv/discussion/234701/"
     },
     {
         "title"           :     "Discovery Networks",
@@ -350,7 +350,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.einthusan",
         "icon"            :     "icon-einthusan.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/165072/"
+        "supporturl"      :     "https://forums.plex.tv/discussion/165072/"
     },
     {
         "title"           :     "ExcaliburFilms Metadata Agent",
@@ -1040,7 +1040,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-pornhub.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/226360"
+        "supporturl"      :     "https://forums.plex.tv/discussion/226360"
     },
     {
         "title"           :     "PrimeWire",
@@ -1569,6 +1569,6 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.mst3k",
         "icon"            :     "icon-mst3k.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
+        "supporturl"      :     "https://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
     }
 ]
