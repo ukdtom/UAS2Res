@@ -13,6 +13,19 @@
         "supporturl"      :     ""
     },
     {
+        "title"           :     "Arconai TV",
+        "bundle"          :     "arconaitv.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Stream popular TV shows 24/7",
+        "repo"            :     "https://github.com/piplongrun/arconaitv.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.arconaitv",
+        "icon"            :     "icon-arconaitv.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/251508"
+    },
+    {
         "title"           :     "ATV MediaThek(AT)",
         "bundle"          :     "ATVMediaThek.bundle",
         "type"            :     ["Video"],
