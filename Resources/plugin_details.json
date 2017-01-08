@@ -1494,19 +1494,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/233261"
     },
     {
-        "title"           :     "xHamster",
-        "bundle"          :     "xHamster.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch XXX-Videos from xHamster.com",
-        "repo"            :     "https://github.com/flownex/xHamster.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xhamster",
-        "icon"            :     "icon-xhamster.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/26116"
-    },
-    {
         "title"           :     "xiami",
         "bundle"          :     "xiami.bundle",
         "type"            :     ["Music"],
