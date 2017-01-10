@@ -1212,6 +1212,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/198221"
     },
     {
+        "title"           :     "Speedtest",
+        "bundle"          :     "Speedtest.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Test upload/download bandwith using Speedtest.net",
+        "repo"            :     "https://github.com/Twoure/Speedtest.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.speedtest",
+        "icon"            :     "icon-speedtest.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/253526"
+    },
+    {
         "title"           :     "SportseBooks",
         "bundle"          :     "SportseBooks.bundle",
         "type"            :     ["Video"],
