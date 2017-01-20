@@ -327,6 +327,20 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/31889/excaliburfilms-agent"
     },
     {
+        "title"           :     "ExportTools for Plex",
+        "bundle"          :     "ExportTools.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Export Plex Library to a csv or xlsx file",
+        "repo"            :     "https://github.com/ukdtom/ExportTools.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.ExportTools",
+        "icon"            :     "icon-ExportTools.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/254248",
+	"popupmsg"	  :	"This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it.<br>To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki"
+    },	
+    {
         "title"           :     "Facebook",
         "bundle"          :     "Facebook.bundle",
         "type"            :     ["Pictures", "Social"],
