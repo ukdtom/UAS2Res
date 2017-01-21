@@ -332,7 +332,7 @@
         "type"            :     ["Application"],
         "description"     :     "Export Plex Library to a csv or xlsx file",
         "repo"            :     "https://github.com/ukdtom/ExportTools.bundle",
-        "branch"          :     "master",
+        "branch"          :     "tommy-work",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.ExportTools",
