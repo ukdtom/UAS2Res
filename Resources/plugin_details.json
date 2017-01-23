@@ -404,6 +404,19 @@
         "icon"            :     "icon-find-missing.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/95148"
     },
+	{
+        "title"           :     "FMoviesPlus",
+        "bundle"          :     "FMoviesPlus.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "High Quality HD Movies & TV-Series from FMovies",
+        "repo"            :     "https://github.com/coder-alpha/FMoviesPlus.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.fmoviesplus",
+        "icon"            :     "icon-fmoviesplus.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/255348/"
+    },
     {
         "title"           :     "Footy Report",
         "bundle"          :     "FootyReport.bundle",
