@@ -1320,6 +1320,7 @@
         "description"     :     "Trailer Addict is a metadata agent for Plex Media Server that tries to find trailers, interviews and behind the scenes videos for your movie library.",
         "repo"            :     "https://github.com/piplongrun/TrailerAddict.bundle",
         "branch"          :     "master",
+        "release"         :     "TrailerAddict.zip",
         "identifier"      :     "com.plexapp.agents.traileraddict",
         "icon"            :     "icon-trailer-addict.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/253633"
