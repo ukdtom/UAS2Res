@@ -1595,5 +1595,18 @@
         "identifier"      :     "com.plexapp.plugins.mst3k",
         "icon"            :     "icon-mst3k.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
+    },
+    {
+        "title"           :     "StaticMedia",
+        "bundle"          :     "StaticMedia-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent which stores static images as poster / background",
+        "repo"            :     "https://github.com/daeks/StaticMedia-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.staticmedia",
+        "icon"            :     "icon-dnetwork.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/241713"
     }
 ]
