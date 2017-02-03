@@ -1608,5 +1608,18 @@
         "identifier"      :     "com.plexapp.agents.staticmedia",
         "icon"            :     "icon-dnetwork.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/241713"
+    },
+    {
+        "title"           :     "ArgusTV",
+        "bundle"          :     "ArgusTV-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent for ArgusTV",
+        "repo"            :     "https://github.com/daeks/ArgusTV-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.argustv",
+        "icon"            :     "icon-argustv.png",
+        "supporturl"      :     ""
     }
 ]
