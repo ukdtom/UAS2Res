@@ -1583,6 +1583,17 @@
         "icon"            :     "icon-youjizz.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
     },
+    {
+        "title"           :     "YouTube Metadata Agent",
+        "bundle"          :     "YouTube-Agent.bundle",
+        "type"            :     ["Agent"],
+        "description"     :     "A Metadata Agent for downloaded YouTube videos.",
+        "repo"            :     "https://github.com/sander1/YouTube-Agent.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.agents.youtube",
+        "icon"            :     "icon-youtube-agent.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/83106"
+    },
   {
         "title"           :     "MST3K",
         "bundle"          :     "mst3k.bundle",
