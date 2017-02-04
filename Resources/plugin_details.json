@@ -1620,6 +1620,6 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.argustv",
         "icon"            :     "icon-argustv.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/257004"
     }
 ]
