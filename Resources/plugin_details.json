@@ -1586,7 +1586,7 @@
     {
         "title"           :     "YouTube Metadata Agent",
         "bundle"          :     "YouTube-Agent.bundle",
-        "type"            :     ["Agent"],
+        "type"            :     ["Metadata Agent"],
         "description"     :     "A Metadata Agent for downloaded YouTube videos.",
         "repo"            :     "https://github.com/sander1/YouTube-Agent.bundle",
         "branch"          :     "master",
