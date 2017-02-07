@@ -964,20 +964,6 @@
         "icon"            :     "icon-phimvang.png",
         "supporturl"      :     ""
     },
-    {
-        "title"           :     "Plex2CSV",
-        "bundle"          :     "Plex2csv.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Will export selected sections into a CSV file",
-        "repo"            :     "https://github.com/ukdtom/plex2csv.bundle",
-        "branch"          :     "master",
-        "release"         :     "plex2csv.bundle-master.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.Plex2csv",
-        "icon"            :     "icon-Plex2csv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/103115"
-    },
 	{
         "title"           :     "PlexPod",
         "bundle"          :     "plexpod.bundle",
