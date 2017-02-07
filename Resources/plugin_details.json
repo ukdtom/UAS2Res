@@ -196,19 +196,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/200827"
     },
     {
-        "title"           :     "CMT Shows",
-        "bundle"          :     "CMT.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.cmt.com",
-        "repo"            :     "https://github.com/shopgirl284/CMT.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.cmt",
-        "icon"            :     "icon-cmt.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81341"
-    },
-    {
         "title"           :     "CouchPotato",
         "bundle"          :     "CouchPotato.bundle",
         "type"            :     ["Application", "Video"],
@@ -272,6 +259,19 @@
         "identifier"      :     "com.plexapp.agents.data18-content",
         "icon"            :     "icon-data18-content.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
+    },
+    {
+        "title"           :     "Democracy Now",
+        "bundle"          :     "DemocracyNow.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch shows from the Democracy Now website",
+        "repo"            :     "https://github.com/shopgirl284/DemocracyNow.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.democracynow",
+        "icon"            :     "icon-democracynow.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257536"
     },
     {
         "title"           :     "Desi Telly",
@@ -770,19 +770,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/72180/rel-liveleak"
     },
     {
-        "title"           :     "Logo TV",
-        "bundle"          :     "LogoTV.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.logotv.com",
-        "repo"            :     "https://github.com/shopgirl284/LogoTV.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.logotv",
-        "icon"            :     "icon-logotv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81339"
-    },
-    {
         "title"           :     "Mangafox",
         "bundle"          :     "Mangafox.bundle",
         "type"            :     ["Pictures"],
@@ -848,17 +835,17 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/227029/"
     },
     {
-        "title"           :     "MTV Shows",
-        "bundle"          :     "MTVShows.bundle",
+        "title"           :     "MTV Networks",
+        "bundle"          :     "MTVNetworks.bundle",
         "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.mtv.com",
-        "repo"            :     "https://github.com/shopgirl284/MTVShows.bundle",
+        "description"     :     "Watch shows from MTV, VH1, CMT AND LogoTV",
+        "repo"            :     "https://github.com/shopgirl284/MTVNetworks.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.mtvshows",
-        "icon"            :     "icon-mtvshows.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81430"
+        "identifier"      :     "com.plexapp.plugins.mtvnetworks",
+        "icon"            :     "icon-mtvnetworks.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257530"
     },
     {
         "title"           :     "MUVIO",
@@ -1301,6 +1288,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/182891/svensk-radio"
     },
     {
+        "title"           :     "The CW Seed",
+        "bundle"          :     "The-CWSeed.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch shows from the cwseed website",
+        "repo"            :     "https://github.com/shopgirl284/The-CWSeed.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.thecwseed",
+        "icon"            :     "icon-thecwseed.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/190569"
+    },
+    {
         "title"           :     "TheMovieClips plugin",
         "bundle"          :     "TheMovieClips.bundle",
         "type"            :     ["Video"],
@@ -1413,19 +1413,6 @@
         "identifier"      :     "com.plexapp.plugins.viaplay",
         "icon"            :     "icon-viaplay.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/82378/viaplay-se-no-dk-fi"
-    },
-    {
-        "title"           :     "VH1",
-        "bundle"          :     "VH1.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.vh1.com",
-        "repo"            :     "https://github.com/shopgirl284/VH1.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.vh1",
-        "icon"            :     "icon-vh1.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81709"
     },
     {
         "title"           :     "Videoprobki",
