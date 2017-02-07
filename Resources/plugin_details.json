@@ -366,6 +366,20 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/31889/excaliburfilms-agent"
     },
     {
+        "title"           :     "ExportTools",
+        "bundle"          :     "ExportTools.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Will export selected sections into a CSV or xlsx file",
+        "repo"            :     "https://github.com/ukdtom/ExportTools.bundle",
+        "branch"          :     "master",
+        "release"         :     "ExportTools.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.ExportTools",
+        "icon"            :     "icon-exporttools.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/254248"
+    },
+    {
         "title"           :     "Facebook",
         "bundle"          :     "Facebook.bundle",
         "type"            :     ["Pictures", "Social"],
