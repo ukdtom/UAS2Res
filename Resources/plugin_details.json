@@ -1619,5 +1619,18 @@
         "identifier"      :     "com.plexapp.agents.argustv",
         "icon"            :     "icon-argustv.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/257004"
-    }
+    },
+    {
+        "title"           :     "Chapter Metadata Agent",
+        "bundle"          :     "Chapter-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent which creates chapters based on EDL files",
+        "repo"            :     "https://github.com/daeks/Chapter-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.chapter",
+        "icon"            :     "icon-dnetwork.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/257650"
+    },
 ]
