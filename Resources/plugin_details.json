@@ -205,7 +205,7 @@
         "release"         :     "CSM.zip",
         "identifier"      :     "com.plexapp.agents.csm",
         "icon"            :     "icon-csm.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/257947"
     },
     {
         "title"           :     "CouchPotato",
