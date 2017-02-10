@@ -196,6 +196,18 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/200827"
     },
     {
+        "title"           :     "Common Sense Media",
+        "bundle"          :     "CSM.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Common Sense Media is a metadata agent for Plex Media Server that adds their recommended age as content rating. It will optionally add a short description as tagline and the Common Sense movie review to reviews.",
+        "repo"            :     "https://github.com/piplongrun/CSM.bundle",
+        "branch"          :     "master",
+        "release"         :     "CSM.zip",
+        "identifier"      :     "com.plexapp.agents.csm",
+        "icon"            :     "icon-csm.png",
+        "supporturl"      :     ""
+    },
+    {
         "title"           :     "CouchPotato",
         "bundle"          :     "CouchPotato.bundle",
         "type"            :     ["Application", "Video"],
