@@ -854,8 +854,7 @@
         "description"     :     "MUVIO is an 'Extras' agent for Plex Media Server that tries to find music video clips for your music library.",
         "repo"            :     "https://github.com/piplongrun/muvio.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
+        "release"         :     "muvio.zip",
         "identifier"      :     "com.plexapp.agents.muvio",
         "icon"            :     "icon-muvio.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/248325"
