@@ -26,6 +26,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/251508"
     },
     {
+        "title"           :     "ArgusTV",
+        "bundle"          :     "ArgusTV-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent for ArgusTV",
+        "repo"            :     "https://github.com/daeks/ArgusTV-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.argustv",
+        "icon"            :     "icon-argustv.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257004"
+    },
+    {
         "title"           :     "ATV MediaThek(AT)",
         "bundle"          :     "ATVMediaThek.bundle",
         "type"            :     ["Video"],
@@ -104,19 +117,6 @@
         "hidden"          :     "False",
         "supporturl"      :     "https://forums.plex.tv/discussion/90720"
     },
-	{
-        "title"           :     "cCloud TV",
-        "bundle"          :     "CcloudTv.bundle",
-        "type"            :     ["Video", "Music"],
-        "description"     :     "A Community based Social IPTV Service for Live TV, Movies, TV Shows & Radio along with an IPTV playlist player.",
-        "repo"            :     "https://github.com/coder-alpha/CcloudTv.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.ccloudtv",
-        "icon"            :     "icon-ccloudtv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/166602"
-    },
     {
         "title"           :     "C More Sport",
         "bundle"          :     "Cmore.bundle",
@@ -129,6 +129,19 @@
         "identifier"      :     "com.plexapp.plugins.cmore",
         "icon"            :     "icon-cmore.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/221307/rel-cmore-se-no-dk"
+    },
+    {
+        "title"           :     "cCloud TV",
+        "bundle"          :     "CcloudTv.bundle",
+        "type"            :     ["Video", "Music"],
+        "description"     :     "A Community based Social IPTV Service for Live TV, Movies, TV Shows & Radio along with an IPTV playlist player.",
+        "repo"            :     "https://github.com/coder-alpha/CcloudTv.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.ccloudtv",
+        "icon"            :     "icon-ccloudtv.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/166602"
     },
     {
         "title"           :     "Channel9 (AU)",
@@ -155,6 +168,19 @@
         "identifier"      :     "com.plexapp.plugins.channel10",
         "icon"            :     "icon-ten.png",
         "supporturl"      :     ""
+    },
+    {
+        "title"           :     "Chapter Metadata Agent",
+        "bundle"          :     "Chapter-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent which creates chapters based on EDL files",
+        "repo"            :     "https://github.com/daeks/Chapter-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.chapter",
+        "icon"            :     "icon-dnetwork.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257650"
     },
     {
         "title"           :     "Chaturbate",
@@ -337,7 +363,7 @@
         "icon"            :     "icon-efukt.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/224858"
     },
-	{
+    {
         "title"           :     "epg-dk",
         "bundle"          :     "epg-dk.bundle",
         "type"            :     ["Application"],
@@ -351,7 +377,7 @@
         "icon"            :     "icon-epg-dk.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/248011"
     },
-	{
+    {
         "title"           :     "Einthusan",
         "bundle"          :     "Einthusan.bundle",
         "type"            :     ["Video"],
@@ -389,7 +415,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.ExportTools",
         "icon"            :     "icon-exporttools.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/254248"
+        "supporturl"      :     "https://forums.plex.tv/discussion/254248"
     },
     {
         "title"           :     "Facebook",
@@ -430,7 +456,7 @@
         "icon"            :     "icon-find-missing.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/95148"
     },
-	{
+    {
         "title"           :     "FMoviesPlus",
         "bundle"          :     "FMoviesPlus.bundle",
         "type"            :     ["Video"],
@@ -441,7 +467,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.fmoviesplus",
         "icon"            :     "icon-fmoviesplus.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/255348/"
+        "supporturl"      :     "https://forums.plex.tv/discussion/255348/"
     },
     {
         "title"           :     "Footy Report",
@@ -847,6 +873,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/227029/"
     },
     {
+        "title"           :     "MST3K",
+        "bundle"          :     "mst3k.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Mystery Science Theater 3000 (MST3K) Episodes and Extras",
+        "repo"            :     "https://github.com/crowservo/mst3k.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.mst3k",
+        "icon"            :     "icon-mst3k.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
+    },
+    {
         "title"           :     "MTV Networks",
         "bundle"          :     "MTVNetworks.bundle",
         "type"            :     ["Video"],
@@ -962,7 +1001,7 @@
         "icon"            :     "icon-phimvang.png",
         "supporturl"      :     ""
     },
-	{
+    {
         "title"           :     "PlexPod",
         "bundle"          :     "plexpod.bundle",
         "type"            :     ["Music"],
@@ -974,8 +1013,8 @@
         "identifier"      :     "com.plexapp.plugins.PlexPod",
         "icon"            :     "icon-PlexPod.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/240335/rel-plexpod-release"
-	},
-	{
+    },
+    {
         "title"           :     "Plex Request Channel",
         "bundle"          :     "PlexRequestChannel.bundle",
         "type"            :     ["Application"],
@@ -987,7 +1026,7 @@
         "identifier"      :     "com.plexapp.plugins.plexrequestschannel",
         "icon"            :     "icon-plexrequestchannel.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/205378/plex-request-channel"
-	},
+    },
     {
         "title"           :     "Plex Tools",
         "bundle"          :     "PlexTools.bundle",
@@ -1286,6 +1325,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/48412"
     },
     {
+        "title"           :     "StaticMedia",
+        "bundle"          :     "StaticMedia-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent which stores static images as poster / background",
+        "repo"            :     "https://github.com/daeks/StaticMedia-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.staticmedia",
+        "icon"            :     "icon-dnetwork.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/241713"
+    },
+    {
         "title"           :     "Sveriges Radio Play (SE)",
         "bundle"          :     "SRPlay.bundle",
         "type"            :     ["Video"],
@@ -1516,7 +1568,7 @@
         "icon"            :     "icon-xbmcnfotvimporter.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
-	{
+    {
         "title"           :     "XMovies8Org",
         "bundle"          :     "XMovies8Org.bundle",
         "type"            :     ["Video"],
@@ -1591,57 +1643,5 @@
         "identifier"      :     "com.plexapp.agents.youtube",
         "icon"            :     "icon-youtube-agent.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/83106"
-    },
-  {
-        "title"           :     "MST3K",
-        "bundle"          :     "mst3k.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Mystery Science Theater 3000 (MST3K) Episodes and Extras",
-        "repo"            :     "https://github.com/crowservo/mst3k.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.mst3k",
-        "icon"            :     "icon-mst3k.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
-    },
-    {
-        "title"           :     "StaticMedia",
-        "bundle"          :     "StaticMedia-Agent.bundle",
-        "type"            :     ["Metadata Agent"],
-        "description"     :     "Metadata Agent which stores static images as poster / background",
-        "repo"            :     "https://github.com/daeks/StaticMedia-Agent.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.agents.staticmedia",
-        "icon"            :     "icon-dnetwork.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/241713"
-    },
-    {
-        "title"           :     "ArgusTV",
-        "bundle"          :     "ArgusTV-Agent.bundle",
-        "type"            :     ["Metadata Agent"],
-        "description"     :     "Metadata Agent for ArgusTV",
-        "repo"            :     "https://github.com/daeks/ArgusTV-Agent.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.agents.argustv",
-        "icon"            :     "icon-argustv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/257004"
-    },
-    {
-        "title"           :     "Chapter Metadata Agent",
-        "bundle"          :     "Chapter-Agent.bundle",
-        "type"            :     ["Metadata Agent"],
-        "description"     :     "Metadata Agent which creates chapters based on EDL files",
-        "repo"            :     "https://github.com/daeks/Chapter-Agent.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.agents.chapter",
-        "icon"            :     "icon-dnetwork.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/257650"
-    },
+    }
 ]
