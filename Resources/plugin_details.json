@@ -1007,10 +1007,8 @@
         "bundle"          :     "plexpod.bundle",
         "type"            :     ["Music"],
         "description"     :     "A Plex Based Podcast aggregator",
-        "repo"            :     "https://github.com/snoshoesledska/plexpod.bundle",
+        "repo"            :     "https://github.com/piplongrun/plexpod.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.PlexPod",
         "icon"            :     "icon-PlexPod.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/240335/rel-plexpod-release"
