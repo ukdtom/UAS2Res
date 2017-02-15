@@ -230,7 +230,7 @@
         "branch"          :     "master",
         "release"         :     "CSM.zip",
         "identifier"      :     "com.plexapp.agents.csm",
-        "icon"            :     "icon-csm.png",
+        "icon"            :     "icon-csm.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/257947"
     },
     {
@@ -1386,7 +1386,7 @@
         "branch"          :     "master",
         "release"         :     "TrailerAddict.zip",
         "identifier"      :     "com.plexapp.agents.traileraddict",
-        "icon"            :     "icon-trailer-addict.png",
+        "icon"            :     "icon-trailer-addict.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/253633"
     },
     {
