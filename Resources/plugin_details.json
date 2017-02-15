@@ -22,7 +22,7 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.arconaitv",
-        "icon"            :     "icon-arconaitv.png",
+        "icon"            :     "icon-arconaitv.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/251508"
     },
     {
