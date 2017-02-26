@@ -1120,19 +1120,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/103120"
     },
     {
-        "title"           :     "Rainierland",
-        "bundle"          :     "Rainierland.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Movies and TV Shows from rainierland.com",
-        "repo"            :     "https://github.com/coder-alpha/Rainierland.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.rainierland",
-        "icon"            :     "icon-rainierland.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/165757"
-    },
-    {
         "title"           :     "RedTube",
         "bundle"          :     "RedTube.bundle",
         "type"            :     ["Video", "Adult"],
@@ -1568,19 +1555,6 @@
         "identifier"      :     "com.plexapp.agents.xbmcnfotv",
         "icon"            :     "icon-xbmcnfotvimporter.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
-    },
-    {
-        "title"           :     "XMovies8Org",
-        "bundle"          :     "XMovies8Org.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch High Quality HD Movies from xmovies8.org",
-        "repo"            :     "https://github.com/coder-alpha/XMovies8Org.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xmovies8org",
-        "icon"            :     "icon-xmovies8org.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/233261"
     },
     {
         "title"           :     "xiami",
