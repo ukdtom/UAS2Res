@@ -1,5 +1,18 @@
 [
     {
+        "title"           :     "Adult DVD Empire Metadata Agent",
+        "bundle"          :     "AdultDVDEmpire.bundle",
+        "type"            :     ["Metadata Agent", "Adult"],
+        "description"     :     "Metadata agent for adult movies",
+        "repo"            :     "https://github.com/jesperrasmussen/AdultDVDEmpire.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.adultdvdempire",
+        "icon"            :     "icon-adultdvdempire.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/260610"
+    },
+    {
         "title"           :     "AniDB.net Metadata Agent",
         "bundle"          :     "AniDB.bundle",
         "type"            :     ["Metadata Agent"],
