@@ -10,7 +10,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.adultdvdempire",
         "icon"            :     "icon-adultdvdempire.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://forums.plex.tv/discussion/260610"
     },
     {
         "title"           :     "AniDB.net Metadata Agent",
