@@ -1021,7 +1021,7 @@
         "type"            :     ["Music"],
         "description"     :     "Manage and listen to Podcasts",
         "repo"            :     "https://github.com/adrianjones/PlexCasts.bundle",
-        "branch"          :     "master",
+        "branch"          :     "stable",
         "identifier"      :     "com.plexapp.plugins.plexcasts",
         "icon"            :     "icon-plexcasts.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/261868/rel-plexcast-release"
