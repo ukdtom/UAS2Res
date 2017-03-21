@@ -627,14 +627,12 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/115411/rel-hitbox-tv-plugin"
     },
     {
-        "title"           :     "IMDb HD Trailers",
+        "title"           :     "IMDb Trailers",
         "bundle"          :     "IMDb-Trailers.bundle",
         "type"            :     ["Video"],
         "description"     :     "Watch movie trailers from IMDb in HD",
-        "repo"            :     "https://github.com/mikedm139/IMDb-Trailers.bundle",
+        "repo"            :     "https://github.com/sander1/IMDb-Trailers.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.imdbtrailers",
         "icon"            :     "icon-imdb-trailers.png",
         "supporturl"      :     ""
