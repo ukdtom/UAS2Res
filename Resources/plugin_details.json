@@ -26,19 +26,6 @@
         "supporturl"      :     ""
     },
     {
-        "title"           :     "Arconai TV",
-        "bundle"          :     "arconaitv.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Stream popular TV shows 24/7",
-        "repo"            :     "https://github.com/piplongrun/arconaitv.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.arconaitv",
-        "icon"            :     "icon-arconaitv.jpg",
-        "supporturl"      :     "https://forums.plex.tv/discussion/251508"
-    },
-    {
         "title"           :     "ArgusTV",
         "bundle"          :     "ArgusTV-Agent.bundle",
         "type"            :     ["Metadata Agent"],
@@ -1112,19 +1099,6 @@
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-pornhub.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/226360"
-    },
-    {
-        "title"           :     "PrimeWire",
-        "bundle"          :     "lmwt-kiss.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "PrimeWire (formerly LetMeWatchThis), \"Keep It Simple, Stupid\"-version",
-        "repo"            :     "https://github.com/piplongrun/lmwt-kiss.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.lmwt.kiss",
-        "icon"            :     "icon-primewire.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/156136/rel-primewire"
     },
     {
         "title"           :     "rawrANIME.tv",
