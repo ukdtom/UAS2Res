@@ -65,19 +65,6 @@
         "supporturl"      :     ""
     },
     {
-        "title"           :     "beeg.com",
-        "bundle"          :     "beeg.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch xxx videos from beeg.com",
-        "repo"            :     "https://github.com/piplongrun/beeg.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.beeg",
-        "icon"            :     "icon-beeg.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/187168/rel-beeg-18-plug-in"
-    },
-    {
         "title"           :     "Big 12 Sports",
         "bundle"          :     "Big12Sports.bundle",
         "type"            :     ["Video"],
