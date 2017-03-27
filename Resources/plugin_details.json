@@ -1035,6 +1035,19 @@
         "icon"            :     "icon-plextools.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/85258"
     },
+	{
+        "title"           :     "PlexPod",
+        "bundle"          :     "PlexPod.bundle",
+        "type"            :     ["Music"],
+        "description"     :     "A Plex Based Podcast aggregator",
+        "repo"            :     "https://github.com/snoshoesledska/plexpod.git",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.PlexPod",
+        "icon"            :     "icon-PlexPod.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/240335"
+    },
     {
         "title"           :     "PlexWink",
         "bundle"          :     "PlexWink.bundle",
