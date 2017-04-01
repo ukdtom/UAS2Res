@@ -1599,5 +1599,18 @@
         "identifier"      :     "com.plexapp.agents.youtube",
         "icon"            :     "icon-youtube-agent.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/83106"
+    },
+    {
+        "title"           :     "4tube",
+        "bundle"          :     "4tube.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch adult videos from 4tube.com",
+        "repo"            :     "https://github.com/bagotx/4tube.bundle",
+        "identifier"      :     "com.plexapp.plugins.4tube",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "icon"            :     "icon-4tube.png",
+        "supporturl"      :     ""
     }
 ]
