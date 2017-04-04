@@ -1611,6 +1611,6 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-4tube.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://github.com/bagotx/4tube.bundle/issues"
     }
 ]
