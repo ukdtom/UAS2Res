@@ -1169,7 +1169,7 @@
         "title"           :     "Scripps Network",
         "bundle"          :     "Scripps.bundle",
         "type"            :     ["Video"],
-        "description"     :     "Watch shows from Scripps Network websites including DIY, Cooking Channel, and Great American Country",
+        "description"     :     "Watch shows from Scripps Network websites including DIY, Cooking Channel, Travel Channel and Great American Country",
         "repo"            :     "https://github.com/shopgirl284/Scripps.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
@@ -1380,19 +1380,6 @@
         "identifier"      :     "com.plexapp.plugins.trakttv",
         "icon"            :     "icon-trakt.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/102818"
-    },
-    {
-        "title"           :     "Travel Channel",
-        "bundle"          :     "TravelChannel.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from the Travel Channel websites",
-        "repo"            :     "https://github.com/shopgirl284/TravelChannel.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.travel",
-        "icon"            :     "icon-travel.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/265876"
     },
     {
         "title"           :     "TuneIn",
