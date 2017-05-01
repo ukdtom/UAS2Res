@@ -403,7 +403,8 @@
         "identifier"      :     "com.plexapp.plugins.ExportTools",
         "icon"            :     "icon-exporttools.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/254248",
-        "popupmsg"	      :	    "This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki"
+        "popupmsg"	      :	    "This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki",
+				"manual"					:			"https://github.com/ukdtom/ExportTools.bundle/wiki"
     },
     {
         "title"           :     "Facebook",
