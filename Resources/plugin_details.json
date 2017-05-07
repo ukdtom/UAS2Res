@@ -12,6 +12,18 @@
         "icon"            :     "icon-9anime.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/251439"
     },
+        "title"           :     "Adult DVD Empire Metadata Agent",
+        "bundle"          :     "AdultDVDEmpire.bundle",
+        "type"            :     ["Metadata Agent", "Adult"],
+        "description"     :     "Metadata agent for adult movies",
+        "repo"            :     "https://github.com/jesperrasmussen/AdultDVDEmpire.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.adultdvdempire",
+        "icon"            :     "icon-adultdvdempire.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/260610"
+    },
     {
         "title"           :     "AniDB.net Metadata Agent",
         "bundle"          :     "AniDB.bundle",
@@ -26,17 +38,17 @@
         "supporturl"      :     ""
     },
     {
-        "title"           :     "Arconai TV",
-        "bundle"          :     "arconaitv.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Stream popular TV shows 24/7",
-        "repo"            :     "https://github.com/piplongrun/arconaitv.bundle",
+        "title"           :     "ArgusTV",
+        "bundle"          :     "ArgusTV-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent for ArgusTV",
+        "repo"            :     "https://github.com/daeks/ArgusTV-Agent.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.arconaitv",
-        "icon"            :     "icon-arconaitv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/251508"
+        "identifier"      :     "com.plexapp.agents.argustv",
+        "icon"            :     "icon-argustv.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257004"
     },
     {
         "title"           :     "ATV MediaThek(AT)",
@@ -63,19 +75,6 @@
         "identifier"      :     "com.plexapp.plugins.BayFM999",
         "icon"            :     "icon-bayfm999.png",
         "supporturl"      :     ""
-    },
-    {
-        "title"           :     "beeg.com",
-        "bundle"          :     "beeg.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch xxx videos from beeg.com",
-        "repo"            :     "https://github.com/piplongrun/beeg.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.beeg",
-        "icon"            :     "icon-beeg.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/187168/rel-beeg-18-plug-in"
     },
     {
         "title"           :     "Big 12 Sports",
@@ -117,19 +116,6 @@
         "hidden"          :     "False",
         "supporturl"      :     "https://forums.plex.tv/discussion/90720"
     },
-	{
-        "title"           :     "cCloud TV",
-        "bundle"          :     "CcloudTv.bundle",
-        "type"            :     ["Video", "Music"],
-        "description"     :     "A Community based Social IPTV Service for Live TV, Movies, TV Shows & Radio along with an IPTV playlist player.",
-        "repo"            :     "https://github.com/coder-alpha/CcloudTv.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.ccloudtv",
-        "icon"            :     "icon-ccloudtv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/166602"
-    },
     {
         "title"           :     "C More Sport",
         "bundle"          :     "Cmore.bundle",
@@ -142,6 +128,19 @@
         "identifier"      :     "com.plexapp.plugins.cmore",
         "icon"            :     "icon-cmore.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/221307/rel-cmore-se-no-dk"
+    },
+    {
+        "title"           :     "cCloud TV",
+        "bundle"          :     "CcloudTv.bundle",
+        "type"            :     ["Video", "Music"],
+        "description"     :     "A Community based Social IPTV Service for Live TV, Movies, TV Shows & Radio along with an IPTV playlist player.",
+        "repo"            :     "https://github.com/coder-alpha/CcloudTv.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.ccloudtv",
+        "icon"            :     "icon-ccloudtv.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/166602"
     },
     {
         "title"           :     "Channel9 (AU)",
@@ -168,6 +167,19 @@
         "identifier"      :     "com.plexapp.plugins.channel10",
         "icon"            :     "icon-ten.png",
         "supporturl"      :     ""
+    },
+    {
+        "title"           :     "Chapter Metadata Agent",
+        "bundle"          :     "Chapter-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent which creates chapters based on EDL files",
+        "repo"            :     "https://github.com/daeks/Chapter-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.chapter",
+        "icon"            :     "icon-dnetwork.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257650"
     },
     {
         "title"           :     "Chaturbate",
@@ -209,17 +221,16 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/200827"
     },
     {
-        "title"           :     "CMT Shows",
-        "bundle"          :     "CMT.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.cmt.com",
-        "repo"            :     "https://github.com/shopgirl284/CMT.bundle",
+        "title"           :     "Common Sense Media",
+        "bundle"          :     "CSM.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Common Sense Media is a metadata agent for Plex Media Server that adds their recommended age as content rating. It will optionally add a short description as tagline and the Common Sense movie review to reviews.",
+        "repo"            :     "https://github.com/piplongrun/CSM.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.cmt",
-        "icon"            :     "icon-cmt.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81341"
+        "release"         :     "CSM.zip",
+        "identifier"      :     "com.plexapp.agents.csm",
+        "icon"            :     "icon-csm.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257947"
     },
     {
         "title"           :     "CouchPotato",
@@ -287,6 +298,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
     },
     {
+        "title"           :     "Democracy Now",
+        "bundle"          :     "DemocracyNow.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch shows from the Democracy Now website",
+        "repo"            :     "https://github.com/shopgirl284/DemocracyNow.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.democracynow",
+        "icon"            :     "icon-democracynow.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257536"
+    },
+    {
         "title"           :     "Desi Telly",
         "bundle"          :     "DesiTelly.bundle",
         "type"            :     ["Video"],
@@ -338,7 +362,7 @@
         "icon"            :     "icon-efukt.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/224858"
     },
-	{
+    {
         "title"           :     "epg-dk",
         "bundle"          :     "epg-dk.bundle",
         "type"            :     ["Application"],
@@ -352,7 +376,7 @@
         "icon"            :     "icon-epg-dk.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/248011"
     },
-	{
+    {
         "title"           :     "Einthusan",
         "bundle"          :     "Einthusan.bundle",
         "type"            :     ["Video"],
@@ -377,6 +401,22 @@
         "identifier"      :     "com.plexapp.agents.excaliburfilms",
         "icon"            :     "icon-excaliburfilms.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/31889/excaliburfilms-agent"
+    },
+    {
+        "title"           :     "ExportTools",
+        "bundle"          :     "ExportTools.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Will export selected sections into a CSV or xlsx file",
+        "repo"            :     "https://github.com/ukdtom/ExportTools.bundle",
+        "branch"          :     "master",
+        "release"         :     "ExportTools.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.ExportTools",
+        "icon"            :     "icon-exporttools.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/254248",
+        "popupmsg"	      :	    "This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki",
+				"manual"					:			"https://github.com/ukdtom/ExportTools.bundle/wiki"
     },
     {
         "title"           :     "Facebook",
@@ -416,6 +456,19 @@
         "identifier"      :     "com.plexapp.plugins.findMissing",
         "icon"            :     "icon-find-missing.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/95148"
+    },
+    {
+        "title"           :     "FMoviesPlus",
+        "bundle"          :     "FMoviesPlus.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "High Quality HD Movies & TV-Series from FMovies",
+        "repo"            :     "https://github.com/coder-alpha/FMoviesPlus.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.fmoviesplus",
+        "icon"            :     "icon-fmoviesplus.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/255348/"
     },
     {
         "title"           :     "Footy Report",
@@ -561,14 +614,12 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/115411/rel-hitbox-tv-plugin"
     },
     {
-        "title"           :     "IMDb HD Trailers",
+        "title"           :     "IMDb Trailers",
         "bundle"          :     "IMDb-Trailers.bundle",
         "type"            :     ["Video"],
         "description"     :     "Watch movie trailers from IMDb in HD",
-        "repo"            :     "https://github.com/mikedm139/IMDb-Trailers.bundle",
+        "repo"            :     "https://github.com/sander1/IMDb-Trailers.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.imdbtrailers",
         "icon"            :     "icon-imdb-trailers.png",
         "supporturl"      :     ""
@@ -756,19 +807,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/72180/rel-liveleak"
     },
     {
-        "title"           :     "Logo TV",
-        "bundle"          :     "LogoTV.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.logotv.com",
-        "repo"            :     "https://github.com/shopgirl284/LogoTV.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.logotv",
-        "icon"            :     "icon-logotv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81339"
-    },
-    {
         "title"           :     "Mangafox",
         "bundle"          :     "Mangafox.bundle",
         "type"            :     ["Pictures"],
@@ -834,17 +872,41 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/227029/"
     },
     {
-        "title"           :     "MTV Shows",
-        "bundle"          :     "MTVShows.bundle",
+        "title"           :     "MovieMeter",
+        "bundle"          :     "MovieMeter.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Dutch movie titles, summaries and genres by MovieMeter",
+        "repo"            :     "https://github.com/sander1/MovieMeter.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.agents.moviemeter",
+        "icon"            :     "icon-moviemeter.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/17164"
+    },
+    {
+        "title"           :     "MST3K",
+        "bundle"          :     "mst3k.bundle",
         "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.mtv.com",
-        "repo"            :     "https://github.com/shopgirl284/MTVShows.bundle",
+        "description"     :     "Watch Mystery Science Theater 3000 (MST3K) Episodes and Extras",
+        "repo"            :     "https://github.com/crowservo/mst3k.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.mtvshows",
-        "icon"            :     "icon-mtvshows.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81430"
+        "identifier"      :     "com.plexapp.plugins.mst3k",
+        "icon"            :     "icon-mst3k.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
+    },
+    {
+        "title"           :     "MTV Networks",
+        "bundle"          :     "MTVNetworks.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch shows from MTV, VH1, CMT AND LogoTV",
+        "repo"            :     "https://github.com/shopgirl284/MTVNetworks.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.mtvnetworks",
+        "icon"            :     "icon-mtvnetworks.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257530"
     },
     {
         "title"           :     "MUVIO",
@@ -853,8 +915,7 @@
         "description"     :     "MUVIO is an 'Extras' agent for Plex Media Server that tries to find music video clips for your music library.",
         "repo"            :     "https://github.com/piplongrun/muvio.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
+        "release"         :     "muvio.zip",
         "identifier"      :     "com.plexapp.agents.muvio",
         "icon"            :     "icon-muvio.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/248325"
@@ -951,33 +1012,17 @@
         "supporturl"      :     ""
     },
     {
-        "title"           :     "Plex2CSV",
-        "bundle"          :     "Plex2csv.bundle",
-        "type"            :     ["Application"],
-        "description"     :     "Will export selected sections into a CSV file",
-        "repo"            :     "https://github.com/ukdtom/plex2csv.bundle",
-        "branch"          :     "master",
-        "release"         :     "plex2csv.bundle-master.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.Plex2csv",
-        "icon"            :     "icon-Plex2csv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/103115"
-    },
-	{
         "title"           :     "PlexPod",
         "bundle"          :     "plexpod.bundle",
         "type"            :     ["Music"],
         "description"     :     "A Plex Based Podcast aggregator",
         "repo"            :     "https://github.com/snoshoesledska/plexpod.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.PlexPod",
         "icon"            :     "icon-PlexPod.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/240335/rel-plexpod-release"
-	},
-	{
+    },
+    {
         "title"           :     "Plex Request Channel",
         "bundle"          :     "PlexRequestChannel.bundle",
         "type"            :     ["Application"],
@@ -989,7 +1034,7 @@
         "identifier"      :     "com.plexapp.plugins.plexrequestschannel",
         "icon"            :     "icon-plexrequestchannel.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/205378/plex-request-channel"
-	},
+    },
     {
         "title"           :     "Plex Tools",
         "bundle"          :     "PlexTools.bundle",
@@ -1056,19 +1101,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/226360"
     },
     {
-        "title"           :     "PrimeWire",
-        "bundle"          :     "lmwt-kiss.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "PrimeWire (formerly LetMeWatchThis), \"Keep It Simple, Stupid\"-version",
-        "repo"            :     "https://github.com/piplongrun/lmwt-kiss.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.lmwt.kiss",
-        "icon"            :     "icon-primewire.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/156136/rel-primewire"
-    },
-    {
         "title"           :     "rawrANIME.tv",
         "bundle"          :     "rawrANIME.bundle",
         "type"            :     ["Video"],
@@ -1080,19 +1112,6 @@
         "identifier"      :     "com.plexapp.plugins.rawranime",
         "icon"            :     "icon-rawranime.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/103120"
-    },
-    {
-        "title"           :     "Rainierland",
-        "bundle"          :     "Rainierland.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Movies and TV Shows from rainierland.com",
-        "repo"            :     "https://github.com/coder-alpha/Rainierland.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.rainierland",
-        "icon"            :     "icon-rainierland.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/165757"
     },
     {
         "title"           :     "RedTube",
@@ -1158,6 +1177,19 @@
         "identifier"      :     "com.plexapp.plugins.sbs",
         "icon"            :     "icon-sbs.png",
         "supporturl"      :     ""
+    },
+    {
+        "title"           :     "Scripps Network",
+        "bundle"          :     "Scripps.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch shows from Scripps Network websites including DIY, Cooking Channel, Travel Channel and Great American Country",
+        "repo"            :     "https://github.com/shopgirl284/Scripps.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.scripps",
+        "icon"            :     "icon-scripps.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/265875"
     },
     {
         "title"           :     "SF Kids Play",
@@ -1288,6 +1320,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/48412"
     },
     {
+        "title"           :     "StaticMedia",
+        "bundle"          :     "StaticMedia-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata Agent which stores static images as poster / background",
+        "repo"            :     "https://github.com/daeks/StaticMedia-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.staticmedia",
+        "icon"            :     "icon-dnetwork.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/241713"
+    },
+    {
         "title"           :     "Sveriges Radio Play (SE)",
         "bundle"          :     "SRPlay.bundle",
         "type"            :     ["Video"],
@@ -1301,6 +1346,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/182891/svensk-radio"
     },
     {
+        "title"           :     "The CW Seed",
+        "bundle"          :     "The-CWSeed.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch shows from the cwseed website",
+        "repo"            :     "https://github.com/shopgirl284/The-CWSeed.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.thecwseed",
+        "icon"            :     "icon-thecwseed.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/190569"
+    },
+    {
         "title"           :     "TheMovieClips plugin",
         "bundle"          :     "TheMovieClips.bundle",
         "type"            :     ["Video"],
@@ -1312,6 +1370,18 @@
         "identifier"      :     "com.plexapp.plugins.tmc",
         "icon"            :     "icon-tmc.png",
         "supporturl"      :     ""
+    },
+    {
+        "title"           :     "Trailer Addict",
+        "bundle"          :     "TrailerAddict.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Trailer Addict is a metadata agent for Plex Media Server that tries to find trailers, interviews and behind the scenes videos for your movie library. Trailer Addict works as a secondary agent for Plex Movie or The Movie Database.",
+        "repo"            :     "https://github.com/piplongrun/TrailerAddict.bundle",
+        "branch"          :     "master",
+        "release"         :     "TrailerAddict.zip",
+        "identifier"      :     "com.plexapp.agents.traileraddict",
+        "icon"            :     "icon-trailer-addict.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/253633"
     },
     {
         "title"           :     "Trakt.tv",
@@ -1401,19 +1471,6 @@
         "identifier"      :     "com.plexapp.plugins.viaplay",
         "icon"            :     "icon-viaplay.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/82378/viaplay-se-no-dk-fi"
-    },
-    {
-        "title"           :     "VH1",
-        "bundle"          :     "VH1.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from www.vh1.com",
-        "repo"            :     "https://github.com/shopgirl284/VH1.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.vh1",
-        "icon"            :     "icon-vh1.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/81709"
     },
     {
         "title"           :     "Videoprobki",
@@ -1506,19 +1563,6 @@
         "icon"            :     "icon-xbmcnfotvimporter.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
-	{
-        "title"           :     "XMovies8Org",
-        "bundle"          :     "XMovies8Org.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch High Quality HD Movies from xmovies8.org",
-        "repo"            :     "https://github.com/coder-alpha/XMovies8Org.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xmovies8org",
-        "icon"            :     "icon-xmovies8org.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/233261"
-    },
     {
         "title"           :     "xiami",
         "bundle"          :     "xiami.bundle",
@@ -1571,17 +1615,28 @@
         "icon"            :     "icon-youjizz.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/25870"
     },
-  {
-        "title"           :     "MST3K",
-        "bundle"          :     "mst3k.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Mystery Science Theater 3000 (MST3K) Episodes and Extras",
-        "repo"            :     "https://github.com/crowservo/mst3k.bundle",
+    {
+        "title"           :     "YouTube Metadata Agent",
+        "bundle"          :     "YouTube-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "A Metadata Agent for downloaded YouTube videos.",
+        "repo"            :     "https://github.com/sander1/YouTube-Agent.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.agents.youtube",
+        "icon"            :     "icon-youtube-agent.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/83106"
+    },
+    {
+        "title"           :     "4tube",
+        "bundle"          :     "4tube.bundle",
+        "type"            :     ["Video", "Adult"],
+        "description"     :     "Watch adult videos from 4tube.com",
+        "repo"            :     "https://github.com/bagotx/4tube.bundle",
+        "identifier"      :     "com.plexapp.plugins.4tube",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.mst3k",
-        "icon"            :     "icon-mst3k.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/251387/rel-mst3k-mystery-science-theater-3000/"
+        "icon"            :     "icon-4tube.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/266372"
     }
 ]
