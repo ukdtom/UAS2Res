@@ -1,5 +1,17 @@
 [
     {
+        "title"           :     "9anime",
+        "bundle"          :     "9anime.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Anime TV & Movies (quality ranges from 360p to 1080p) from 9anime.to",
+        "repo"            :     "https://github.com/Twoure/9anime.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.9anime",
+        "icon"            :     "icon-9anime.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/251439"
+    },
         "title"           :     "Adult DVD Empire Metadata Agent",
         "bundle"          :     "AdultDVDEmpire.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
