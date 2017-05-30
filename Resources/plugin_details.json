@@ -1102,19 +1102,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/226360"
     },
     {
-        "title"           :     "rawrANIME.tv",
-        "bundle"          :     "rawrANIME.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch HD subbed and dubbed anime from rawrANIME.tv",
-        "repo"            :     "https://github.com/TehCrucible/rawrANIME.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.rawranime",
-        "icon"            :     "icon-rawranime.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/103120"
-    },
-    {
         "title"           :     "RedTube",
         "bundle"          :     "RedTube.bundle",
         "type"            :     ["Video", "Adult"],
