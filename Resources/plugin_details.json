@@ -980,9 +980,7 @@
         "description"     :     "Metadata agent to retrieve film info from the Open Movie Database (English only!)",
         "repo"            :     "https://github.com/piplongrun/OpenMovieDatabase.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
+        "identifier"      :     "com.plexapp.agents.omdbapi",
         "icon"            :     "icon-uimdbama.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/21894/rel-open-movie-database"
     },
