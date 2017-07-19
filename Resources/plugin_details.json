@@ -1626,7 +1626,7 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/266372"
     },
     {
-        "title"           :     "Audiobook Metadata Agen",
+        "title"           :     "Audiobook Metadata Agent",
         "bundle"          :     "Audiobooks.bundle",
         "type"            :     ["Metadata Agent"],
         "description"     :     "A Metadata Agent for downloaded Audiobooks",
