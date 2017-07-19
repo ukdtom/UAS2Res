@@ -1624,5 +1624,18 @@
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-4tube.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/266372"
+    },
+    {
+        "title"           :     "Audiobook Metadata Agent",
+        "bundle"          :     "Audiobooks.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "A Metadata Agent for downloaded Audiobooks",
+        "repo"            :     "https://github.com/macr0dev/Audiobooks.bundle",
+        "identifier"      :     "com.plexapp.agents.audiobooks",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "icon"            :     "icon-audiobooks.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/280161/"
     }
 ]
