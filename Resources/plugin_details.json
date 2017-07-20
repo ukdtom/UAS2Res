@@ -948,6 +948,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/88165"
     },
     {
+        "title"           :     "NextPVR",
+        "bundle"          :     "NextPVR.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch live TV via TV tuners from NextPVR server",
+        "repo"            :     "https://github.com/psyciknz/Nextpvr.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.dcSoftware.plexapp.nextpvr",
+        "icon"            :     "icon-nextpvr.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/279721"
+    },
+    {
         "title"           :     "Newzworthy",
         "bundle"          :     "Newzworthy.bundle",
         "type"            :     ["Application", "Video"],
