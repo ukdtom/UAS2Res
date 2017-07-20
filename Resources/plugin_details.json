@@ -1,5 +1,18 @@
 [
     {
+        "title"           :     "9anime",
+        "bundle"          :     "9anime.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch Anime TV & Movies (quality ranges from 360p to 1080p) from 9anime.to",
+        "repo"            :     "https://github.com/Twoure/9anime.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.9anime",
+        "icon"            :     "icon-9anime.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/251439"
+    },
+    {
         "title"           :     "Adult DVD Empire Metadata Agent",
         "bundle"          :     "AdultDVDEmpire.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
@@ -403,7 +416,8 @@
         "identifier"      :     "com.plexapp.plugins.ExportTools",
         "icon"            :     "icon-exporttools.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/254248",
-        "popupmsg"	      :	    "This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki"
+        "popupmsg"	      :	    "This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki",
+				"manual"					:			"https://github.com/ukdtom/ExportTools.bundle/wiki"
     },
     {
         "title"           :     "Facebook",
@@ -966,9 +980,7 @@
         "description"     :     "Metadata agent to retrieve film info from the Open Movie Database (English only!)",
         "repo"            :     "https://github.com/piplongrun/OpenMovieDatabase.bundle",
         "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.agents.unofficialimdbapi",
+        "identifier"      :     "com.plexapp.agents.omdbapi",
         "icon"            :     "icon-uimdbama.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/21894/rel-open-movie-database"
     },
@@ -1086,19 +1098,6 @@
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-pornhub.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/226360"
-    },
-    {
-        "title"           :     "rawrANIME.tv",
-        "bundle"          :     "rawrANIME.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch HD subbed and dubbed anime from rawrANIME.tv",
-        "repo"            :     "https://github.com/TehCrucible/rawrANIME.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.rawranime",
-        "icon"            :     "icon-rawranime.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/103120"
     },
     {
         "title"           :     "RedTube",
@@ -1625,5 +1624,18 @@
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-4tube.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/266372"
+    },
+    {
+        "title"           :     "Audiobook Metadata Agent",
+        "bundle"          :     "Audiobooks.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "A Metadata Agent for downloaded Audiobooks",
+        "repo"            :     "https://github.com/macr0dev/Audiobooks.bundle",
+        "identifier"      :     "com.plexapp.agents.audiobooks",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "icon"            :     "icon-audiobooks.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/280161/"
     }
 ]
