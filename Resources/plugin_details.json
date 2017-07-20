@@ -954,6 +954,7 @@
         "description"     :     "Watch live TV via TV tuners from NextPVR server",
         "repo"            :     "https://github.com/psyciknz/Nextpvr.bundle",
         "branch"          :     "master",
+	"release"         :     "Nextpvr.bundle.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.dcSoftware.plexapp.nextpvr",
