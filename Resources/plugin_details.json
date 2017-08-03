@@ -26,6 +26,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/260610"
     },
     {
+        "title"           :     "Tommy UAS Test DEL App",
+        "bundle"          :     "UASTestDel.bundle",
+        "type"            :     ["Adult"],
+        "description"     :     "Tommy's UAS Test Bundle",
+        "repo"            :     "https://github.com/ukdtom/UASTestDel.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.UASTestDel",
+        "icon"            :     "icon-adultdvdempire.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/260610"
+    },
+    {
         "title"           :     "Adult DVD Empire Metadata Agent",
         "bundle"          :     "AdultDVDEmpire.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
