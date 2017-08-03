@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD
     {
         "title"           :     "9anime",
         "bundle"          :     "9anime.bundle",
@@ -12,6 +11,19 @@
         "identifier"      :     "com.plexapp.plugins.9anime",
         "icon"            :     "icon-9anime.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/251439"
+    },
+    {
+        "title"           :     "Tommy UAS Test App",
+        "bundle"          :     "UASTest.bundle",
+        "type"            :     ["Adult"],
+        "description"     :     "Tommy's UAS Test Bundle",
+        "repo"            :     "https://github.com/ukdtom/UASTest.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.UASTest",
+        "icon"            :     "icon-adultdvdempire.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/260610"
     },
     {
         "title"           :     "Adult DVD Empire Metadata Agent",
@@ -27,9 +39,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/260610"
     },
     {
-=======
-	    {
->>>>>>> 579d48a4f5e71286c1063f4088707eaf5acdd17e
         "title"           :     "AniDB.net Metadata Agent",
         "bundle"          :     "AniDB.bundle",
         "type"            :     ["Metadata Agent"],
@@ -42,7 +51,6 @@
         "icon"            :     "icon-anidb.png",
         "supporturl"      :     ""
     },
-
     {
         "title"           :     "ArgusTV",
         "bundle"          :     "ArgusTV-Agent.bundle",
@@ -1034,18 +1042,9 @@
         "description"     :     "A Plex Based Podcast aggregator",
         "repo"            :     "https://github.com/snoshoesledska/plexpod.bundle",
         "branch"          :     "master",
-<<<<<<< HEAD
         "identifier"      :     "com.plexapp.plugins.PlexPod",
         "icon"            :     "icon-PlexPod.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/240335/rel-plexpod-release"
-=======
-				"release"					:			"plex2csv.bundle-master.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.Plex2csv",
-        "icon"            :     "icon-plex2csv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/103115"
->>>>>>> 579d48a4f5e71286c1063f4088707eaf5acdd17e
     },
     {
         "title"           :     "Plex Request Channel",
