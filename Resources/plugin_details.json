@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
     {
         "title"           :     "9anime",
         "bundle"          :     "9anime.bundle",
@@ -26,6 +27,9 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/260610"
     },
     {
+=======
+	    {
+>>>>>>> 579d48a4f5e71286c1063f4088707eaf5acdd17e
         "title"           :     "AniDB.net Metadata Agent",
         "bundle"          :     "AniDB.bundle",
         "type"            :     ["Metadata Agent"],
@@ -38,6 +42,7 @@
         "icon"            :     "icon-anidb.png",
         "supporturl"      :     ""
     },
+
     {
         "title"           :     "ArgusTV",
         "bundle"          :     "ArgusTV-Agent.bundle",
@@ -404,21 +409,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/31889/excaliburfilms-agent"
     },
     {
-        "title"           :     "ExportTools",
+        "title"           :     "ExportTools for Plex",
         "bundle"          :     "ExportTools.bundle",
         "type"            :     ["Application"],
-        "description"     :     "Will export selected sections into a CSV or xlsx file",
+        "description"     :     "Export Plex Library to a csv or xlsx file",
         "repo"            :     "https://github.com/ukdtom/ExportTools.bundle",
-        "branch"          :     "master",
-        "release"         :     "ExportTools.bundle.zip",
+        "branch"          :     "tommy-work",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.ExportTools",
-        "icon"            :     "icon-exporttools.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/254248",
-        "popupmsg"	      :	    "This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it. To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki",
-				"manual"					:			"https://github.com/ukdtom/ExportTools.bundle/wiki"
-    },
+        "icon"            :     "icon-ExportTools.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/254248",
+	"popupmsg"	  :	"This tool is a replacement for Plex2CSV. If Plex2CSV is installed, please uninstall it.<br>To see further info, look here: https://github.com/ukdtom/ExportTools.bundle/wiki"
+    },	
     {
         "title"           :     "Facebook",
         "bundle"          :     "Facebook.bundle",
@@ -1031,9 +1034,18 @@
         "description"     :     "A Plex Based Podcast aggregator",
         "repo"            :     "https://github.com/snoshoesledska/plexpod.bundle",
         "branch"          :     "master",
+<<<<<<< HEAD
         "identifier"      :     "com.plexapp.plugins.PlexPod",
         "icon"            :     "icon-PlexPod.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/240335/rel-plexpod-release"
+=======
+				"release"					:			"plex2csv.bundle-master.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.Plex2csv",
+        "icon"            :     "icon-plex2csv.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/103115"
+>>>>>>> 579d48a4f5e71286c1063f4088707eaf5acdd17e
     },
     {
         "title"           :     "Plex Request Channel",
