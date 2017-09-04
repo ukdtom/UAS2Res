@@ -1651,5 +1651,18 @@
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-audiobooks.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/280161/"
+    },
+    {
+        "title"           :     "LazyMan",
+        "bundle"          :     "Lazyman.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch MLB and NHL games, recaps, and highlights",
+        "repo"            :     "https://github.com/unclenoriega/Lazyman.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.lazyman",
+        "icon"            :     "icon-lazyman.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/285881/"
     }
 ]
