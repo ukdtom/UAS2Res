@@ -1664,5 +1664,19 @@
         "identifier"      :     "com.plexapp.plugins.lazyman",
         "icon"            :     "icon-lazyman.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/285881/"
+    },
+    {
+        "title"           :     "TuneIn2017",
+        "bundle"          :     "TuneIn2017.bundle",
+        "type"            :     ["Music", "Social"],
+        "description"     :     "TuneIn-Plugin for the Plex Media Server",
+        "repo"            :     "https://github.com/rols1/TuneIn2017",
+        "branch"          :     "master",
+	"release"         :     "TuneIn2017.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.tunein2017",
+        "icon"            :     "icon-tunein2017.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/288260"
     }
 ]
