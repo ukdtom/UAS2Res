@@ -1657,7 +1657,7 @@
         "bundle"          :     "Lazyman.bundle",
         "type"            :     ["Video"],
         "description"     :     "Watch MLB and NHL games, recaps, and highlights",
-        "repo"            :     "https://github.com/unclenoriega/Lazyman.bundle",
+        "repo"            :     "https://github.com/nomego/Lazyman.bundle",
         "branch"          :     "master",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
