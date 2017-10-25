@@ -1678,5 +1678,18 @@
         "identifier"      :     "com.plexapp.plugins.tunein2017",
         "icon"            :     "icon-tunein2017.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/288260"
+    },
+    {
+        "title"           :     "Webhook",
+        "bundle"          :     "Webhook-Agent.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Webhook Agent which sends metadata payload to given URL",
+        "repo"            :     "https://github.com/daeks/Webhook-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.webhook",
+        "icon"            :     "icon-dnetwork.png",
+        "supporturl"      :     "http://forums.plex.tv/discussion/257668"
     }
 ]
