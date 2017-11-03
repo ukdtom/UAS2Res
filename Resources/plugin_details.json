@@ -550,6 +550,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/191118"
     },
     {
+        "title"           :     "HAWAII NEWS",
+        "bundle"          :     "HawaiiNews.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch local Hawai'i news channels live, when not live watch their latest broadcast. Also includes quick weather and traffic reports.",
+        "repo"            :     "https://github.com/kitsuneDEV/HawaiiNews.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     true,
+        "DeleteDataDir"   :     true,
+        "identifier"      :     "com.plexapp.plugins.hawaiinewschannels",
+        "icon"            :     "icon-HAWAIINEWS.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/294359/rel-hawaii-news-channel"
+    },
+    {
         "title"           :     "HDBits Subtitles",
         "bundle"          :     "HdbitsSubtitles.bundle",
         "type"            :     ["Metadata Agent", "Subtitles"],
@@ -973,6 +986,19 @@
         "identifier"      :     "com.plexapp.plugins.newzworthy",
         "icon"            :     "icon-newzworthy.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/23612/rel-newzworthy"
+    },
+    {
+        "title"           :     "NHK WORLD",
+        "bundle"          :     "NHKworld.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch NHK World 24 hour live stream, or watch any of the full episodes of NHK programs after they have been aired.",
+        "repo"            :     "https://github.com/kitsuneDEV/NHKworld.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     true,
+        "DeleteDataDir"   :     true,
+        "identifier"      :     "com.plexapp.plugins.NHKworld",
+        "icon"            :     "icon-NHKWORLD.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/294358/rel-nhk-world-live-vod"
     },
     {
         "title"           :     "Old Movie Time",
