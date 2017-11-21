@@ -1678,5 +1678,33 @@
         "identifier"      :     "com.plexapp.plugins.tunein2017",
         "icon"            :     "icon-tunein2017.jpg",
         "supporturl"      :     "https://forums.plex.tv/discussion/288260"
+    },
+    {
+        "title"           :     "Shoutcast2017",
+        "bundle"          :     "Shoutcast2017.bundle",
+        "type"            :     ["Music", "Social"],
+        "description"     :     "Shoutcast-Plugin for the Plex Media Server",
+        "repo"            :     "https://github.com/rols1/Shoutcast2017",
+        "branch"          :     "master",
+	"release"         :     "Shoutcast2017.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.shoutcast2017",
+        "icon"            :     "icon-shoutcast2017.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/296423/rel-shoutcast2017"
+    },
+    {
+        "title"           :     "TagesschauXL",
+        "bundle"          :     "Plex-Plugin-TagesschauXL.bundle",
+        "type"            :     ["Video", "Social", "Pictures"],
+        "description"     :     "Plex-Plugin for the german site www.tagesschau.de",
+        "repo"            :     "https://github.com/rols1/Plex-Plugin-TagesschauXL",
+        "branch"          :     "master",
+	"release"         :     "Plex-Plugin-TagesschauXL.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.tagesschauxl",
+        "icon"            :     "icon-tagesschau.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/257366/rel-tagesschauxl"
     }
 ]
