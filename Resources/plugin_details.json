@@ -770,6 +770,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/214461"
     },
     {
+        "title"           :     "libupdater",
+        "bundle"          :     "libupdater.bundle",
+        "type"            :     ["Application"],
+        "description"     :     "Control your media scanner from gui.",
+        "repo"            :     "https://github.com/Hellowlol/libupdater.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.libupdater",
+        "icon"            :     "icon-libupdate.png",
+        "supporturl"      :     "https://github.com/Hellowlol/libupdater.bundle/issues"
+    },
+    {
         "title"           :     "Library Updater",
         "bundle"          :     "LibraryUpdater.bundle",
         "type"            :     ["Application"],
