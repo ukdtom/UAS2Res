@@ -1746,5 +1746,18 @@
         "identifier"      :     "com.plexapp.plugins.tagesschauxl",
         "icon"            :     "icon-tagesschau.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/257366/rel-tagesschauxl"
-    }
-]
+    },
+    {
+        "title"           :     "Plex-Plugin-ARDMediathek2016",
+        "bundle"          :     "Plex-Plugin-ARDMediathek2016.bundle",
+        "type"            :     ["Video", "Social", "Pictures"],
+        "description"     :     "Inhalt: ARD-Mediathek, ZDF-Mediathek, Live-TV, Live-Radio, ARD-Podcasts, Downloads",
+        "repo"            :     "https://github.com/rols1/Plex-Plugin-ARDMediathek2016",
+        "branch"          :     "master",
+	"release"         :     "Plex-Plugin-ARDMediathek2016.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.ardmediathek2016",
+        "icon"            :     "icon-ard-mediathek.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/213947/rel-plex-plugin-ardmediathek2016"
+    }]
