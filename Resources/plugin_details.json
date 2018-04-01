@@ -1271,6 +1271,17 @@
         "supporturl"      :     ""
     },
     {
+        "title"           :     "Sonarr Metadata Agent",
+        "bundle"          :     "Sonarr.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "This agent requires you running Sonarr. It tries to add metadata from the Sonarr API in places where TheTVDB agent dropped the ball.",
+        "repo"            :     "https://github.com/piplongrun/Sonarr.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.agents.sonarr",
+        "icon"            :     "icon-sonarr.jpg",
+        "supporturl"      :     "http://forums.plex.tv/discussion/315850"
+    },
+    {
         "title"           :     "SpankBang",
         "bundle"          :     "SpankBang.bundle",
         "type"            :     ["Video", "Adult"],
@@ -1718,8 +1729,8 @@
         "identifier"      :     "com.plexapp.agents.webhook",
         "icon"            :     "icon-dnetwork.png",
         "supporturl"      :     "http://forums.plex.tv/discussion/257668"
-		},		
-		{
+    },		
+    {
         "title"           :     "Shoutcast2017",
         "bundle"          :     "Shoutcast2017.bundle",
         "type"            :     ["Music", "Social"],
