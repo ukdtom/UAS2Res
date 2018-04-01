@@ -1279,7 +1279,7 @@
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.sonarr",
         "icon"            :     "icon-sonarr.jpg",
-        "supporturl"      :     "http://forums.plex.tv/discussion/315850"
+        "supporturl"      :     "https://forums.plex.tv/discussion/315850"
     },
     {
         "title"           :     "SpankBang",
@@ -1728,7 +1728,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.webhook",
         "icon"            :     "icon-dnetwork.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/257668"
+        "supporturl"      :     "https://forums.plex.tv/discussion/257668"
     },		
     {
         "title"           :     "Shoutcast2017",
