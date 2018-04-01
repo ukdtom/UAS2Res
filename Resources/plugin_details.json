@@ -1278,7 +1278,7 @@
         "repo"            :     "https://github.com/piplongrun/Sonarr.bundle",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.sonarr",
-        "icon"            :     "icon-sonarr.jpg",
+        "icon"            :     "icon-sonarr.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/315850"
     },
     {
