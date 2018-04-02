@@ -968,7 +968,7 @@
         "description"     :     "Watch live TV via TV tuners from NextPVR server",
         "repo"            :     "https://github.com/psyciknz/Nextpvr.bundle",
         "branch"          :     "master",
-	"release"         :     "Nextpvr.bundle.zip",
+        "release"         :     "Nextpvr.bundle.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.dcSoftware.plexapp.nextpvr",
@@ -1269,6 +1269,17 @@
         "identifier"      :     "com.plexapp.plugins.somafm",
         "icon"            :     "icon-somafm.png",
         "supporturl"      :     ""
+    },
+    {
+        "title"           :     "Sonarr Metadata Agent",
+        "bundle"          :     "Sonarr.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "This agent requires you running Sonarr. It tries to add metadata from the Sonarr API in places where TheTVDB agent dropped the ball.",
+        "repo"            :     "https://github.com/piplongrun/Sonarr.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.agents.sonarr",
+        "icon"            :     "icon-sonarr.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/315850"
     },
     {
         "title"           :     "SpankBang",
@@ -1699,7 +1710,7 @@
         "description"     :     "TuneIn-Plugin for the Plex Media Server",
         "repo"            :     "https://github.com/rols1/TuneIn2017",
         "branch"          :     "master",
-	"release"         :     "TuneIn2017.bundle.zip",
+        "release"         :     "TuneIn2017.bundle.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.tunein2017",
@@ -1717,16 +1728,16 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.webhook",
         "icon"            :     "icon-dnetwork.png",
-        "supporturl"      :     "http://forums.plex.tv/discussion/257668"
-		},		
-		{
+        "supporturl"      :     "https://forums.plex.tv/discussion/257668"
+    },		
+    {
         "title"           :     "Shoutcast2017",
         "bundle"          :     "Shoutcast2017.bundle",
         "type"            :     ["Music", "Social"],
         "description"     :     "Shoutcast-Plugin for the Plex Media Server",
         "repo"            :     "https://github.com/rols1/Shoutcast2017",
         "branch"          :     "master",
-	"release"         :     "Shoutcast2017.bundle.zip",
+        "release"         :     "Shoutcast2017.bundle.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.shoutcast2017",
@@ -1740,7 +1751,7 @@
         "description"     :     "Plex-Plugin for the german site www.tagesschau.de",
         "repo"            :     "https://github.com/rols1/Plex-Plugin-TagesschauXL",
         "branch"          :     "master",
-	"release"         :     "Plex-Plugin-TagesschauXL.bundle.zip",
+        "release"         :     "Plex-Plugin-TagesschauXL.bundle.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.tagesschauxl",
@@ -1754,10 +1765,11 @@
         "description"     :     "Inhalt: ARD-Mediathek, ZDF-Mediathek, Live-TV, Live-Radio, ARD-Podcasts, Downloads",
         "repo"            :     "https://github.com/rols1/Plex-Plugin-ARDMediathek2016",
         "branch"          :     "master",
-	"release"         :     "Plex-Plugin-ARDMediathek2016.bundle.zip",
+        "release"         :     "Plex-Plugin-ARDMediathek2016.bundle.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.ardmediathek2016",
         "icon"            :     "icon-ard-mediathek.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/213947/rel-plex-plugin-ardmediathek2016"
-    }]
+    }
+]
