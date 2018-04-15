@@ -499,19 +499,6 @@
         "supporturl"      :     ""
     },
     {
-        "title"           :     "G2G.fm",
-        "bundle"          :     "G2Gfm.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch latest release movies and tv series in HD!",
-        "repo"            :     "https://github.com/TehCrucible/G2Gfm.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.g2gfm",
-        "icon"            :     "icon-g2gfm.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/111730"
-    },
-    {
         "title"           :     "Google Music",
         "bundle"          :     "GoogleMusic.bundle",
         "type"            :     ["Music"],
