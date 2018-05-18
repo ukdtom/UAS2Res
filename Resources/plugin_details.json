@@ -1128,6 +1128,17 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/226360"
     },
     {
+        "title"           :     "Radarr Metadata Agent",
+        "bundle"          :     "Radarr.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "This agent requires you running Radarr. It tries to add movie metadata from the Radarr API.",
+        "repo"            :     "https://github.com/piplongrun/Radarr.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.agents.radarr",
+        "icon"            :     "icon-radarr.png",
+        "supporturl"      :     "https://forums.plex.tv/discussion/321072"
+    },
+    {
         "title"           :     "RedTube",
         "bundle"          :     "RedTube.bundle",
         "type"            :     ["Video", "Adult"],
