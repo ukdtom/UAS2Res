@@ -247,19 +247,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/19595"
     },
     {
-        "title"           :     "Crunchyroll",
-        "bundle"          :     "Crunchyroll.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch over 20,000 episodes of popular Anime & Drama 1-Hour after TV broadcast from the website Crunchyroll.com.",
-        "repo"            :     "https://github.com/MattRK/Crunchyroll.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.crunchyroll",
-        "icon"            :     "icon-crunchyroll.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/73626"
-    },
-    {
         "title"           :     "Dabdate",
         "bundle"          :     "Dabdate.bundle",
         "type"            :     ["Video"],
