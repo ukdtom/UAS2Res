@@ -457,7 +457,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.fmoviesplus",
         "icon"            :     "icon-fmoviesplus.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/255348/"
+        "supporturl"      :     "https://github.com/coder-alpha/FMoviesPlus.bundle/wiki"
     },
     {
         "title"           :     "Footy Report",
@@ -484,6 +484,19 @@
         "identifier"      :     "com.plexapp.plugins.fullmoviesonreddit",
         "icon"            :     "icon-fullmoviesonreddit.png",
         "supporturl"      :     ""
+    },
+	{
+        "title"           :     "G2G.fm",
+        "bundle"          :     "G2Gfm.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "Watch content indexed by the site with many names",
+        "repo"            :     "https://github.com/coder-alpha/G2Gfm.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.g2gfm",
+        "icon"            :     "icon-g2gfm.png",
+        "supporturl"      :     "https://forums.plex.tv/t/rel-g2g-fm-watch-the-latest-release-hd-movies-and-tv-series/282300"
     },
     {
         "title"           :     "Google Music",
