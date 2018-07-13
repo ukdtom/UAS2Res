@@ -1759,13 +1759,13 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/213947/rel-plex-plugin-ardmediathek2016"
     },
     {
-        "title"           :     "Plex-Plugin-Flickr",
-        "bundle"          :     "Plex-Plugin-Flickr.bundle",
+        "title"           :     "FlickrExplorer",
+        "bundle"          :     "FlickrExplorer.bundle",
         "type"            :     ["Pictures"],
         "description"     :     "Browse and search public content on Flickr (Photostream, Galleries, Albums, Faves, People). Languages: German/English.",
-        "repo"            :     "https://github.com/rols1/Plex-Plugin-Flickr",
+        "repo"            :     "https://github.com/rols1/FlickrExplorer",
         "branch"          :     "master",
-        "release"         :     "Plex-Plugin-Flickr.bundle.zip",
+        "release"         :     "FlickrExplorer.bundle.zip",
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.flickr",
