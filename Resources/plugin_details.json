@@ -1757,5 +1757,19 @@
         "identifier"      :     "com.plexapp.plugins.ardmediathek2016",
         "icon"            :     "icon-ard-mediathek.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/213947/rel-plex-plugin-ardmediathek2016"
+    },
+    {
+        "title"           :     "FlickrExplorer",
+        "bundle"          :     "FlickrExplorer.bundle",
+        "type"            :     ["Pictures"],
+        "description"     :     "Browse and search public content on Flickr (Photostream, Galleries, Albums, Faves, People). Languages: German/English.",
+        "repo"            :     "https://github.com/rols1/FlickrExplorer",
+        "branch"          :     "master",
+        "release"         :     "FlickrExplorer.bundle.zip",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.plugins.flickr",
+        "icon"            :     "icon-flickr.png",
+        "supporturl"      :     "https://forums.plex.tv/t/rel-plex-plugin-flickr/154804"
     }
 ]
