@@ -496,7 +496,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.plugins.g2gfm",
         "icon"            :     "icon-g2gfm.png",
-        "supporturl"      :     "https://forums.plex.tv/t/rel-g2g-fm-watch-the-latest-release-hd-movies-and-tv-series/282300"
+        "supporturl"      :     "https://github.com/coder-alpha/G2Gfm.bundle/issues"
     },
     {
         "title"           :     "Google Music",
