@@ -525,6 +525,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/109611/rel-grooveshark-channel"
     },
     {
+        "title"           :     "HTTP AniDB Metadata Agent",
+        "bundle"          :     "Hama.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata agent that back up Plex metadata locally along video and audio files",
+        "repo"            :     "https://github.com/ZeroQI/Hama.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.hama",
+        "icon"            :     "icon-hama.png",
+        "supporturl"      :     "https://forums.plex.tv/t/rel-http-anidb-metadata-agent-hama/40470"
+    },
+    {
         "title"           :     "HanimeTV",
         "bundle"          :     "HanimeTV.bundle",
         "type"            :     ["Video", "Adult"],
@@ -807,6 +820,19 @@
         "identifier"      :     "com.plexapp.plugins.liveleak",
         "icon"            :     "icon-liveleak.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/72180/rel-liveleak"
+    },
+    {
+        "title"           :     "Local Assets-Metadata Backup Double Agent",
+        "bundle"          :     "Lambda.bundle",
+        "type"            :     ["Agent"],
+        "description"     :     "Metadata agent that back up Plex metadata locally along video and audio files",
+        "repo"            :     "https://github.com/ZeroQI/Lambda.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.lambda",
+        "icon"            :     "icon-lambda.png",
+        "supporturl"      :     "https://forums.plex.tv/t/rel-lambda-local-assets-metadata-double-agent-for-plex-metadata-export/295681"
     },
     {
         "title"           :     "Mangafox",
@@ -1647,6 +1673,17 @@
         "type"            :     ["Metadata Agent"],
         "description"     :     "A Metadata Agent for downloaded YouTube videos.",
         "repo"            :     "https://github.com/sander1/YouTube-Agent.bundle",
+        "branch"          :     "master",
+        "identifier"      :     "com.plexapp.agents.youtube",
+        "icon"            :     "icon-youtube-agent.jpg",
+        "supporturl"      :     "https://forums.plex.tv/discussion/83106"
+    },
+    {
+        "title"           :     "YouTube Series and Movies Metadata Agent",
+        "bundle"          :     "YouTube-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "A Metadata Agent for downloaded YouTube videos, video id in filename, support channel/playlist id in foldername",
+        "repo"            :     "https://github.com/ZeroQI/YouTube-Agent.bundle",
         "branch"          :     "master",
         "identifier"      :     "com.plexapp.agents.youtube",
         "icon"            :     "icon-youtube-agent.jpg",
