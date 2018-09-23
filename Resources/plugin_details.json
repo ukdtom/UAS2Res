@@ -1348,17 +1348,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/94864"
     },
     {
-        "title"           :     "SS Plex",
-        "bundle"          :     "ss-plex.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Movies and TV Shows from Icefilms, Watch Series, 1channel and more.",
-        "repo"            :     "https://github.com/mikew/ss-plex.bundle",
-        "branch"          :     "stable",
-        "identifier"      :     "com.plexapp.plugins.wso",
-        "icon"            :     "icon-ss-plex.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/48412"
-    },
-    {
         "title"           :     "StaticMedia",
         "bundle"          :     "StaticMedia-Agent.bundle",
         "type"            :     ["Metadata Agent"],
