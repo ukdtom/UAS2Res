@@ -1387,19 +1387,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/190569"
     },
     {
-        "title"           :     "TFC - The Filipino Channel",
-        "bundle"          :     "The-Filipino-Channel.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Full access to TFC.tv (requires a valid TFC.tv subscription)",
-        "repo"            :     "https://github.com/magnuslsjoberg/The-Filipino-Channel.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.tfctv",
-        "icon"            :     "icon-tfctv.png",
-        "supporturl"      :     "https://forums.plex.tv/t/rel-tfc-the-filipino-channel/286219"
-    },
-    {
         "title"           :     "TheMovieClips plugin",
         "bundle"          :     "TheMovieClips.bundle",
         "type"            :     ["Video"],
