@@ -131,6 +131,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/221307/rel-cmore-se-no-dk"
     },
     {
+        "title"           :     "CBS",
+        "bundle"          :     "CBS.bundle",
+        "type"            :     ["Video"],
+        "description"     :     "The CBS plugin gives you access to episodes from several CBS shows that are available for free and without a provider login.",
+        "repo"            :     "https://github.com/sander1/CBS.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "sander1.plexplugins.cbs",
+        "icon"            :     "icon-cbs.jpg",
+        "supporturl"      :     "https://forums.plex.tv/t/rel-cbs-plugin/235066"
+    },
+    {
         "title"           :     "cCloud TV",
         "bundle"          :     "CcloudTv.bundle",
         "type"            :     ["Video", "Music"],
