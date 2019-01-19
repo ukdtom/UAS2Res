@@ -235,18 +235,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/200827"
     },
     {
-        "title"           :     "Common Sense Media",
-        "bundle"          :     "CSM.bundle",
-        "type"            :     ["Metadata Agent"],
-        "description"     :     "Common Sense Media is a metadata agent for Plex Media Server that adds their recommended age as content rating. It will optionally add a short description as tagline and the Common Sense movie review to reviews.",
-        "repo"            :     "https://github.com/piplongrun/CSM.bundle",
-        "branch"          :     "master",
-        "release"         :     "CSM.zip",
-        "identifier"      :     "com.plexapp.agents.csm",
-        "icon"            :     "icon-csm.jpg",
-        "supporturl"      :     "https://forums.plex.tv/discussion/257947"
-    },
-    {
         "title"           :     "CouchPotato",
         "bundle"          :     "CouchPotato.bundle",
         "type"            :     ["Application", "Video"],
@@ -1029,17 +1017,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/103657/rel-oldmovietime-com"
     },
     {
-        "title"           :     "Open Movie Database",
-        "bundle"          :     "OpenMovieDatabase.bundle",
-        "type"            :     ["Metadata Agent"],
-        "description"     :     "Metadata agent to retrieve film info from the Open Movie Database (English only!)",
-        "repo"            :     "https://github.com/piplongrun/OpenMovieDatabase.bundle",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.agents.omdbapi",
-        "icon"            :     "icon-uimdbama.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/21894/rel-open-movie-database"
-    },
-    {
         "title"           :     "ORF TVThek(AT)",
         "bundle"          :     "ORFTVThek.bundle",
         "type"            :     ["Video"],
@@ -1142,17 +1119,6 @@
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-pornhub.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/226360"
-    },
-    {
-        "title"           :     "Radarr Metadata Agent",
-        "bundle"          :     "Radarr.bundle",
-        "type"            :     ["Metadata Agent"],
-        "description"     :     "This agent requires you running Radarr. It tries to add movie metadata from the Radarr API.",
-        "repo"            :     "https://github.com/piplongrun/Radarr.bundle",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.agents.radarr",
-        "icon"            :     "icon-radarr.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/321072"
     },
     {
         "title"           :     "RedTube",
@@ -1283,17 +1249,6 @@
         "identifier"      :     "com.plexapp.plugins.somafm",
         "icon"            :     "icon-somafm.png",
         "supporturl"      :     ""
-    },
-    {
-        "title"           :     "Sonarr Metadata Agent",
-        "bundle"          :     "Sonarr.bundle",
-        "type"            :     ["Metadata Agent"],
-        "description"     :     "This agent requires you running Sonarr. It tries to add metadata from the Sonarr API in places where TheTVDB agent dropped the ball.",
-        "repo"            :     "https://github.com/piplongrun/Sonarr.bundle",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.agents.sonarr",
-        "icon"            :     "icon-sonarr.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/315850"
     },
     {
         "title"           :     "SpankBang",
