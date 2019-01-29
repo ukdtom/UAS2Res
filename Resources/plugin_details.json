@@ -422,6 +422,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/21092"
     },
     {
+        "title"           :     "Fanart.tv Agent (sander1)",
+        "bundle"          :     "Fanart-TV-Agent.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Fanart.tv is a community driven website providing fanart for TV shows, movies and artists.",
+        "repo"            :     "https://github.com/sander1/Fanart-TV-Agent.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "sander1.plexagents.fanarttv",
+        "icon"            :     "icon-fanarttv.png",
+        "supporturl"      :     "https://github.com/sander1/Fanart-TV-Agent.bundle/issues"
+    },
+    {
         "title"           :     "FilmOn",
         "bundle"          :     "FilmOn.bundle",
         "type"            :     ["Video"],
