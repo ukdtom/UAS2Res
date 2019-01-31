@@ -920,9 +920,9 @@
         "description"     :     "Dutch movie titles, summaries and genres by MovieMeter",
         "repo"            :     "https://github.com/sander1/MovieMeter.bundle",
         "branch"          :     "master",
-        "identifier"      :     "com.plexapp.agents.moviemeter",
+        "identifier"      :     "sander1.plexagents.moviemeter",
         "icon"            :     "icon-moviemeter.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/17164"
+        "supporturl"      :     "https://github.com/sander1/MovieMeter.bundle/issues"
     },
     {
         "title"           :     "MST3K",
