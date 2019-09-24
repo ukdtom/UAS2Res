@@ -14,3 +14,6 @@
 * Chaturbate
 * Christian Science
 * ClipHunter / PicHunter
+* CouchPotato
+* Dabdate
+* Democracy Now

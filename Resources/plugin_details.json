@@ -52,32 +52,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/257650"
     },
     {
-        "title"           :     "CouchPotato",
-        "bundle"          :     "CouchPotato.bundle",
-        "type"            :     ["Application", "Video"],
-        "description"     :     "View, edit and add to your CouchPotato wanted list.",
-        "repo"            :     "https://github.com/mikedm139/CouchPotato.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.couchpotato",
-        "icon"            :     "icon-couchpotato.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/19595"
-    },
-    {
-        "title"           :     "Dabdate",
-        "bundle"          :     "Dabdate.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch Korean TV shows from dabdate.com",
-        "repo"            :     "https://github.com/hojel/Dabdate.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.dabdate",
-        "icon"            :     "icon-dabdate.png",
-        "supporturl"      :     ""
-    },
-    {
         "title"           :     "Data18 Metadata Agent",
         "bundle"          :     "Data18.bundle",
         "type"            :     ["Metadata Agent", "Adult"],
@@ -102,19 +76,6 @@
         "identifier"      :     "com.plexapp.agents.data18-content",
         "icon"            :     "icon-data18-content.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/66061/adult-data18-com-metadata-agent-release"
-    },
-    {
-        "title"           :     "Democracy Now",
-        "bundle"          :     "DemocracyNow.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch shows from the Democracy Now website",
-        "repo"            :     "https://github.com/shopgirl284/DemocracyNow.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.democracynow",
-        "icon"            :     "icon-democracynow.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/257536"
     },
     {
         "title"           :     "Desi Telly",
