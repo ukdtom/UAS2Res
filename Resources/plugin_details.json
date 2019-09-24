@@ -39,19 +39,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/257004"
     },
     {
-        "title"           :     "Channel10 (AU)",
-        "bundle"          :     "Channel10.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "View Australian TV Channel 10 on demand ",
-        "repo"            :     "https://github.com/adamrumbold/Channel10.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.channel10",
-        "icon"            :     "icon-ten.png",
-        "supporturl"      :     ""
-    },
-    {
         "title"           :     "Chapter Metadata Agent",
         "bundle"          :     "Chapter-Agent.bundle",
         "type"            :     ["Metadata Agent"],
@@ -63,45 +50,6 @@
         "identifier"      :     "com.plexapp.agents.chapter",
         "icon"            :     "icon-dnetwork.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/257650"
-    },
-    {
-        "title"           :     "Chaturbate",
-        "bundle"          :     "Chaturbate.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch Free Adult Live Cams from chaturbate.com",
-        "repo"            :     "https://github.com/Nosinden/Chaturbate.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.chaturbate",
-        "icon"            :     "icon-chaturbate.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/191119"
-    },
-    {
-        "title"           :     "Christian Science",
-        "bundle"          :     "ChristianScience.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Lectures, church services and other media about Christian Science",
-        "repo"            :     "https://github.com/datvance/ChristianScience.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.christianscience",
-        "icon"            :     "icon-christianscience.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "ClipHunter / PicHunter",
-        "bundle"          :     "ClipHunter.bundle",
-        "type"            :     ["Video", "Pictures", "Adult"],
-        "description"     :     "Watch/View content from cliphunter.com and pichunter.com",
-        "repo"            :     "https://github.com/Nosinden/ClipHunter.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.cliphunter",
-        "icon"            :     "icon-cliphunter.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/200827"
     },
     {
         "title"           :     "CouchPotato",

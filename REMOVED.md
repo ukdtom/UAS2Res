@@ -1,4 +1,4 @@
-# Due to EOL of plugins, the following was removed from UAS:
+# Due to EOL of plugins, the following was removed from UAS
 
 * 9anime
 * ATV MediaThek(AT)
@@ -10,3 +10,7 @@
 * CBS
 * cCloud TV
 * Channel9 (AU)
+* Channel10 (AU)
+* Chaturbate
+* Christian Science
+* ClipHunter / PicHunter
