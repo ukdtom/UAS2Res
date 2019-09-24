@@ -17,3 +17,9 @@
 * CouchPotato
 * Dabdate
 * Democracy Now
+* Desi Telly
+* Discovery Networks
+* Dropbox
+* eFukt
+* Einthusan
+
