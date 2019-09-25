@@ -161,19 +161,6 @@
         "supporturl"      :     "https://forums.plex.tv/t/rel-http-anidb-metadata-agent-hama/40470"
     },
     {
-        "title"           :     "HAWAII NEWS",
-        "bundle"          :     "HawaiiNews.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch local Hawai'i news channels live, when not live watch their latest broadcast. Also includes quick weather and traffic reports.",
-        "repo"            :     "https://github.com/kitsuneDEV/HawaiiNews.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     true,
-        "DeleteDataDir"   :     true,
-        "identifier"      :     "com.plexapp.plugins.hawaiinewschannels",
-        "icon"            :     "icon-HAWAIINEWS.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/294359/rel-hawaii-news-channel"
-    },
-    {
         "title"           :     "HDBits Subtitles",
         "bundle"          :     "HdbitsSubtitles.bundle",
         "type"            :     ["Metadata Agent", "Subtitles"],
@@ -184,69 +171,6 @@
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
         "icon"            :     "icon-hdbits.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "HDSerials",
-        "bundle"          :     "HDSerials.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch TV shows, movies in Russian from HDSerials.tv",
-        "repo"            :     "https://github.com/kolsys/HDSerials.bundle",
-        "identifier"      :     "com.plexapp.plugins.hdserials",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "icon"            :     "icon-hdserials.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/124354"
-    },
-    {
-        "title"           :     "HDHR Viewer 2",
-        "bundle"          :     "HDHRViewerV2.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "HDHR Viewer 2 aka HDHomeRun Viewer - Watch Live TV with HDHomeRun",
-        "repo"            :     "https://github.com/zynine-/HDHRViewerV2.bundle",
-        "identifier"      :     "com.plexapp.plugins.hdhrviewer.v2",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "icon"            :     "icon-hdhrviewer2.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/101755"
-    },
-    {
-        "title"           :     "HD Streaming",
-        "bundle"          :     "HDStreaming.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch streams from the HD Streaming website",
-        "repo"            :     "https://github.com/papalozarou/HDStreaming.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.hdstreaming",
-        "icon"            :     "icon-hdstreaming.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/117176/rel-news-source-tv-hd-streaming-tv-plugin"
-    },
-    {
-        "title"           :     "Hitbox.tv",
-        "bundle"          :     "Hitbox.tv.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Allows streaming of Hitbox.tv live streams",
-        "repo"            :     "https://github.com/r15ch13/Hitbox.tv.bundle",
-        "identifier"      :     "com.plexapp.plugins.hitboxtv",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "icon"            :     "icon-hitboxtv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/115411/rel-hitbox-tv-plugin"
-    },
-    {
-        "title"           :     "IMDb Trailers",
-        "bundle"          :     "IMDb-Trailers.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch movie trailers from IMDb in HD",
-        "repo"            :     "https://github.com/sander1/IMDb-Trailers.bundle",
-        "branch"          :     "master",
-        "identifier"      :     "com.plexapp.plugins.imdbtrailers",
-        "icon"            :     "icon-imdb-trailers.png",
         "supporturl"      :     ""
     },
     {
