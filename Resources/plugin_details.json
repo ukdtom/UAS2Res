@@ -122,19 +122,6 @@
         "manual"            :   "https://github.com/ukdtom/ExportTools.bundle/wiki"
     },
     {
-        "title"           :     "Facebook",
-        "bundle"          :     "Facebook.bundle",
-        "type"            :     ["Pictures", "Social"],
-        "description"     :     "View newsfeed and photos from Facebook",
-        "repo"            :     "https://github.com/DCstewieG/Facebook.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.facebook",
-        "icon"            :     "icon-facebook.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/21092"
-    },
-    {
         "title"           :     "Fanart.tv Agent (sander1)",
         "bundle"          :     "Fanart-TV-Agent.bundle",
         "type"            :     ["Metadata Agent"],
@@ -146,19 +133,6 @@
         "identifier"      :     "sander1.plexagents.fanarttv",
         "icon"            :     "icon-fanarttv.png",
         "supporturl"      :     "https://github.com/sander1/Fanart-TV-Agent.bundle/issues"
-    },
-    {
-        "title"           :     "FilmOn",
-        "bundle"          :     "FilmOn.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch over 600 Free Live TV Channels",
-        "repo"            :     "https://github.com/meriko/FilmOn.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.filmon",
-        "icon"            :     "icon-filmon.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/47650"
     },
     {
         "title"           :     "FindMissing",
@@ -174,84 +148,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/95148"
     },
     {
-        "title"           :     "FMoviesPlus",
-        "bundle"          :     "FMoviesPlus.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "High Quality HD Movies & TV-Series from FMovies",
-        "repo"            :     "https://github.com/coder-alpha/FMoviesPlus.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.fmoviesplus",
-        "icon"            :     "icon-fmoviesplus.png",
-        "supporturl"      :     "https://github.com/coder-alpha/FMoviesPlus.bundle/wiki"
-    },
-    {
-        "title"           :     "Footy Report",
-        "bundle"          :     "FootyReport.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch streams from the Footy Report website",
-        "repo"            :     "https://github.com/papalozarou/FootyReport.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.footyreport",
-        "icon"            :     "icon-footyreport.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/117176/rel-news-source-tv-hd-streaming-tv-plugin"
-    },
-    {
-        "title"           :     "Full Movies on Reddit",
-        "bundle"          :     "FullMoviesOnReddit.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch full movies found on /r/fullmoviesonyoutube",
-        "repo"            :     "https://github.com/jwdempsey/FullMoviesOnReddit.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.fullmoviesonreddit",
-        "icon"            :     "icon-fullmoviesonreddit.png",
-        "supporturl"      :     ""
-    },
-	{
-        "title"           :     "G2G.fm",
-        "bundle"          :     "G2Gfm.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch content indexed by the site with many names",
-        "repo"            :     "https://github.com/coder-alpha/G2Gfm.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.g2gfm",
-        "icon"            :     "icon-g2gfm.png",
-        "supporturl"      :     "https://github.com/coder-alpha/G2Gfm.bundle/issues"
-    },
-    {
-        "title"           :     "Google Music",
-        "bundle"          :     "GoogleMusic.bundle",
-        "type"            :     ["Music"],
-        "description"     :     "Stream music from Google Music",
-        "repo"            :     "https://github.com/jwdempsey/GoogleMusic.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.googlemusic",
-        "icon"            :     "icon-googlemusic.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/110896/rel-google-music-channel"
-    },
-    {
-        "title"           :     "Grooveshark",
-        "bundle"          :     "Grooveshark.bundle",
-        "type"            :     ["Music"],
-        "description"     :     "Stream music from Grooveshark.com",
-        "repo"            :     "https://github.com/jwdempsey/Grooveshark.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.grooveshark",
-        "icon"            :     "icon-grooveshark.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/109611/rel-grooveshark-channel"
-    },
-    {
         "title"           :     "HTTP AniDB Metadata Agent",
         "bundle"          :     "Hama.bundle",
         "type"            :     ["Metadata Agent"],
@@ -263,19 +159,6 @@
         "identifier"      :     "com.plexapp.agents.hama",
         "icon"            :     "icon-hama.png",
         "supporturl"      :     "https://forums.plex.tv/t/rel-http-anidb-metadata-agent-hama/40470"
-    },
-    {
-        "title"           :     "HanimeTV",
-        "bundle"          :     "HanimeTV.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch Free HD Hentai videos (quality ranges from 360p to 720p) from hanime.tv",
-        "repo"            :     "https://github.com/Nosinden/HanimeTV.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.hanimetv",
-        "icon"            :     "icon-hanimetv.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/191118"
     },
     {
         "title"           :     "HAWAII NEWS",
