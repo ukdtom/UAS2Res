@@ -417,58 +417,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/38402/metadata-agents-for-exported-xbmc-library"
     },
     {
-        "title"           :     "xiami",
-        "bundle"          :     "xiami.bundle",
-        "type"            :     ["Music"],
-        "description"     :     "Stream music from xiami.com",
-        "repo"            :     "https://github.com/hojel/xiami.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xiami",
-        "icon"            :     "icon-xiami.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "xkcd",
-        "bundle"          :     "xkcd.bundle",
-        "type"            :     ["Pictures"],
-        "description"     :     "Strips from xkcd website",
-        "repo"            :     "https://github.com/sengian/xkcd.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xkcd",
-        "icon"            :     "icon-xkcd.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "XNXX",
-        "bundle"          :     "XNXX.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch XXX-Videos from XNXX.COM",
-        "repo"            :     "https://github.com/flownex/XNXX.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.xnxx",
-        "icon"            :     "icon-xnxx.png",
-        "supporturl"      :     ""
-    },
-    {
-        "title"           :     "YouJizz",
-        "bundle"          :     "YouJizz.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch XXX-Videos from YouJizz.com",
-        "repo"            :     "https://github.com/flownex/YouJizz.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.youjizz",
-        "icon"            :     "icon-youjizz.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/25870"
-    },
-    {
         "title"           :     "YouTube Metadata Agent",
         "bundle"          :     "YouTube-Agent.bundle",
         "type"            :     ["Metadata Agent"],
@@ -491,19 +439,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/83106"
     },
     {
-        "title"           :     "4tube",
-        "bundle"          :     "4tube.bundle",
-        "type"            :     ["Video", "Adult"],
-        "description"     :     "Watch adult videos from 4tube.com",
-        "repo"            :     "https://github.com/bagotx/4tube.bundle",
-        "identifier"      :     "com.plexapp.plugins.4tube",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "icon"            :     "icon-4tube.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/266372"
-    },
-    {
         "title"           :     "Audiobook Metadata Agent",
         "bundle"          :     "Audiobooks.bundle",
         "type"            :     ["Metadata Agent"],
@@ -517,33 +452,6 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/280161/"
     },
     {
-        "title"           :     "LazyMan",
-        "bundle"          :     "Lazyman.bundle",
-        "type"            :     ["Video"],
-        "description"     :     "Watch MLB and NHL games, recaps, and highlights",
-        "repo"            :     "https://github.com/nomego/Lazyman.bundle",
-        "branch"          :     "master",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.lazyman",
-        "icon"            :     "icon-lazyman.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/285881/"
-    },
-    {
-        "title"           :     "TuneIn2017",
-        "bundle"          :     "TuneIn2017.bundle",
-        "type"            :     ["Music", "Social"],
-        "description"     :     "TuneIn-Plugin for the Plex Media Server",
-        "repo"            :     "https://github.com/rols1/TuneIn2017",
-        "branch"          :     "master",
-        "release"         :     "TuneIn2017.bundle.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.tunein2017",
-        "icon"            :     "icon-tunein2017.jpg",
-        "supporturl"      :     "https://forums.plex.tv/discussion/288260"
-    },
-    {
         "title"           :     "Webhook",
         "bundle"          :     "Webhook-Agent.bundle",
         "type"            :     ["Application"],
@@ -555,61 +463,5 @@
         "identifier"      :     "com.plexapp.agents.webhook",
         "icon"            :     "icon-dnetwork.png",
         "supporturl"      :     "https://forums.plex.tv/discussion/257668"
-    },		
-    {
-        "title"           :     "Shoutcast2017",
-        "bundle"          :     "Shoutcast2017.bundle",
-        "type"            :     ["Music", "Social"],
-        "description"     :     "Shoutcast-Plugin for the Plex Media Server",
-        "repo"            :     "https://github.com/rols1/Shoutcast2017",
-        "branch"          :     "master",
-        "release"         :     "Shoutcast2017.bundle.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.shoutcast2017",
-        "icon"            :     "icon-shoutcast2017.jpg",
-        "supporturl"      :     "https://forums.plex.tv/discussion/296423/rel-shoutcast2017"
-    },
-    {
-        "title"           :     "TagesschauXL",
-        "bundle"          :     "Plex-Plugin-TagesschauXL.bundle",
-        "type"            :     ["Video", "Social", "Pictures"],
-        "description"     :     "Plex-Plugin for the german site www.tagesschau.de",
-        "repo"            :     "https://github.com/rols1/Plex-Plugin-TagesschauXL",
-        "branch"          :     "master",
-        "release"         :     "Plex-Plugin-TagesschauXL.bundle.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.tagesschauxl",
-        "icon"            :     "icon-tagesschau.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/257366/rel-tagesschauxl"
-    },
-    {
-        "title"           :     "Plex-Plugin-ARDMediathek2016",
-        "bundle"          :     "Plex-Plugin-ARDMediathek2016.bundle",
-        "type"            :     ["Video", "Social", "Pictures"],
-        "description"     :     "Inhalt: ARD-Mediathek, ZDF-Mediathek, Live-TV, Live-Radio, ARD-Podcasts, Downloads",
-        "repo"            :     "https://github.com/rols1/Plex-Plugin-ARDMediathek2016",
-        "branch"          :     "master",
-        "release"         :     "Plex-Plugin-ARDMediathek2016.bundle.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.ardmediathek2016",
-        "icon"            :     "icon-ard-mediathek.png",
-        "supporturl"      :     "https://forums.plex.tv/discussion/213947/rel-plex-plugin-ardmediathek2016"
-    },
-    {
-        "title"           :     "FlickrExplorer",
-        "bundle"          :     "FlickrExplorer.bundle",
-        "type"            :     ["Pictures"],
-        "description"     :     "Browse and search public content on Flickr (Photostream, Galleries, Albums, Faves, People). Languages: German/English.",
-        "repo"            :     "https://github.com/rols1/FlickrExplorer",
-        "branch"          :     "master",
-        "release"         :     "FlickrExplorer.bundle.zip",
-        "DeleteCacheDir"  :     false,
-        "DeleteDataDir"   :     false,
-        "identifier"      :     "com.plexapp.plugins.flickr",
-        "icon"            :     "icon-flickr.png",
-        "supporturl"      :     "https://forums.plex.tv/t/rel-plex-plugin-flickr/154804"
     }
 ]
