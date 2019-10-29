@@ -148,6 +148,19 @@
         "supporturl"      :     "https://forums.plex.tv/discussion/95148"
     },
     {
+        "title"           :     "Namez Metadata Agent",
+        "bundle"          :     "Namez.bundle",
+        "type"            :     ["Metadata Agent"],
+        "description"     :     "Metadata agent loads actors, studios, sites and more from parsing file names",
+        "repo"            :     "https://github.com/electblake/Namez.bundle",
+        "branch"          :     "master",
+        "DeleteCacheDir"  :     false,
+        "DeleteDataDir"   :     false,
+        "identifier"      :     "com.plexapp.agents.namez",
+        "icon"            :     "icon-namez.png",
+        "supporturl"      :     "https://github.com/electblake/Namez.bundle/issues"
+    },
+    {
         "title"           :     "HTTP AniDB Metadata Agent",
         "bundle"          :     "Hama.bundle",
         "type"            :     ["Metadata Agent"],
