@@ -158,7 +158,7 @@
         "DeleteDataDir"   :     false,
         "identifier"      :     "com.plexapp.agents.namez",
         "icon"            :     "icon-namez.png",
-        "supporturl"      :     ""
+        "supporturl"      :     "https://github.com/electblake/Namez.bundle/issues"
     },
     {
         "title"           :     "HTTP AniDB Metadata Agent",
